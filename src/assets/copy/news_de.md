@@ -1,4 +1,4 @@
-## News
+## NEWS
 
 Weindinner  
 mit Stefan Vetter  
