@@ -17,10 +17,11 @@ WITH SMOKED LEEK
 bouillon of leek and oregano  
 <br>
 <br>
-BLACK SEABREAM WITH CASSOULET OF BEANS  
+BLACK SEABREAM WITH  
+CASSOULET OF BEANS  
 jus de tomates jaunes  
 <br>
-OR*  
+or  
 <br>
 BRAISED VEAL WITH ROSCOFF ONION  
 smoked eel and romaine lettuce  
@@ -39,6 +40,6 @@ salted caramel ice
 6 Courses 92 Euro  
 7 Courses 100 Euro  
   
-* BLACK SEABREAM AS ENTREE  
+° BLACK SEABREAM AS ENTREE  
 +12 Euro 
 
