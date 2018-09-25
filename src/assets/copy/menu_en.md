@@ -41,5 +41,8 @@ salted caramel ice
 7 Courses 100 Euro  
   
 & BLACK SEABREAM AS ENTREE  
-+12 Euro 
++12 Euro  
+<br>
+<br>
+* all prices incl. VAT
 
