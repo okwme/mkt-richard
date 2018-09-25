@@ -1,6 +1,6 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 
-MOZARELLA DI BUFALA    
+MOZZARELLA DI BUFALA    
 mit Aubergine, Gurke und Zitrone  
 <br>
 <br>
