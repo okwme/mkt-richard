@@ -40,6 +40,6 @@ salted caramel ice
 6 Courses 92 Euro  
 7 Courses 100 Euro  
   
-° BLACK SEABREAM AS ENTREE  
+& BLACK SEABREAM AS ENTREE  
 +12 Euro 
 
