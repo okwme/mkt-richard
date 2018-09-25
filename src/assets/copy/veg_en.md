@@ -1,4 +1,4 @@
-## Our Current Vegetarian Menu
+## OUR CURRENT VEGETARIAN MENU
 
 MOZZARELLA DI BUFALA WITH EGGPLANT  
 Cucumber and Lemon  
