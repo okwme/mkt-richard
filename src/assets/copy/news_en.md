@@ -48,4 +48,4 @@ of the 2018 Wines
 
 —  
   
-4 Gänge & Weinbegleitung, 89 EURO 
+4 Courses & Winepairing, 89 Euro 
