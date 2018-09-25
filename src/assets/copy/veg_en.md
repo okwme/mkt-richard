@@ -1,7 +1,7 @@
 ## Our Current Vegetarian Menu
 
 MOZZARELLA DI BUFALA WITH EGGPLANT  
-Cucumber and Lemon
+Cucumber and Lemon  
   
   
 BRAISED YOUNG CELERIAC  
@@ -26,6 +26,6 @@ Vanilla Ice
   
   
   
-4 COURSES 58 EURO  
-5 COURSES 68 EURO  
-6 COURSES 78 EURO  
+4 Courses 58 EURO  
+5 Courses 68 EURO  
+6 Courses 78 EURO  
