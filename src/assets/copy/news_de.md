@@ -5,7 +5,7 @@ mit Stefan Vetter
 _Naturweine aus Franken_
 <br>
 <br>
-4. Oktober 2018 um 19 Uhr  
+4 Oktober 2018 um 19 Uhr  
 <br>
 <br>
 **MENU DES ABENDS**
