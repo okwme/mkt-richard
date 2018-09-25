@@ -1,4 +1,4 @@
-## Jobs
+## JOBS
 
 Für unser Team suchen wir zur Zeit:  
 <br>
