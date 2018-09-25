@@ -21,7 +21,7 @@ Cucumber and Bergamotte
 unfiltered  
 <br>
 <br>
-YOUNG SELLERIE FROM THE OVEN  
+BRAISED YOUNG CELERIAC  
 WITH BLACK TRUFFLE  
 Creme of Onion  
   
