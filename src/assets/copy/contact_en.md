@@ -1,15 +1,15 @@
 ## CONTACT
 
-**[Köpenicker Str. 174  
-10997 Berlin, Germany](https://goo.gl/maps/b3Jp7LKoGK52)**
-
-For Reservations  
-with more than 7 Guests  
-please contact us  
-per mail or phone.
-
+[Köpenicker Str. 174  
+10997 Berlin, Germany](https://goo.gl/maps/b3Jp7LKoGK52)
+<br>
+<br>
+For Reservations with more than 7 Guests  
+please contact us per mail or phone.
+<br>
+<br>
 **Telephone** **[+49 30 492 072 42](tel:+493049207242)**
-
+<br>
 **[rsvp@restaurant-richard.de](mailto:rsvp@restaurant-richard.de)**
 <br>
 <br>
@@ -39,10 +39,3 @@ per mail or phone.
 <u>**[Instagram](https://www.instagram.com/restaurantrichard/)**</u> & <u>**[Facebook](https://www.facebook.com/RESTAURANT.RICHARD.BERLIN/)**</u>
 <br>
 <br>
-
-**we'll be closed:**
-
-Dec 25th — 30th, 2018  
-Jan 1st, 2019  
-Aug 5th — Sept 2nd 2019  
-Dec 25th — 30th, 2019
