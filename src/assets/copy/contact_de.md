@@ -8,7 +8,8 @@ Für Reservierungen ab 7 Gäste kontaktieren
 Sie uns bitte telefonisch oder per Mail.
 <br>
 <br>
-Telefon** **[+49 30 492 072 42](tel:+493049207242)
+Telefon [+49 30 — 492 072 42](tel:+493049207242)
+<br>
 <br>
 [rsvp@restaurant-richard.de](mailto:rsvp@restaurant-richard.de)
 <br>
@@ -36,8 +37,8 @@ Abonnieren Sie unseren Newsletter
 <!--End mc_embed_signup-->
 <br>
 
-<u>**[Instagram](https://www.instagram.com/restaurantrichard/)**</u> &
-<u>**[Facebook](https://www.facebook.com/RESTAURANT.RICHARD.BERLIN/)**</u>
+<u>[Instagram](https://www.instagram.com/restaurantrichard/)</u> &
+<u>[Facebook](https://www.facebook.com/RESTAURANT.RICHARD.BERLIN/)</u>
 <br>
 <br>
 
