@@ -1,7 +1,7 @@
 ## News
 
 Weindinner  
-mit Stefan Vetter
+mit Stefan Vetter  
 _Naturweine aus Franken_
 <br>
 <br>
