@@ -1,10 +1,10 @@
 ## Jobs
 
-We are hiring
+We are hiring  
 <br>
 **Commis de Rang (m/w)**  
 **Demi-Chef de Rang (m/w)**  
-**Aushilfen / Runner (m/w)**
+**Aushilfen / Runner (m/w)**  
 <br>
 Teamwork, experiences and fluent german language-skills are very important to us.  
 <br>
