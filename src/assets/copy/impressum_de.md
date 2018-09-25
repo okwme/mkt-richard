@@ -21,6 +21,6 @@ Kinga Kielczynska
 kinga.kielczynska@gmail.com
 
 Code  
-Billy Rennekamp
-Patrick Vezina  
+Billy Rennekamp  
+& Patrick Vezina  
 patrick@croustille.io
