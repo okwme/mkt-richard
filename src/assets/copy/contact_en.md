@@ -8,7 +8,7 @@ For Reservations with more than 7 Guests
 please contact us per mail or phone.
 <br>
 <br>
-Telephone** [+49 30 492 072 42](tel:+493049207242)**
+Telephone [+49 (30) — 492 072 42](tel:+493049207242)
 <br>
 <br>
 [rsvp@restaurant-richard.de](mailto:rsvp@restaurant-richard.de)
