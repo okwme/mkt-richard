@@ -1,25 +1,25 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 
-Mozzarella di Bufala  
+MOZARELLA DI BUFALA    
 mit Aubergine, Gurke und Zitrone  
-  
-  
-Junger Sellerie aus dem Ofen  
+<br>
+<br>
+JUNGER SELLERIE AUS DEM OFEN    
 mit Anis und Kräuteremulsion  
-  
-  
-Mangold mit Sellerie  
+<br>
+<br>
+MANGOLD MIT SELLERIE   
 Tropea Zwiebel und Buttermilch  
-  
-  
-Tortellini mit Bohne  
+<br>
+<br>
+TORTELINI MIT BOHNE    
 Kartoffel, wilder Brokkoli und Gemüsejus  
-  
-  
+<br>
+<br>
 KÄSEAUSWAHL
-  
-  
-Geschmorter Pfirsich    
+<br>
+<br>
+GESCHMORTER PFIRSICH   
 mit Honig & Rosmarin und Vanille Eis  
 <br>
 <br>
