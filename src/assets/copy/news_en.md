@@ -1,4 +1,4 @@
-## News
+## NEWS
 
 Winedinner  <br>
 with Stefan Vetter <br>
