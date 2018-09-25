@@ -29,3 +29,5 @@ Vanilla Ice
 4 Courses 58 Euro  
 5 Courses 68 Euro  
 6 Courses 78 Euro  
+<br>
+* all prices incl. VAT
