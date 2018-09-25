@@ -1,7 +1,7 @@
 ## News
 
-Winedinner  
-with Stefan Vetter
+Winedinner  <br>
+with Stefan Vetter <br>
 _Naked Wines from Franken_
 <br>
 <br>
