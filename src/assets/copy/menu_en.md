@@ -1,4 +1,4 @@
-## Our Current Menu
+## OUR CURRENT MENU
 
 HAMACHI  WITH EGGPLANT  
 cucumber and lemon  
