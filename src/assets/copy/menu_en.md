@@ -44,5 +44,5 @@ salted caramel ice
 +12 Euro  
 <br>
 <br>
-* all prices incl. VAT
+(all prices incl. VAT)
 
