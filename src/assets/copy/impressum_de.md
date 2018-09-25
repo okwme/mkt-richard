@@ -8,11 +8,11 @@ Köpenicker Straße 174
   rsvp@restaurant-richard.de
 
 Verantwortlicher nach §55 II RStV: Hans Richard  
-sitz des unternehmens: berlin  
-steuernummer: 14/491/00888  
-finanzamt: friedrichshain-kreuzberg  
+Sitz des Unternehmens: Berlin  
+Steuernummer: 14/491/00888  
+Finanzamt: Friedrichshain-Kreuzberg  
 
-konzept und gestaltung  
+Konzept und Gestaltung  
 Marie-Kristin Thiele  
 mkt@rothland.biz
 
@@ -20,5 +20,7 @@ Videos
 Kinga Kielczynska  
 kinga.kielczynska@gmail.com
 
-code  
+Code  
 Billy Rennekamp
+Patrick Vezina  
+patrick@croustille.io
