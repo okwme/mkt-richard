@@ -1,11 +1,11 @@
 ## KONTAKT
 
-**[Köpenicker Str. 174  
-10997 Berlin](https://goo.gl/maps/b3Jp7LKoGK52)**
+**[Köpenicker Str. 174](https://goo.gl/maps/b3Jp7LKoGK52)**<br>
+**[10997 Berlin](https://goo.gl/maps/b3Jp7LKoGK52)**
 
-Für Reservierungen  
-ab 7 Gäste kontaktieren  
-Sie uns bitte  
+Für Reservierungen
+ab 7 Gäste kontaktieren
+Sie uns bitte
 telefonisch oder per Mail
 
 **Telefon** **[+49 30 492 072 42](tel:+493049207242)**
@@ -42,8 +42,8 @@ Abonnieren Sie unseren Newsletter
 **Betriebsferien**
 
 zwischen den Jahren
-<br>25. — 30.12.2018  
-Neujahr 01.01.2019  
-Sommer 05.08. — 02.09.2019  
-Weihnachten  
+<br>25. — 30.12.2018
+Neujahr 01.01.2019
+Sommer 05.08. — 02.09.2019
+Weihnachten
 25.12. — 30.12.2019

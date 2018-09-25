@@ -212,25 +212,22 @@ function hasClass (element, className) {
 </script>
 
 <style lang="scss">
+@import 'sanitize.css/sanitize.css';
 @import './assets/style/fonts.css';
 html,
 body {
   padding: 0;
   margin: 0;
-  // text-transform: uppercase;
   color: black;
   font-family: 'Bodoni', times;
   font-weight: 400;
   font-size: 16px; //21px;
   letter-spacing: 0.06em;
   line-height: 1.6em;
-  // -webkit-font-smoothing: antialiased;
-  // -moz-osx-font-smoothing: grayscale;
 }
 h1, h2, h3, h4, h5, h6 {
   font-size: 1.35rem;
   font-weight: 600;
-  // text-decoration: underline;
   text-align: center;
   margin-top: 2rem;
   margin-bottom: 4rem;
@@ -243,15 +240,12 @@ a:hover,
 a:visited {
   text-decoration: none;
   color: black;
-  // weight: 700;
+}
+strong {
+  font-weight: 600;
 }
 * {
   box-sizing: border-box;
-}
-@media only screen and (max-width: 480px) {
-  body {
-    /* font-size: 18px; */
-  }
 }
 .section {
   overflow: hidden;
@@ -263,7 +257,6 @@ a:visited {
   top: 0px;
   display: flex;
   flex-flow: row nowrap;
-  right: 10vw;
 }
 .siteLinks {
   right: 10vw;
@@ -272,30 +265,21 @@ a:visited {
   left: 20px;
 }
 #hamburger {
-  // position: fixed;
-  // top: 0px;
-  // left: 40px;
   background-color: white;
-  padding: 9px 8px 8px;
-  // display: flex;
-  // flex-flow: column nowrap;
+  padding: 8px 8px 9px;
 
   .hb {
-    // width: 32px;
     width: 15px;
     height: 2px;
     display: block;
     background-color: black;
-    // margin-bottom: 8px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
   .hb:not(:last-child) {
     margin-bottom: 3px;
   }
 }
-// #menu {
-//   background: white;
-//   text-transform:
-// }
 #site-menu,
 #lang,
 #reserve {
@@ -305,14 +289,14 @@ a:visited {
   text-transform: uppercase;
 }
 #lang {
-  // right: 100px;
   background-color: black;
   color: white;
   cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 #site-menu,
 #reserve {
-  // right: 140px;
   background-color: white;
   color: black;
 }
@@ -334,7 +318,6 @@ a:visited {
 .floatLogo {
   color: white;
   text-align: center;
-  /* margin-top: calc(50vh - 69px); */
   position: fixed;
   top: 0;
   left: 50%;
@@ -346,9 +329,6 @@ a:visited {
 .floatLogo img {
   background-color: black;
   display: inline-block;
-  // padding: 0.5em;
-  // padding: 9px;
-  // width: 137.6px;
   padding: 7px 10px;
   height: calc(1rem + 14px);
   width: auto;
@@ -372,14 +352,15 @@ a:visited {
   width: 100%;
 }*/
 .fp-bg {
-  /*transition: all 1000ms ease;*/
+  // transition: all 1000ms ease;
   height: 100vh;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  /* transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0,0,0);
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;*/
 }
 video {
   position: absolute;
@@ -417,22 +398,11 @@ video {
 }
 
 @media only screen and (max-width: 480px) {
-  // .floatLogo {
-  //   text-align: left;
-  //   padding-left: 100px;
-  //   img {
-  //     max-width: 106px;
-  //   }
-  // }
   .logo img {
     max-width: 106px !important;
   }
   .siteLinks {
     right: 0;
-    // left: 50%;
-    // bottom: 0;
-    // top: unset;
-    // transform: translateX(-50%);
   }
   .siteNav {
     left: 0;
@@ -440,9 +410,6 @@ video {
   .floatLogo {
     color: white;
     text-align: left;
-    /* margin-top: calc(50vh - 69px); */
-    // margin-top: 0;
-    // margin-left: 2rem;
     position: fixed;
     top: 0;
     left: 2rem;
@@ -456,22 +423,9 @@ video {
   #reserve {
     font-size: 12px;
     padding: 8px 10px;
-    // filter: invert(100);
-  }
-  #lang {
-    // right: 20px;
-  }
-  #reserve {
-    // right: 48px;
   }
   #site-menu {
     display: none;
-  }
-  #hamburger {
-    .hb {
-      // width: 19.2px;
-      // margin-bottom: 4.8px;
-    }
   }
 }
 </style>

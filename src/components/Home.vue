@@ -259,19 +259,13 @@ export default {
   max-width: 55px;
   margin: 0 5px;
 }
-
-/* .logo {
-  position: sticky;
-  top: 0px;
-  width: 100%;
-  text-align: center;
-} */
-
-/* .logo img {
-  max-width: 172px;
-  background-color: black;
-  padding: 8px 22px;
-} */
+.allLinks a,
+.allLinks a:hover,
+.allLinks a:active,
+.allLinks a:focus {
+  border-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
 
 .logo {
   color: white;
@@ -289,9 +283,6 @@ export default {
   padding: 6px 10px;
   background-color: black;
   display: inline-block;
-  // padding: 0.5em;
-  // padding: 9px;
-  // width: 137.6px;
   height: calc(1rem + 12px);
   width: auto;
 }
@@ -313,16 +304,36 @@ section {
   /* line-height: 1.2em; */
   text-transform: normal;
 }
+.fp-tableCell,
+.section {
+  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0,0,0);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.nav-section a,
+.nav-section a:focus,
+.nav-section a:active,
+.nav-section a:hover {
+  border-bottom: 0.03em solid black;
+  display: inline-block;
+  text-decoration: none;
+  padding-bottom: 0.0075em;
+}
+
 section h1,
 section h2 {
   line-height: 1.3em;
 }
 section input[type='email'] {
-  font-family: 'BodoniSSK', times;
   border: 1px solid black;
+  font-family: 'Bodoni', times;
+  font-size: 1rem;
+  padding: 6px 10px;
+  line-height: 1;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  font-size: 21px;
-  letter-spacing: 0.4px;
 }
 
 section input[type='submit'] {
@@ -331,9 +342,12 @@ section input[type='submit'] {
   color: white;
   margin-top: 15px;
   text-transform: uppercase;
-  font-size: 21px;
-  letter-spacing: 0.4px;
-  font-family: 'BodoniSSK', times;
+  font-family: 'Bodoni', times;
+  font-size: 1rem;
+  padding: 6px 10px;
+  line-height: 1;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 @media only screen and (max-width: 480px) {
   #back-button {
