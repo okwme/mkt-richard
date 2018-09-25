@@ -34,7 +34,10 @@ Salz-Karamell Eis
 <br>
 <br>
 <br>
-4 Gänge 68 € / 5 Gänge 82 € / 6 Gänge 92 € / 7 Gänge 100 €
+4 Gänge 68 €  
+5 Gänge 82 €  
+6 Gänge 92 €  
+7 Gänge 100 €
 
 \*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
 
