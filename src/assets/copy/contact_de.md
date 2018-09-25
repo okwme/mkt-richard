@@ -1,17 +1,19 @@
 ## KONTAKT
 
-**[Köpenicker Str. 174](https://goo.gl/maps/b3Jp7LKoGK52)**<br>
-**[10997 Berlin](https://goo.gl/maps/b3Jp7LKoGK52)**
-
-Für Reservierungen
-ab 7 Gäste kontaktieren
-Sie uns bitte
-telefonisch oder per Mail
-
-**Telefon** **[+49 30 492 072 42](tel:+493049207242)**
-
-**[rsvp@restaurant-richard.de](mailto:rsvp@restaurant-richard.de)**
-
+[Köpenicker Str. 174](https://goo.gl/maps/b3Jp7LKoGK52)<br>
+[10997 Berlin](https://goo.gl/maps/b3Jp7LKoGK52)
+<br>
+<br>
+Für Reservierungen ab 7 Gäste kontaktieren
+Sie uns bitte telefonisch oder per Mail.
+<br>
+<br>
+Telefon** **[+49 30 492 072 42](tel:+493049207242)
+<br>
+[rsvp@restaurant-richard.de](mailto:rsvp@restaurant-richard.de)
+<br>
+<br>
+<br>
 Abonnieren Sie unseren Newsletter
 
 <!-- Begin MailChimp Signup Form -->
@@ -39,11 +41,3 @@ Abonnieren Sie unseren Newsletter
 <br>
 <br>
 
-**Betriebsferien**
-
-zwischen den Jahren
-<br>25. — 30.12.2018
-Neujahr 01.01.2019
-Sommer 05.08. — 02.09.2019
-Weihnachten
-25.12. — 30.12.2019
