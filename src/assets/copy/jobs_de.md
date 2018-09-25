@@ -1,10 +1,10 @@
 ## Jobs
 
-Für unser Team suchen wir zur Zeit:
+Für unser Team suchen wir zur Zeit:  
 <br>
 **Commis de Rang (m/w)**  
 **Demi-Chef de Rang (m/w)**  
-**Aushilfen / Runner (m/w)**
+**Aushilfen / Runner (m/w)**  
 <br>
 Teamfähigkeit, Erfahrung und gute Deutsch-Kenntnisse sind für uns sehr wichtig.  
 <br>
