@@ -1,36 +1,44 @@
 ## Our Current Menu
 
-**RATATOUILLE**  
-MIT NORWEGISCHER JAKOBSMUSCHEL
+HAMACHI  WITH EGGPLANT  
+cucumber and lemon  
+  
+    
+BRAISED YOUNG CELERIAC  
+WITH ANIS AND HERBS  
+  
+  
+ARTICHOKE A LA BARIGOULE  
+WITH FENNEL, ORANGE AND BACON  
+  
+  
+LAMB RAVIOLI  
+WITH SMOKED LEEK  
+bouillon of leek and oregano  
+  
+  
 
-**MANGOLD MIT SELLERIE**  
-UND ANCHOAS DEL CANTABRICO
-Tropea Zwiebel und Buttermilch
+BLACK SEABREAM WITH CASSOULET OF BEANS  
+jus de tomates jaunes  
+  
+OR*
+  
+BRAISED VEAL WITH ROSCOFF ONION  
+smoked eel and romaine lettuce  
+  
+  
+CHEESE SELECTION  
+  
+  
+DESSERT OF NOUGAT AND CHOCOLATE  
+salted caramel ice  
+  
+    
+      
+4 COURSES 68 EURO  
+5 COURSES 82 EURO  
+6 COURSES 92 EURO  
+7 COURSES 100 EURO  
+  
+* BLACK SEABREAM AS ENTREE +12 EURO  
 
-**POT AU FEU**  
-VON SOMMERGEMÜSE MIT MASSAMAN CURRY
-
-**MILCHKALBSBRIES MIT ERBSEN**  
-UND SAUCE COTES DU JURA
-
-**MEERÄSCHE MIT SPITZPAPRIKA**  
-UND ARTISCHOCKE
-Sauce Bouillabaise
-
-_ODER_
-
-**ENTRECÔTE  
-VOM BLACK ANGUS RIND**  
-MIT FENCHEL TAJINE UND TAGGIASCA OLIVE
-
-**KÄSEAUSWAHL**
-
-**DESSERT VON KIRSCHE**  
-**UND SCHOKOLADE**
-<br>
-<br>
-<br>
-_4 Gänge 68 € / 5 Gänge 82 €_  
-_6 Gänge 92 € / 7 Gänge 100 €_  
-
-\*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
