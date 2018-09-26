@@ -36,79 +36,79 @@ import { isMobile } from './assets/helpers'
 let contents = [
   {
     type: 'video',
-    name: 'richard_paul.mov',
-    path: '/static/videos/'
+    name: 'Richard_Paul 9rf20.00.mp4',
+    path: '/static/videos/compressed/'
   },
   // {
   //   type: 'video',
-  //   name: 'richard_brot.mov',
-  //   path: '/static/videos/'
+  //   name: 'richard_brot 2rf20.00.mp4',
+  //   path: '/static/videos/compressed/'
   // },
 
   {
     type: 'image',
     name: 'richard_lamps_image.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   },
   {
     type: 'video',
-    name: 'richard_door.mov',
-    path: '/static/videos/'
+    name: 'Richard_Door 4rf20.00.mp4',
+    path: '/static/videos/compressed/'
   },
   {
     type: 'image',
     name: '54_Wx1_Richard_c_LenaGanssmann-DSC_9460.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   },
   {
     type: 'image',
     name: '75_Wx1_Richard_c_LenaGanssmann-DSC_9661.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   },
   {
     type: 'video',
-    name: 'richard_celery.mov',
-    path: '/static/videos/'
+    name: 'Richard_Celery 3rf20.00.mp4',
+    path: '/static/videos/compressed/'
   },
   // {
   //   type: 'image',
   //   name: 'richard_greensauce.png',
-  //   path: '/static/videos/'
+  //   path: '/static/images/'
   // },
   {
     type: 'image',
     name: 'RICHARD-Interior.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   },
   {
     type: 'video',
-    name: 'richard_eggplant.mov',
-    path: '/static/videos/'
+    name: 'Richard_Eggplant 1rf20.00.mp4',
+    path: '/static/videos/compressed/'
   },
   {
     type: 'video',
-    name: 'richard_orange.mov',
-    path: '/static/videos/'
+    name: 'Richard_Orange 1rf20.00.mp4',
+    path: '/static/videos/compressed/'
   },
   {
     type: 'image',
     name: '_DSF2502-Bearbeitet.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   },
   // {
   //   type: 'video',
   //   name: 'richard_lamps.mov',
-  //   path: '/static/videos/'
+  //   path: '/static/videos/compressed/'
   // },
   // {
   //   type: 'image',
   //   name: '_DSF2409.jpg',
-  //   path: '/static/videos/'
+  //   path: '/static/images/'
   // }
   {
     type: 'image',
     name: 'RR-WEBSITE-BolkBG.jpg',
-    path: '/static/videos/'
+    path: '/static/images/'
   }
 ]
 require('./assets/fullpage.parallax.min.js')
