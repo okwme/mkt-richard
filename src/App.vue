@@ -39,12 +39,12 @@ import enableInlineVideo from 'iphone-inline-video'
 let contents = [
   {
     type: 'video',
-    name: 'Richard_Paul 9rf20.00.mp4',
+    name: 'Richard_Paul 9rf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   // {
   //   type: 'video',
-  //   name: 'richard_brot 2rf20.00.mp4',
+  //   name: 'richard_brot 2rf19.00.mp4',
   //   path: '/static/videos/compressed/'
   // },
 
@@ -55,7 +55,7 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Door 4rf20.00.mp4',
+    name: 'Richard_Door 4rf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   {
@@ -70,7 +70,7 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Celery 3rf20.00.mp4',
+    name: 'Richard_Celery 3rf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   // {
@@ -85,12 +85,12 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Eggplant 1rf20.00.mp4',
+    name: 'Richard_Eggplant 1rf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   {
     type: 'video',
-    name: 'Richard_Orange 1rf20.00.mp4',
+    name: 'Richard_Orange 1rf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   {
