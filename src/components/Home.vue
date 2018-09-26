@@ -201,11 +201,12 @@ export default {
   max-width: 480px;
   background-color: white;
   height: 100vh;
-  overflow: auto;
   z-index: 2;
   word-wrap: break-word;
   transition: transform 600ms ease;
   transform: translateX(-100%);
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 .no-cap {
   text-transform: none;
