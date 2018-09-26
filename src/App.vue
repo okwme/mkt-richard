@@ -33,6 +33,7 @@
 <script>
 import Home from '@/components/Home'
 import { isMobile } from './assets/helpers'
+
 let contents = [
   {
     type: 'video',
