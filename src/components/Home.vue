@@ -242,7 +242,7 @@ export default {
   min-height: 100vh;
   justify-content: flex-start;
   text-align: center;
-  padding: 40px 30px 0px 30px;
+  padding: 35px 30px 0px 30px;
   /* letter-spacing: 0.7px; */
   line-height: 1.6em;
   font-size: 1.35rem;
@@ -319,7 +319,8 @@ section {
   border-bottom: 0.03em solid black;
   display: inline-block;
   text-decoration: none;
-  padding-bottom: 0.0075em;
+  line-height: 1;
+  padding-bottom: 0.025em;
 }
 
 section h1,

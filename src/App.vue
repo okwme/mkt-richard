@@ -15,10 +15,10 @@
           <source :src="content.path + content.name" />
         </video>
         <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
-        <div class="floatLogo" v-if="i === 0"><a href="/" ><img src="/static/img/logo_big.png"></a></div>
         <div class="landingImage" v-if="i === 0 && landingImage" v-html="landingImage"/>
       </div>
     </full-page>
+    <div :class="{showNav:showNav, floatLogo: true}"><a href="/"><img src="/static/img/logo_big.png"></a></div>
     <div class="siteLinks">
       <div id="reserve"><a target="_blank" href="https://bookings.seatris.com/restaurants/richard">{{lang === 'en' ? 'booking' : 'reservierung'}}</a></div>
       <div @click="switchLang" id="lang">{{notLang}}</div>
@@ -33,7 +33,6 @@
 <script>
 import Home from '@/components/Home'
 import { isMobile } from './assets/helpers'
-
 let contents = [
   {
     type: 'video',
@@ -326,6 +325,11 @@ strong {
   margin-top: 0;
   margin: auto;
   z-index: 100;
+  transition: transform 400ms ease;
+
+  &.showNav {
+    transform: translate(-50%, -100%);
+  }
 }
 .floatLogo img {
   background-color: black;
