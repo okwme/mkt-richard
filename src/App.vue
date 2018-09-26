@@ -10,8 +10,9 @@
       >
         <video
         :autoplay="isMobile"
+        playsinline
         preload="metadata"
-         v-if="content.type === 'video'" loop muted class="fp-bg" :poster="content.path + content.name.replace('mov', 'jpg')">
+         v-if="content.type === 'video'" loop muted class="fp-video fp-bg" :poster="content.path + content.name.replace('mov', 'jpg')">
           <source :src="content.path + content.name" />
         </video>
         <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
@@ -33,6 +34,8 @@
 <script>
 import Home from '@/components/Home'
 import { isMobile } from './assets/helpers'
+import enableInlineVideo from 'iphone-inline-video'
+
 let contents = [
   {
     type: 'video',
@@ -153,6 +156,8 @@ export default {
     if (foo) {
       foo.parentElement.style.display = 'none !important'
     }
+    /* enable inline video on ios */
+    document.querySelectorAll('.fp-video').forEach(v => enableInlineVideo(v))
   },
   methods: {
     afterLoad (origin, destination, direction) {

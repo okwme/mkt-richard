@@ -35,6 +35,7 @@
 
 <script>
 import Item from '@/components/Item'
+
 require('waypoints/lib/noframework.waypoints.js')
 export default {
   name: 'Home',
