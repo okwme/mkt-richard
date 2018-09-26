@@ -287,6 +287,7 @@ export default {
   display: inline-block;
   height: calc(1rem + 12px);
   width: auto;
+  vertical-align: top;
 }
 
 .allSections,

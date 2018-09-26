@@ -90,7 +90,7 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Orange 1rf19.00.mp4',
+    name: 'richard_orangerf19.00.mp4',
     path: '/static/videos/compressed/'
   },
   {
