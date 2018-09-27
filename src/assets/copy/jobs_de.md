@@ -3,12 +3,12 @@
 Für unser Team suchen wir zur Zeit:  
 <br>
 Service  
-**Restaurantleitung / Sommelier (m/w)**
+**Restaurantleitung / Sommelier (m/w)**  
 **Chef de Rang (m/w)**  
 **Aushilfen / Runner (m/w)**  
 <br>
-Küche 
-**Chef de Parti (m/w)**
+Küche  
+**Chef de Parti (m/w)**  
 **Sous Chef (m/w)**  
 **Koch Lehrling (m/w)**  
 **Teilzeit Koch (m/w)**  
