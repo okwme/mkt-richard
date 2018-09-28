@@ -162,7 +162,7 @@ export default {
       // eslint-disable-next-line
       new Waypoint({
         element: continuousElements[i],
-        offset: 25,
+        offset: -25,
         handler (dir) {
           vm.atTop =
             this.element.id === 'nav' ||
