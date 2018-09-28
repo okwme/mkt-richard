@@ -424,6 +424,11 @@ video {
     top: 0;
     left: 2rem;
     transform: none;
+    z-index: 1;
+
+    &.showNav {
+      transform: none;
+    }
   }
   .floatLogo img {
     padding: 7px 10px;
