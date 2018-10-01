@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <div id="nav" class="home nav-section">
+    <div id="nav" class="home">
       <div class="nav-section-sticky">
         <div class="logo">
           <img src="/static/img/logo_big.png">
@@ -8,19 +8,20 @@
         <div  :class="arrow" id="back-button" ><img @click.self="clickBack"  src="/static/img/arrow.png">
         </div>
       </div>
-      <div class="allLinks">
-        <div class="link-group">
-          <img src="/static/img/star.png">
-          <img src="/static/img/hat.png">
-        </div>
-        <div class="link-group" v-for="(group, i) in sections" :key="'group-' + i"  >
-          <div v-for="(section, j) in group"  :key="'section-' + i + '-' + j" >
-            <router-link  :to="section.nav">{{section.name[lang]}}</router-link>
-          </div>
-        </div>
-
-      </div>
       <div class="allSections">
+        <section id="nav" class="nav-section">
+          <div class="allLinks">
+            <div class="link-group">
+              <img src="/static/img/star.png">
+              <img src="/static/img/hat.png">
+            </div>
+            <div class="link-group" v-for="(group, i) in sections" :key="'group-' + i"  >
+              <div v-for="(section, j) in group"  :key="'section-' + i + '-' + j" >
+                <router-link  :to="section.nav">{{section.name[lang]}}</router-link>
+              </div>
+            </div>
+          </div>
+        </section>
         <template v-for="(group, i) in sections"  >
           <section
           :class="section.style"
@@ -159,15 +160,18 @@ export default {
     var vm = this
     var continuousElements = document.getElementsByClassName('nav-section')
     for (var i = 0; i < continuousElements.length; i++) {
+      // continuousElements[i].style.borderWidth = '1px'
+      // continuousElements[i].style.borderColor = 'blue'
+      // continuousElements[i].style.borderStyle = 'solid'
       // eslint-disable-next-line
       new Waypoint({
         element: continuousElements[i],
-        offset: -25,
+        offset: 0,
         handler (dir) {
           vm.atTop =
             this.element.id === 'nav' ||
             (this.element.id === 'about' && dir === 'up')
-          global.noscroll = true
+          // global.noscroll = true
           setTimeout(() => {
             global.noscroll = false
           }, 1000)
