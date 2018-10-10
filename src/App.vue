@@ -43,7 +43,6 @@ import enableInlineVideo from 'iphone-inline-video'
 let contents = [
   {
     type: 'video',
-    name: 'Richard_Paul 9rf19.00.mp4',
     poster: '/static/images/richard_paul.jpg',
     src: [
       { file: 'Richard_Paul 9rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
@@ -60,7 +59,6 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Door 4rf19.00.mp4',
     poster: '/static/images/richard_door.jpg',
     src: [
       { file: 'Richard_Door 4rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
@@ -72,17 +70,14 @@ let contents = [
   },
   {
     type: 'image',
-    name: '54_Wx1_Richard_c_LenaGanssmann-DSC_9460.jpg',
     path: '/static/images/'
   },
   {
     type: 'image',
-    name: '75_Wx1_Richard_c_LenaGanssmann-DSC_9661.jpg',
     path: '/static/images/'
   },
   {
     type: 'video',
-    name: 'Richard_Celery 3rf19.00.mp4',
     poster: '/static/images/richard_celery.jpg',
     src: [
       { file: 'Richard_Celery 3rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
@@ -99,7 +94,6 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Eggplant 1rf19.00.mp4',
     poster: '/static/images/richard_eggplant.jpg',
     src: [
       { file: 'Richard_Eggplant 1rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
@@ -111,7 +105,6 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'richard_orangerf19.00.mp4',
     poster: '/static/images/richard_orange.jpg',
     src: [
       { file: 'richard_orangerf23.00.mp4', media: 'all and (max-device-width: 375px)' },
