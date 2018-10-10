@@ -12,8 +12,12 @@
         :autoplay="isMobile"
         playsinline
         preload="metadata"
-         v-if="content.type === 'video'" loop muted class="fp-video fp-bg" :poster="content.path + content.name.replace('mov', 'jpg')">
-          <source :src="content.path + content.name" />
+         v-if="content.type === 'video'" loop muted class="fp-video fp-bg" :poster="content.poster">
+          <source
+          v-for="(src,i) in content.src"
+          :key="i"
+          :id="'source'+i"
+          :src="content.path + src.file" type="video/mp4" :media="src.media"/>
         </video>
         <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
         <div class="landingImage" v-if="i === 0 && landingImage" v-html="landingImage"/>
@@ -39,15 +43,15 @@ import enableInlineVideo from 'iphone-inline-video'
 let contents = [
   {
     type: 'video',
-    name: 'Richard_Paul 9rf19.00.mp4',
+    poster: '/static/images/richard_paul.jpg',
+    src: [
+      { file: 'Richard_Paul 9rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
+      { file: 'Richard_Paul 9rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
+      { file: 'Richard_Paul 9rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
+      { file: 'Richard_Paul 9rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+    ],
     path: '/static/videos/compressed/'
   },
-  // {
-  //   type: 'video',
-  //   name: 'richard_brot 2rf19.00.mp4',
-  //   path: '/static/videos/compressed/'
-  // },
-
   {
     type: 'image',
     name: 'richard_lamps_image.jpg',
@@ -55,7 +59,13 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Door 4rf19.00.mp4',
+    poster: '/static/images/richard_door.jpg',
+    src: [
+      { file: 'Richard_Door 4rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
+      { file: 'Richard_Door 4rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
+      { file: 'Richard_Door 4rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
+      { file: 'Richard_Door 4rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+    ],
     path: '/static/videos/compressed/'
   },
   {
@@ -70,14 +80,15 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Celery 3rf19.00.mp4',
+    poster: '/static/images/richard_celery.jpg',
+    src: [
+      { file: 'Richard_Celery 3rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
+      { file: 'Richard_Celery 3rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
+      { file: 'Richard_Celery 3rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
+      { file: 'Richard_Celery 3rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+    ],
     path: '/static/videos/compressed/'
   },
-  // {
-  //   type: 'image',
-  //   name: 'richard_greensauce.png',
-  //   path: '/static/images/'
-  // },
   {
     type: 'image',
     name: 'RICHARD-Interior.jpg',
@@ -85,12 +96,24 @@ let contents = [
   },
   {
     type: 'video',
-    name: 'Richard_Eggplant 1rf19.00.mp4',
+    poster: '/static/images/richard_eggplant.jpg',
+    src: [
+      { file: 'Richard_Eggplant 1rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
+      { file: 'Richard_Eggplant 1rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
+      { file: 'Richard_Eggplant 1rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
+      { file: 'Richard_Eggplant 1rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+    ],
     path: '/static/videos/compressed/'
   },
   {
     type: 'video',
-    name: 'richard_orangerf19.00.mp4',
+    poster: '/static/images/richard_orange.jpg',
+    src: [
+      { file: 'richard_orangerf23.00.mp4', media: 'all and (max-device-width: 375px)' },
+      { file: 'Richard_orangerf22.00.mp4', media: 'all and (max-device-width: 768px)' },
+      { file: 'Richard_orangerf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
+      { file: 'Richard_orangerf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+    ],
     path: '/static/videos/compressed/'
   },
   {
@@ -98,16 +121,6 @@ let contents = [
     name: '_DSF2502-Bearbeitet.jpg',
     path: '/static/images/'
   },
-  // {
-  //   type: 'video',
-  //   name: 'richard_lamps.mov',
-  //   path: '/static/videos/compressed/'
-  // },
-  // {
-  //   type: 'image',
-  //   name: '_DSF2409.jpg',
-  //   path: '/static/images/'
-  // }
   {
     type: 'image',
     name: 'RR-WEBSITE-BolkBG.jpg',
@@ -407,7 +420,7 @@ video {
   transform: translate3d(0, 0, 0);
 }
 
-@media only screen and (max-width: 480px) {
+@media only all and (max-width: 480px) {
   .logo img {
     max-width: 106px !important;
   }
