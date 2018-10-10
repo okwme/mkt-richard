@@ -70,10 +70,12 @@ let contents = [
   },
   {
     type: 'image',
+    name: '54_Wx1_Richard_c_LenaGanssmann-DSC_9460.jpg',
     path: '/static/images/'
   },
   {
     type: 'image',
+    name: '75_Wx1_Richard_c_LenaGanssmann-DSC_9661.jpg',
     path: '/static/images/'
   },
   {
