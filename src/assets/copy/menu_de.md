@@ -37,7 +37,7 @@ Mandel und Joghurt
 6 Gänge 92 €  
 7 Gänge 100 €
 <br>
-* Heilbutt als Entrée + 12 €  
+*Heilbutt als Entrée + 12 €  
 \*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
 
 
