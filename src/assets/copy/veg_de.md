@@ -1,26 +1,30 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 
-MOZZARELLA DI BUFALA    
-mit Aubergine, Gurke und Zitrone  
+MARINIERTE ROTE BEETE  
+mit Karotten-Tempura  
+Meerrettich  
 <br>
 <br>
-JUNGER SELLERIE AUS DEM OFEN    
-mit Anis und Kräuteremulsion  
+SELLERIE AUS DEM OFEN  
+mit Süssholz-Gemüse-Jus  
+Sonnenblumenkerne und Nussbutter   
 <br>
 <br>
 MANGOLD MIT SELLERIE   
 Tropea Zwiebel und Buttermilch  
 <br>
 <br>
-TORTELINI MIT BOHNE    
-Kartoffel, wilder Brokkoli und Gemüsejus  
+BOHNEN CASOULET  
+MIT GNOCCHI PARISIENNE  
+Parmesancreme  
 <br>
 <br>
 KÄSEAUSWAHL
 <br>
 <br>
-GESCHMORTER PFIRSICH   
-mit Honig & Rosmarin und Vanille Eis  
+DESSERT VON NOUGAT  
+UND SCHOKOLADE  
+Salz-Karamell Eis  
 <br>
 <br>
 <br>
