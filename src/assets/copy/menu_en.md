@@ -42,8 +42,7 @@ almond and yogurt
 6 Courses 92 Euro  
 7 Courses 100 Euro  
   
-* HALIBUT AS ENTREE  
-+12 Euro  
+*HALIBUT AS ENTREE +12 Euro  
 <br>
 <br>
 (all prices incl. VAT)
