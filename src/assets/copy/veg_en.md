@@ -1,11 +1,13 @@
 ## OUR CURRENT VEGETARIAN MENU
 
-MOZZARELLA DI BUFALA WITH EGGPLANT  
-Cucumber and Lemon  
+MARINATED BEETROOT  
+WITH CARROT TEMPURA  
+horseradish  
 <br>
 <br>
-BRAISED YOUNG CELERIAC  
-WITH ANIS AND HERBS  
+CELARIAC FROM THE OVEN  
+WITH LICORICE-VEGETABLE JUS  
+sunflowerseeds and nutbutter
 <br>
 <br>
 CHARD WITH CELERIAC  
@@ -13,16 +15,17 @@ AND ONION FROM TROPEA
 Buttermilk  
 <br>
 <br>
-TORTELLINI WITH BEANS AND POTATO  
-Brocoli and Vegetable Jus  
+BEAN CASSOULET  
+WITH GNOCCHI PARISIENNE  
+parmesan-creme  
 <br>
 <br>
 CHEESE SELECTION  
 <br>
 <br>
-BRAISED PEACH  
-WITH HONEY AND ROSEMARY  
-Vanilla Ice  
+NOUGAT DESSERT  
+AND CHOCOLATE  
+saltcaramel ice-cream  
 <br>
 <br>
 <br>
