@@ -1,36 +1,34 @@
 ## UNSER AKTUELLES MENU
 
 
-GELBSCHWANZMAKRELE  
-MIT AUBERGINE  
-Gurke und Zitrone  
+TEMPURA VON DER ATLANTIK SARDINE  
+ROTE BEETE  
+Kresse und Meerrettich  
 <br><br>
-JUNGER SELLERIE  
-aus dem Ofen mit Anis  
-und Kräuteremusion  
+SELLERIE AUS DEM OFEN  
+MIT SÜSSHOLZ-GEMÜSE JUS  
+Sonnenblumenkerne und Nussbutter  
 <br><br>
-ARTISCHOCKEN A LA BARIGOULE  
+ARTISCHOCKEN À LA BARIGOULE  
 mit Fenchel, Orange und Speck  
 <br><br>
 LAMMRAVIOLI  
-mit verkohltem Lauch  
-Lauchbouillon und Oregano  
+MIT ZWIEBELFOND UND OREGANO  
 <br><br>
-STREIFENBRASSE  
-mit Bohnen Cassoulet  
-Jus de tomates jaunes
+HEILBUTT  
+MIT HERBSTTRÜFFEL  
+Lauch und Kartoffelmousseline  
 <br><br>
-oder
+oder *
 <br><br>
 GESCHMORTES MILCHKALB  
-mit Roskoffzwiebeln  
-Räucheraal und Lattich  
+MIT RÄUCHERAAL   
+Bohnencassoulet  
 <br><br>
 KÄSEAUSWAHL  
 <br><br>
-DESSERT  
-von Nougat und Schokolade  
-Salz-Karamell Eis  
+DESSERT VON DER BIRNE  
+Mandel und Joghurt  
 <br>
 <br>
 <br>
@@ -38,7 +36,8 @@ Salz-Karamell Eis
 5 Gänge 82 €  
 6 Gänge 92 €  
 7 Gänge 100 €
-
+<br>
+* Heilbutt als Entrée + 12 €  
 \*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
 
 
