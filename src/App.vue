@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <home :class="{showNav:showNav}" @closeNav="closeNav" :lang="lang" />
+    <div id="nextButton" @click="$refs.fullpage.api.moveSectionDown()"></div>
     <full-page ref="fullpage" :options="options" id="fullpage">
       <div class="section"
       v-for="(content,i) in contents"
@@ -45,10 +46,22 @@ let contents = [
     type: 'video',
     poster: '/static/images/richard_paul.jpg',
     src: [
-      { file: 'Richard_Paul 9rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
-      { file: 'Richard_Paul 9rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
-      { file: 'Richard_Paul 9rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
-      { file: 'Richard_Paul 9rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+      {
+        file: 'Richard_Paul 9rf23.00.mp4',
+        media: 'all and (max-device-width: 375px)'
+      },
+      {
+        file: 'Richard_Paul 9rf22.00.mp4',
+        media: 'all and (max-device-width: 768px)'
+      },
+      {
+        file: 'Richard_Paul 9rf21.00.mp4',
+        media: 'all and (max-device-width: 1024px)'
+      },
+      {
+        file: 'Richard_Paul 9rf20.00.mp4',
+        media: 'all and (max-device-width: 1025px)'
+      }
     ],
     path: '/static/videos/compressed/'
   },
@@ -61,10 +74,22 @@ let contents = [
     type: 'video',
     poster: '/static/images/richard_door.jpg',
     src: [
-      { file: 'Richard_Door 4rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
-      { file: 'Richard_Door 4rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
-      { file: 'Richard_Door 4rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
-      { file: 'Richard_Door 4rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+      {
+        file: 'Richard_Door 4rf23.00.mp4',
+        media: 'all and (max-device-width: 375px)'
+      },
+      {
+        file: 'Richard_Door 4rf22.00.mp4',
+        media: 'all and (max-device-width: 768px)'
+      },
+      {
+        file: 'Richard_Door 4rf21.00.mp4',
+        media: 'all and (max-device-width: 1024px)'
+      },
+      {
+        file: 'Richard_Door 4rf20.00.mp4',
+        media: 'all and (max-device-width: 1025px)'
+      }
     ],
     path: '/static/videos/compressed/'
   },
@@ -82,10 +107,22 @@ let contents = [
     type: 'video',
     poster: '/static/images/richard_celery.jpg',
     src: [
-      { file: 'Richard_Celery 3rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
-      { file: 'Richard_Celery 3rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
-      { file: 'Richard_Celery 3rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
-      { file: 'Richard_Celery 3rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+      {
+        file: 'Richard_Celery 3rf23.00.mp4',
+        media: 'all and (max-device-width: 375px)'
+      },
+      {
+        file: 'Richard_Celery 3rf22.00.mp4',
+        media: 'all and (max-device-width: 768px)'
+      },
+      {
+        file: 'Richard_Celery 3rf21.00.mp4',
+        media: 'all and (max-device-width: 1024px)'
+      },
+      {
+        file: 'Richard_Celery 3rf20.00.mp4',
+        media: 'all and (max-device-width: 1025px)'
+      }
     ],
     path: '/static/videos/compressed/'
   },
@@ -98,10 +135,22 @@ let contents = [
     type: 'video',
     poster: '/static/images/richard_eggplant.jpg',
     src: [
-      { file: 'Richard_Eggplant 1rf23.00.mp4', media: 'all and (max-device-width: 375px)' },
-      { file: 'Richard_Eggplant 1rf22.00.mp4', media: 'all and (max-device-width: 768px)' },
-      { file: 'Richard_Eggplant 1rf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
-      { file: 'Richard_Eggplant 1rf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+      {
+        file: 'Richard_Eggplant 1rf23.00.mp4',
+        media: 'all and (max-device-width: 375px)'
+      },
+      {
+        file: 'Richard_Eggplant 1rf22.00.mp4',
+        media: 'all and (max-device-width: 768px)'
+      },
+      {
+        file: 'Richard_Eggplant 1rf21.00.mp4',
+        media: 'all and (max-device-width: 1024px)'
+      },
+      {
+        file: 'Richard_Eggplant 1rf20.00.mp4',
+        media: 'all and (max-device-width: 1025px)'
+      }
     ],
     path: '/static/videos/compressed/'
   },
@@ -109,10 +158,22 @@ let contents = [
     type: 'video',
     poster: '/static/images/richard_orange.jpg',
     src: [
-      { file: 'richard_orangerf23.00.mp4', media: 'all and (max-device-width: 375px)' },
-      { file: 'Richard_orangerf22.00.mp4', media: 'all and (max-device-width: 768px)' },
-      { file: 'Richard_orangerf21.00.mp4', media: 'all and (max-device-width: 1024px)' },
-      { file: 'Richard_orangerf20.00.mp4', media: 'all and (max-device-width: 1025px)' }
+      {
+        file: 'richard_orangerf23.00.mp4',
+        media: 'all and (max-device-width: 375px)'
+      },
+      {
+        file: 'Richard_orangerf22.00.mp4',
+        media: 'all and (max-device-width: 768px)'
+      },
+      {
+        file: 'Richard_orangerf21.00.mp4',
+        media: 'all and (max-device-width: 1024px)'
+      },
+      {
+        file: 'Richard_orangerf20.00.mp4',
+        media: 'all and (max-device-width: 1025px)'
+      }
     ],
     path: '/static/videos/compressed/'
   },
@@ -243,7 +304,12 @@ body {
   letter-spacing: 0.06em;
   line-height: 1.6em;
 }
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: 1.35rem;
   font-weight: 600;
   text-align: center;
@@ -321,6 +387,18 @@ strong {
 #site-menu {
   padding-left: 0;
 }
+#nextButton {
+  position: fixed;
+  left: 50%;
+  bottom: 50px;
+  width: 80px;
+  height: 80px;
+  border-right: 3px solid white;
+  border-bottom: 3px solid white;
+  transform: rotate(45deg) translateX(-50%);
+  z-index: 2;
+  cursor: pointer;
+}
 .landingImage {
   // text-align: center;
   display: flex;
@@ -380,8 +458,8 @@ strong {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  transform: translate3d(0,0,0);
-  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0, 0);
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
 }
