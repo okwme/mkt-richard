@@ -191,7 +191,7 @@ let contents = [
 require('./assets/fullpage.parallax.min.js')
 export default {
   name: 'App',
-  data () {
+  data() {
     return {
       isMobile: isMobile(),
       lang: 'de',
@@ -215,14 +215,14 @@ export default {
     }
   },
   computed: {
-    notLang () {
+    notLang() {
       return this.lang === 'de' ? 'en' : 'de'
     },
-    landingImage () {
+    landingImage() {
       return require('./assets/copy/landing_image.md')
     }
   },
-  mounted () {
+  mounted() {
     if (this.$route.name !== 'richard') this.showNav = true
     let foo = document.querySelector(
       '[href="http://alvarotrigo.com/fullPage/extensions/"]'
@@ -234,7 +234,7 @@ export default {
     document.querySelectorAll('.fp-video').forEach(v => enableInlineVideo(v))
   },
   methods: {
-    afterLoad (origin, destination, direction) {
+    afterLoad(origin, destination, direction) {
       if (!origin) {
         this.onLeave(origin, destination, direction)
         return
@@ -247,7 +247,7 @@ export default {
         }
       }
     },
-    onLeave (origin, destination, direction) {
+    onLeave(origin, destination, direction) {
       let el = destination.item
       if (hasClass(el, 'video-el')) {
         let vids = el.querySelectorAll('video')
@@ -259,28 +259,28 @@ export default {
         }
       }
     },
-    switchLang () {
+    switchLang() {
       this.lang = this.lang === 'en' ? 'de' : 'en'
     },
-    bgImage (i) {
+    bgImage(i) {
       return {
         // 'background-image': 'url(https://dummyimage.com/600x400/' + Math.floor(Math.random() * 16777215).toString(16) + '/f00)'
         'background-image':
           'url(http://lorempixel.com/400/200/sports/' + i + ')'
       }
     },
-    closeNav () {
+    closeNav() {
       this.$refs.fullpage.api.moveSectionDown()
       this.showNav = false
     },
-    clickMenu () {
+    clickMenu() {
       this.$refs.fullpage.api.moveSectionDown()
       this.showNav = true
     }
   },
   components: { Home }
 }
-function hasClass (element, className) {
+function hasClass(element, className) {
   if (element.classList) return element.classList.contains(className)
   else {
     return new RegExp('(^| )' + className + '( |$)', 'gi').test(
@@ -391,8 +391,8 @@ strong {
   position: fixed;
   left: 50%;
   bottom: 50px;
-  width: 80px;
-  height: 80px;
+  width: 40px;
+  height: 40px;
   border-right: 3px solid white;
   border-bottom: 3px solid white;
   transform: rotate(45deg) translateX(-50%);
