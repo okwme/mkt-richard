@@ -1,52 +1,43 @@
 ## NEWS
 
-Weindinner  
-mit Stefan Vetter  
-_Naturweine aus Franken_
+TRÜFFELMENU     
+_ _
 <br>
 <br>
-**4 Oktober 2018 um 19 Uhr**    
+**13. und 14. November 2018 um 19 Uhr**    
 <br>
 <br>
-_MENU DES ABENDS_  
+_MENU DES ABENDS_    
 <br>
 <br>
-APERO APFELCIDRE  
+_Amuse Bouche_    
+TARTAR VOM LINUMER KALB  
+Brioche und Herbsttrüffel  
 <br>
 <br>
-MAKRELE MIT AUBERGINE  
-Gurke und Bergamotte  
-<br>
-2016 SYLVANER 
-unfiltriert  
+POT-AU-FEU  
+MIT ARTISCHOCKE UND FENCHEL  
+Herbsttrüffel    
 <br>
 <br>
-JUNGER SELLERIE AUS DEM OFEN  
-MIT SCHWARZEM TRÜFFEL  
-Zwiebelcreme  
-  
-2014 RIESLING STEINTERRASSEN  
-unfiltriert  
+AGNOLOTTI MIT GESCHMORTEM SELLERIE 
+und Alba Trüffel  
 <br>
 <br>
-GESCHMORTES MILCHKALB  
-MIT ROSCOFFZWIEBEL & Räucheraal  
-  
-2015 SYLVANER CK  
-  
-2017 SPÄTBURGUNDER  
-Steinterassen  
+SEEZUNGE  
+Lauch und Herbsttrüffel  
+Beurre Blanc  
 <br>
 <br>
-PFIRSICH  
-MIT HONIG UND ROSMARIN  
-Vanille und Sorbet vom weissen Pfirsich  
-  
-VORSCHAU  
-auf die Weine von 2018  
-  
-
+TOURNEDOS ROSSINI 
+Pommes Anna  
+<br>
+<br>
+DESSERT VON DER BIRNE  
+Pommes Anna  
+<br>
+<br>
 —  
   
-4 Gänge & Weinbegleitung, 89 EURO 
+Menu 140 EURO 
 
