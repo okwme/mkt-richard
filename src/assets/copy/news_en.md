@@ -1,16 +1,15 @@
 ## NEWS
 
 TRUFFLES DINNER<br>
-__
 <br>
 <br>
-**13. und 14. November 2018 um 19 Uhr**  
+_13. und 14. November 2018 um 19 Uhr_  
 <br>
 <br>
-_MENU OF THE EVENING_  
+**MENU OF THE EVENING**  
 <br>
 <br>
-_Amouse Bouche_
+_Amouse Bouche_  
 TARTAR OF LINUMER VEAL  
 brioche and autumn truffle  
 <br>
