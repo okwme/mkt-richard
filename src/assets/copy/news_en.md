@@ -1,51 +1,42 @@
 ## NEWS
 
-Winedinner  <br>
-with Stefan Vetter <br>
-_Naked Wines from Franken_
+TRUFFLES DINNER<br>
+__
 <br>
 <br>
-**4 Oktober 2018 um 7 pm**  
+**13. und 14. November 2018 um 19 Uhr**  
 <br>
 <br>
 _MENU OF THE EVENING_  
 <br>
 <br>
-APERO APFELCIDRE  
+_Amouse Bouche_
+TARTAR OF LINUMER VEAL  
+brioche and autumn truffle  
 <br>
 <br>
-MACKEREL WITH AUBERGINE  
-Cucumber and Bergamotte  
-<br>
-2016 SYLVANER 
-unfiltered  
+POT-AU-FEU  
+WITH ARTICHOKE AND FENNEL  
+autumn truffle  
 <br>
 <br>
-BRAISED YOUNG CELERIAC  
-WITH BLACK TRUFFLE  
-Creme of Onion  
-<br>
-2014 RIESLING STEINTERRASSEN  
-unfiltered 
+AGNOLOTTI WITH BRAISED CELERIAC      
+alba truffles  
 <br>
 <br>
-BRAISED MILKVEAL  
-WITH ROSCOFFONION & SMOKED EEL  
-<br>
-2015 SYLVANER CK  
-<br>
-2017 SPÄTBURGUNDER  
-Steinterassen  
+SOLE  
+LEEK AND AUTUMN TRUFFLE  
+beurre blanc  
 <br>
 <br>
-PEACH  
-WITH HONEY AND ROSEMARY  
-Vanille and Sorbet of white Peaches  
+TOURNEDOS ROSSINI    
+pommes anna  
 <br>
-PREVIEW  
-of the 2018 Wines   
+<br>
+PEAR DESSERT    
+almond and yogurt   
   
 
 —  
   
-4 Courses & Winepairing, 89 Euro 
+Menu 140 Euro 
