@@ -3,7 +3,7 @@
 TRUFFLES DINNER<br>
 <br>
 <br>
-_13. und 14. November 2018 um 19 Uhr_  
+_13. and 14. November 2018 from 7 pm_  
 <br>
 <br>
 **MENU OF THE EVENING**  
