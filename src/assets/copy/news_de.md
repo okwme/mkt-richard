@@ -1,10 +1,9 @@
 ## NEWS
 
 TRÜFFELMENU     
-_ _
 <br>
 <br>
-**13. und 14. November 2018 um 19 Uhr**    
+**13. und 14. November 2018 ab 19 Uhr**    
 <br>
 <br>
 _MENU DES ABENDS_    
@@ -21,15 +20,15 @@ Herbsttrüffel
 <br>
 <br>
 AGNOLOTTI MIT GESCHMORTEM SELLERIE 
-und Alba Trüffel  
+Alba Trüffel  
 <br>
 <br>
 SEEZUNGE  
-Lauch und Herbsttrüffel  
+LAUCH UND HERBSTTRÜFFEL  
 Beurre Blanc  
 <br>
 <br>
-TOURNEDOS ROSSINI 
+TOURNEDOS ROSSINI  
 Pommes Anna  
 <br>
 <br>
