@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <div id="nav" class="home">
+    <div id="nav" class="home nav-section">
       <div class="nav-section-sticky">
         <div class="logo">
           <img src="/static/img/logo_big.png">
@@ -9,7 +9,7 @@
         </div>
       </div>
       <div class="allSections">
-        <section id="nav" class="nav-section">
+        <section >
           <div class="allLinks">
             <div class="link-group">
               <img src="/static/img/star.png">
@@ -166,12 +166,13 @@ export default {
       // eslint-disable-next-line
       new Waypoint({
         element: continuousElements[i],
-        offset: 0,
+        offset: -25,
         handler (dir) {
+          console.log(this.element.id)
           vm.atTop =
             this.element.id === 'nav' ||
             (this.element.id === 'about' && dir === 'up')
-          // global.noscroll = true
+          global.noscroll = true
           setTimeout(() => {
             global.noscroll = false
           }, 1000)
