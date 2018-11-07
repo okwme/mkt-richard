@@ -3,7 +3,7 @@
 The Restaurant is open Tuesday — Saturday  
 7 pm — 0 am.  
   
-After Christman we will be opened  
+After the holidays we will be opened  
 December 27th — 31st, every day.
   
 The restaurant will be closed  
