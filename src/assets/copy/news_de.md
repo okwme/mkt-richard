@@ -35,9 +35,8 @@ Café und Karamell
 <br>
 <br>
 —  
-  
-Menu 
-mit Weinbegleitung & Aperitif 290€
+<br>
+Menu mit Weinbegleitung & Aperitif 290€
 vegetarisches Menu  260€
  
 
