@@ -1,42 +1,43 @@
 ## NEWS
 
-TRÜFFELMENU     
-<br>
-<br>
-**13. und 14. November 2018 ab 19 Uhr**    
+**SILVESTER GALA ABEND**    
 <br>
 <br>
 _MENU DES ABENDS_    
 <br>
 <br>
-_Amuse Bouche_    
-TARTAR VOM LINUMER KALB  
-Brioche und Herbsttrüffel  
+Aperitif  
+Champagne Rosé  
+André Clouet  
 <br>
 <br>
-POT-AU-FEU  
-MIT ARTISCHOCKE UND FENCHEL  
-Herbsttrüffel    
+GÄNSELEBER TERRINE   
+mit Feigenconfit und Brioche    
 <br>
 <br>
-AGNOLOTTI MIT GESCHMORTEM SELLERIE 
-Alba Trüffel  
+SELLERIE AUS DEM SALZTEIG  
+mit Perrigord-Trüffel und Zwiebelcrème  
 <br>
 <br>
-SEEZUNGE  
-LAUCH UND HERBSTTRÜFFEL  
-Beurre Blanc  
+LANGOUSTINE  
+mit geröstetem Blumenkohl  
+Bisque  
 <br>
 <br>
-TOURNEDOS ROSSINI  
+TOURNEDOS VOM SIMMENTHALER RIND  
+Topinambur und Roscoff-Zwiebel  
 Pommes Anna  
 <br>
 <br>
-DESSERT VON DER BIRNE  
-Pommes Anna  
+DESSERT 
+von der Guanaja Schokolade  
+Café und Karamell  
 <br>
 <br>
 —  
   
-Menu 140 EURO 
+Menu 
+mit Weinbegleitung & Aperitif 290€
+vegetarisches Menu  260€
+ 
 
