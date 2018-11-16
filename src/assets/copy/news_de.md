@@ -29,7 +29,7 @@ Topinambur und Roscoff-Zwiebel
 Pommes Anna  
 <br>
 <br>
-DESSERT 
+DESSERT  
 von der Guanaja Schokolade  
 Café und Karamell  
 <br>
