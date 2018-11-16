@@ -33,10 +33,10 @@ pommes Anna
 <br>
 GUANAJA CHOCOLATE-DESSERT  
 café and caramel  
-  
-
+<br>
+<br>
 —  
-  
+<br>
 Menu
 with winepairing & aperitif 290€
-vegetarian menu  260€ 
+vegetarian menu 260€ 
