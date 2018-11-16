@@ -1,41 +1,42 @@
 ## NEWS
 
-TRUFFLES DINNER<br>
+**NEW YEARS EVE**  
 <br>
 <br>
-_13. and 14. November 2018 from 7 pm_  
+APERITIF  
+Champagne Rosé  
+André Clouet  
 <br>
 <br>
-**MENU OF THE EVENING**  
+FOIE-GRAS  
+with confit from figues  
+brioche  
 <br>
 <br>
-_Amouse Bouche_  
-TARTAR OF LINUMER VEAL  
-brioche and autumn truffle  
+CELERIAC FROM A SALT CRUST  
+with Perrigord-truffles and onioncreme  
 <br>
 <br>
-POT-AU-FEU  
-WITH ARTICHOKE AND FENNEL  
-autumn truffle  
+LANGOUSTINE  
+with roasted cauliflower  
+bisque  
 <br>
 <br>
-AGNOLOTTI WITH BRAISED CELERIAC      
-alba truffles  
+SOLE MEUNIÈRE  
+oyster beurre blanc  
 <br>
 <br>
-SOLE  
-LEEK AND AUTUMN TRUFFLE  
-beurre blanc  
+TOURNEDOS FROM SIMMENTHAL BEEF  
+girasole and Roscoff onion  
+pommes Anna  
 <br>
 <br>
-TOURNEDOS ROSSINI    
-pommes anna  
-<br>
-<br>
-PEAR DESSERT    
-almond and yogurt   
+GUANAJA CHOCOLATE-DESSERT  
+café and caramel  
   
 
 —  
   
-Menu 140 Euro 
+Menu
+with winepairing & aperitif 290€
+vegetarian menu  260€ 
