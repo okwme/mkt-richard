@@ -33,4 +33,4 @@ _4 Gänge 58 €_
 _5 Gänge 68 €_   
 _6 Gänge 78 €_  
   
-\*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
+\*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
