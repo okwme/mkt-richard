@@ -1,14 +1,14 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-SALAD FROM RADICCHIO   
-and young beetroot   
-mustard-fruits and avocado   
+SALAD FROM RADICCHIO<br>
+and young beetroot<br>
+mustard-fruits and avocado<br>
 <br>
 <br>
-CELARIAC FROM A SALTCRUST   
-with black truffle   
-creme from onions   
+CELARIAC FROM A SALTCRUST<br>
+with black truffle<br>
+creme from onions<br>
 <br>
 <br>
 ROASTED GIRASOLE   
