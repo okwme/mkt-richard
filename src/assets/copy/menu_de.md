@@ -1,34 +1,42 @@
 ## UNSER AKTUELLES MENU
 
 
-TEMPURA VON DER ATLANTIK SARDINE  
-ROTE BEETE  
-Kresse und Meerrettich  
+LOCH DUART LACHS MARINIERT  
+mit Avocado und Senffrüchten  
+Meerrettich
 <br><br>
-SELLERIE AUS DEM OFEN  
-MIT SÜSSHOLZ-GEMÜSE JUS  
-Sonnenblumenkerne und Nussbutter  
+SELLERIE AUS DEM SALZTEIG  
+mit schwarzem Trüffel  
+Zwiebelcreme  
 <br><br>
-ARTISCHOCKEN À LA BARIGOULE  
-mit Fenchel, Orange und Speck  
+FORELLE VOM HOLZKOHLEGRILL  
+mit Kartoffel-Mousseline  
+Molke  
 <br><br>
-LAMMRAVIOLI  
-MIT ZWIEBELFOND UND OREGANO  
+MILCHKALBSBRIES MIT RÄUCHERAAL  
+fermentiertr Spitzkohl  
+Birne und Estragon  
+<br>
+—
+<br>
+*Challans Ente in 2 Gängen:*  
+<br>
+TAJINE  
+mit Feigen und Mandel  
+Sesamkrokant  
 <br><br>
-HEILBUTT  
-MIT HERBSTTRÜFFEL  
-Lauch und Kartoffelmousseline  
-<br><br>
-oder *
-<br><br>
-GESCHMORTES MILCHKALB  
-MIT RÄUCHERAAL   
-Bohnencassoulet  
-<br><br>
+ROSA BRUST  
+mit schwarzer Walnuss  
+Chicorée und Süßholzjus  
+<br>
+—
+<br>
 KÄSEAUSWAHL  
 <br><br>
-DESSERT VON DER BIRNE  
-Mandel und Joghurt  
+SCHOKOLADENDESSERT MONTE CARLO  
+mit Orange und Whiskey  
+Schokoladen Eis und Karamell  
+<br>
 <br>
 <br>
 <br>
@@ -37,7 +45,6 @@ Mandel und Joghurt
 6 Gänge 92 €  
 7 Gänge 100 €  
 <br>
-*Heilbutt als Entrée + 12 €  
 <br>
 *Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
 
