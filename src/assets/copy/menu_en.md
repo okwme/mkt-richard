@@ -1,39 +1,46 @@
 ## OUR CURRENT MENU
 
-ATLANTIC SARDINE TEMPURA  
-BEETROOT  
-cress and horseradish  
+MARINATED SALMON FROM LOCH DUAT  
+with avocado and mustard-fruits  
+horseradish  
 <br>
 <br>
-CELARIAC FROM THE OVEN  
-WITH LICORICE-VEGETABLE JUS  
-sunflowerseeds and nutbutter  
+CELARIAC FROM A SALTCRUST    
+with black truffle  
+creme fom onions  
 <br>
 <br>
-ARTICHOKE A LA BARIGOULE  
-WITH FENNEL, ORANGE AND BACON  
+TROUT CHAR-GRILLED  
+potato mousseline  
+whey  
 <br>
 <br>
-LAMB RAVIOLI  
-with onionfond and oregano  
+SWEETBREAD AND SMOKED EEL  
+fermented pointed cabbage  
+pear and estragon  
+<br>
+—
+<br>
+*Challans Duck in 2 courses:*  
+<br>
+TAJINE  
+with figs and almonds  
+sesame brittle  
 <br>
 <br>
-HALIBUT  
-WITH AUTUMN TRUFFLE  
-leek and potato mousseline  
+pink breast  
+with black walnuts  
+chicorée and liquorice jus  
 <br>
-or*  
-<br>
-BRAISED VEAL  
-with smoked eel  
-bean-cassoulet  
-<br>
+—
 <br>
 CHEESE SELECTION  
 <br>
 <br>
-PEAR DESSERT  
-almond and yogurt  
+CHOCOLATE DESSERT MONTE CARLO  
+with orange and whiskey  
+chocolate ice-cream and caramel  
+<br>
 <br>
 <br>
 <br>   
@@ -42,7 +49,6 @@ almond and yogurt
 6 Courses 92 Euro  
 7 Courses 100 Euro  
   
-*HALIBUT AS ENTREE +12 Euro  
 <br>
 <br>
 (all prices incl. VAT)
