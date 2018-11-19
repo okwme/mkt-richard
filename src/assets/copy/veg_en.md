@@ -1,31 +1,32 @@
 ## OUR CURRENT VEGETARIAN MENU
-
-MARINATED BEETROOT  
-WITH CARROT TEMPURA  
-horseradish  
 <br>
 <br>
-CELARIAC FROM THE OVEN  
-WITH LICORICE-VEGETABLE JUS  
-sunflowerseeds and nutbutter
+SALAD FROM RADICCHIO  
+and young beetroot  
+mustard-fruits and avocado  
 <br>
 <br>
-CHARD WITH CELERIAC  
-AND ONION FROM TROPEA  
-Buttermilk  
+CELARIAC FROM A SALTCRUST  
+with black truffle  
+creme from onions  
 <br>
 <br>
-BEAN CASSOULET  
-WITH GNOCCHI PARISIENNE  
-parmesan-creme  
+ROASTED GIRASOLE 
+and chervilroots  
+<br>
+<br>
+FERMENTED POINTED CABBAGE  
+with borlottibeans  
+jus from vegetables  
 <br>
 <br>
 CHEESE SELECTION  
 <br>
 <br>
-NOUGAT DESSERT  
-AND CHOCOLATE  
-saltcaramel ice-cream  
+CHOCOLATE DESSERT MONTE CARLO  
+with orange and whiskey  
+chocolate ice-cream and caramel  
+<br>
 <br>
 <br>
 <br>
