@@ -1,30 +1,31 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 
-MARINIERTE ROTE BEETE  
-mit Karotten-Tempura  
-Meerrettich  
+SALAT VON RADICCHIO  
+UND JUNGER ROTER BEETE  
+Senffrüchte und Avocado  
+<br><br>
+
+SELLERIE AUS DEM SALZTEIG  
+mit schwarzem Trüffel  
+Zwiebelcreme  
+<br><br>
+
+GERÖSTETER TOPINAMBUR  
+und Kerbelwurzel  
+<br><br>
+
+FERMENTIERTER SPITZKOHL    
+mit Borlottibohnen  
+Gemüsejus  
+<br><br>
+
+KÄSEAUSWAHL  
+<br><br>
+
+SCHOKOLADENDESSERT MONTE CARLO  
+mit Orange und Whiskey  
+Schokoladen Eis und Karamell  
 <br>
-<br>
-SELLERIE AUS DEM OFEN  
-mit Süssholz-Gemüse-Jus  
-Sonnenblumenkerne und Nussbutter   
-<br>
-<br>
-MANGOLD MIT SELLERIE   
-Tropea Zwiebel und Buttermilch  
-<br>
-<br>
-BOHNEN CASOULET  
-MIT GNOCCHI PARISIENNE  
-Parmesancreme  
-<br>
-<br>
-KÄSEAUSWAHL
-<br>
-<br>
-DESSERT VON NOUGAT  
-UND SCHOKOLADE  
-Salz-Karamell Eis  
 <br>
 <br>
 <br>
