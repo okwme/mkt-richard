@@ -47,6 +47,6 @@ Schokoladen-Eis und Karamell
 7 Gänge 100 €  
 <br>
 <br>
-*Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
+*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
 
 
