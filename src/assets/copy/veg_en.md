@@ -11,21 +11,21 @@ with black truffle<br>
 creme from onions<br>
 <br>
 <br>
-ROASTED GIRASOLE   
-and chervilroots   
+ROASTED GIRASOLE<br>
+and chervilroots<br>
 <br>
 <br>
-FERMENTED POINTED CABBAGE   
-with borlottibeans   
-jus from vegetables   
+FERMENTED POINTED CABBAGE<br>
+with borlottibeans<br>
+jus from vegetables<br>
 <br>
 <br>
-CHEESE SELECTION   
+CHEESE SELECTION<br>
 <br>
 <br>
-CHOCOLATE DESSERT MONTE CARLO   
-with orange and whiskey   
-chocolate ice-cream and caramel   
+CHOCOLATE DESSERT MONTE CARLO<br>
+with orange and whiskey<br>
+chocolate ice-cream and caramel<br>
 <br>
 <br>
 <br>
