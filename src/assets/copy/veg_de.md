@@ -24,7 +24,7 @@ KÄSEAUSWAHL
 
 SCHOKOLADENDESSERT MONTE CARLO  
 mit Orange und Whiskey  
-Schokoladen Eis und Karamell  
+Schokoladen-Eis und Karamell  
 <br>
 <br>
 <br>
