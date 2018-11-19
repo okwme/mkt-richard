@@ -3,8 +3,9 @@
 
 LOCH DUART LACHS MARINIERT  
 mit Avocado und Senffrüchten  
-Meerrettich
+Meerrettich  
 <br><br>
+
 SELLERIE AUS DEM SALZTEIG  
 mit schwarzem Trüffel  
 Zwiebelcreme  
@@ -29,13 +30,13 @@ ROSA BRUST
 mit schwarzer Walnuss  
 Chicorée und Süßholzjus  
 <br>
-—
+—  
 <br>
 KÄSEAUSWAHL  
 <br><br>
 SCHOKOLADENDESSERT MONTE CARLO  
 mit Orange und Whiskey  
-Schokoladen Eis und Karamell  
+Schokoladen-Eis und Karamell  
 <br>
 <br>
 <br>
