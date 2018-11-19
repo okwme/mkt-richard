@@ -32,7 +32,7 @@ pink breast
 with black walnuts  
 chicorée and liquorice jus  
 <br>
-—
+—  
 <br>
 CHEESE SELECTION  
 <br>
