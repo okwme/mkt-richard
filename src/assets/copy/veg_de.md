@@ -22,7 +22,8 @@ Gemüsejus
 KÄSEAUSWAHL  
 <br><br>
 
-"MONTE CARLO" VON DER GUANAJA SCHOKOLADE  
+"MONTE CARLO"  
+VON DER GUANAJA SCHOKOLADE  
 mit Orange und Whiskey  
 Schokoladen-Eis und Karamell  
 <br>
