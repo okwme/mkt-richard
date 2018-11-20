@@ -23,7 +23,8 @@ jus from vegetables<br>
 CHEESE SELECTION<br>
 <br>
 <br>
-GUAJANA CHOCOLATE-DESSERT "MONTE CARLO"  
+GUAJANA CHOCOLATE-DESSERT<br>
+"MONTE CARLO"<br>
 with orange and whiskey<br>
 chocolate ice-cream and caramel<br>
 <br>
