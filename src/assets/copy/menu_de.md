@@ -14,8 +14,8 @@ FORELLE VOM HOLZKOHLEGRILL
 mit Kartoffel-Mousseline  
 Molke  
 <br><br>
-MILCHKALBSBRIES MIT RÄUCHERAAL  
-fermentiertr Spitzkohl  
+MILCHKALBSBRIES MIT RAUCHAAL  
+fermentierter Spitzkohl  
 Birne und Estragon  
 <br>
 —
