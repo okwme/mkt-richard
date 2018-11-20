@@ -23,7 +23,7 @@ jus from vegetables<br>
 CHEESE SELECTION<br>
 <br>
 <br>
-CHOCOLATE DESSERT MONTE CARLO<br>
+GUAJANA CHOCOLATE-DESSERT "MONTE CARLO"  
 with orange and whiskey<br>
 chocolate ice-cream and caramel<br>
 <br>
@@ -31,7 +31,7 @@ chocolate ice-cream and caramel<br>
 <br>
 <br>
 4 Courses 58 Euro   
-5 Courses 68 Euro   
-6 Courses 78 Euro   
+5 Courses 72 Euro   
+6 Courses 84 Euro   
 <br>
 (all prices incl. VAT)
