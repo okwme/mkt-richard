@@ -47,7 +47,7 @@ chocolate ice-cream and caramel
 4 Courses 68 Euro  
 5 Courses 84 Euro  
 6 Courses 96 Euro  
-7 Courses 106 Euro
+7 Courses 106 Euro  
 8 Courses 118 Euro  
 <br>
 <br>
