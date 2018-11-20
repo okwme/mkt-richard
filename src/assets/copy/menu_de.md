@@ -24,7 +24,7 @@ Birne und Estragon
 <br>
 TAJINE  
 mit Feigen und Mandel  
-Sesamkrokant  
+Gerösteter Rosenkohl mit Salbei und Dill  
 <br><br>
 ROSA BRUST  
 mit schwarzer Walnuss  
@@ -34,7 +34,7 @@ Chicorée und Süßholzjus
 <br>
 KÄSEAUSWAHL  
 <br><br>
-SCHOKOLADENDESSERT MONTE CARLO  
+"MONTE CARLO" VON DER GUANAJA SCHOKOLADE  
 mit Orange und Whiskey  
 Schokoladen-Eis und Karamell  
 <br>
@@ -42,9 +42,10 @@ Schokoladen-Eis und Karamell
 <br>
 <br>
 4 Gänge 68 €  
-5 Gänge 82 €  
-6 Gänge 92 €  
-7 Gänge 100 €  
+5 Gänge 84 €  
+6 Gänge 96 €  
+7 Gänge 106 €  
+8 Gänge 118 €
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
