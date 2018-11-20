@@ -22,7 +22,7 @@ Gemüsejus
 KÄSEAUSWAHL  
 <br><br>
 
-SCHOKOLADENDESSERT MONTE CARLO  
+"MONTE CARLO" VON DER GUANAJA SCHOKOLADE  
 mit Orange und Whiskey  
 Schokoladen-Eis und Karamell  
 <br>
@@ -30,7 +30,7 @@ Schokoladen-Eis und Karamell
 <br>
 <br>
 _4 Gänge 58 €_  
-_5 Gänge 68 €_   
-_6 Gänge 78 €_  
+_5 Gänge 72 €_   
+_6 Gänge 84 €_  
   
 \*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
