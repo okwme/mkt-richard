@@ -25,7 +25,7 @@ pear and estragon
 <br>
 TAJINE  
 with figs and almonds  
-sesame brittle  
+roasted brussels sprouts, sage and dill    
 <br>
 <br>
 pink breast  
@@ -37,7 +37,7 @@ chicorée and liquorice jus
 CHEESE SELECTION  
 <br>
 <br>
-CHOCOLATE DESSERT MONTE CARLO  
+GUAJANA CHOCOLATE-DESSERT "MONTE CARLO"  
 with orange and whiskey  
 chocolate ice-cream and caramel  
 <br>
@@ -45,10 +45,10 @@ chocolate ice-cream and caramel
 <br>
 <br>   
 4 Courses 68 Euro  
-5 Courses 82 Euro  
-6 Courses 92 Euro  
-7 Courses 100 Euro  
-  
+5 Courses 84 Euro  
+6 Courses 96 Euro  
+7 Courses 106 Euro
+8 Courses 118 Euro  
 <br>
 <br>
 (all prices incl. VAT)
