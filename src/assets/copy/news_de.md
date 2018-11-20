@@ -24,6 +24,10 @@ mit geröstetem Blumenkohl
 Bisque  
 <br>
 <br>
+SEEZUNGE MEUNIÈRE  
+Austern Beurre blanc  
+<br>
+<br>
 TOURNEDOS VOM SIMMENTHALER RIND  
 Topinambur und Roscoff-Zwiebel  
 Pommes Anna  
