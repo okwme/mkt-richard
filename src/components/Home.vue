@@ -168,7 +168,7 @@ export default {
         element: continuousElements[i],
         offset: -25,
         handler (dir) {
-          console.log(this.element.id)
+          // console.log(this.element.id)
           vm.atTop =
             this.element.id === 'nav' ||
             (this.element.id === 'about' && dir === 'up')

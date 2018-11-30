@@ -21,7 +21,7 @@
           :src="content.path + src.file" type="video/mp4" :media="src.media"/>
         </video>
         <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
-        <div class="landingImage" v-if="i === 0 && landingImage" v-html="landingImage"/>
+        <div v-if="i === 0 && landingImage" @click="goToNews" class="landingImage"  v-html="landingImage"/>
       </div>
     </full-page>
     <div :class="{showNav:showNav, floatLogo: true}"><a href="/"><img src="/static/img/logo_big.png"></a></div>
@@ -234,6 +234,10 @@ export default {
     document.querySelectorAll('.fp-video').forEach(v => enableInlineVideo(v))
   },
   methods: {
+    goToNews () {
+      this.showNav = true
+      this.$router.push('/news')
+    },
     afterLoad (origin, destination, direction) {
       if (!origin) {
         this.onLeave(origin, destination, direction)
@@ -401,6 +405,7 @@ strong {
 }
 .landingImage {
   // text-align: center;
+  cursor: pointer;
   display: flex;
   height: 90vh;
   align-items: center;
