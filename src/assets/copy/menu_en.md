@@ -28,7 +28,7 @@ with figs and almonds
 roasted brussels sprouts, sage and dill    
 <br>
 <br>
-pink breast  
+PINK BREAST    
 with black walnuts  
 chicorée and liquorice jus  
 <br>
