@@ -5,7 +5,7 @@
 <br>
 After the abundant holidays  
 we dedicate our restaurant  
-during January 3. — 5th  
+during January 3rd — 5th  
 to the swiss classic cuisine, exclusively.  
 <br>
 Come and enjoy a cordial eve  
