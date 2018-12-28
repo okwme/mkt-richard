@@ -1,51 +1,51 @@
 ## UNSER AKTUELLES MENU
-
-
+<br>
+<br>
 LOCH DUART LACHS MARINIERT  
-mit Avocado und Senffrüchten  
+Avocado und Senffrüchte  
 Meerrettich  
-<br><br>
-
+<br>
+<br>
 SELLERIE AUS DEM SALZTEIG  
-mit schwarzem Trüffel  
+schwarzer Trüffel  
 Zwiebelcreme  
-<br><br>
+<br>
+<br>
 FORELLE VOM HOLZKOHLEGRILL  
-mit Kartoffel-Mousseline  
-Molke  
-<br><br>
-MILCHKALBSBRIES MIT RAUCHAAL  
+Kartoffel und Molke  
+<br>
+<br>
+BRIES MIT RAUCHAAL  
 fermentierter Spitzkohl  
 Birne und Estragon  
 <br>
-—
 <br>
-*Challans Ente in 2 Gängen:*  
+KABELJAU  
+FENCHEL UND GRÜNER ANIS  
 <br>
-TAJINE  
-mit Feigen und Mandel  
-Gerösteter Rosenkohl mit Salbei und Dill  
-<br><br>
-ROSA BRUST  
-mit schwarzer Walnuss  
-Chicorée und Süßholzjus  
 <br>
-—  
+KALBSRÜCKEN AUS CORRÈZE  
+SPITZPAPRIKA UND KICHERERBSEN  
+TAGGIASCA OLIVEN, MAJORAN  
+<br>
 <br>
 KÄSEAUSWAHL  
-<br><br>
-"MONTE CARLO" VON DER GUANAJA SCHOKOLADE  
-mit Orange und Whiskey  
-Schokoladen-Eis und Karamell  
 <br>
 <br>
+ "Monte Carlo"  
+VON DER GUANAJA SCHOKOLADE  
+Orange und Whiskey  
+Schokoladen-Sorbet und Karamell  
 <br>
 <br>
-4 Gänge 68 €  
-5 Gänge 84 €  
-6 Gänge 96 €  
-7 Gänge 106 €  
-8 Gänge 118 €
+.
+
+4 GÄNGE 68 EURO  
+5 GÄNGE 84 EURO  
+6 GÄNGE 96 EURO  
+7 GÄNGE 106 EURO  
+8 Gänge 118 EURO  
+
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
