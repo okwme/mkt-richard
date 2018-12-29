@@ -6,36 +6,36 @@ Avocado und Senffrüchte<br>
 Meerrettich<br>
 <br>
 <br>
-SELLERIE AUS DEM SALZTEIG  
-schwarzer Trüffel  
-Zwiebelcreme  
+SELLERIE AUS DEM SALZTEIG<br> 
+schwarzer Trüffel<br>  
+Zwiebelcreme<br>  
 <br>
 <br>
-FORELLE VOM HOLZKOHLEGRILL  
-Kartoffel und Molke  
+FORELLE VOM HOLZKOHLEGRILL<br> 
+Kartoffel und Molke<br>  
 <br>
 <br>
-BRIES MIT RAUCHAAL  
-fermentierter Spitzkohl  
-Birne und Estragon  
+BRIES MIT RAUCHAAL<br>  
+fermentierter Spitzkohl<br>  
+Birne und Estragon<br> 
 <br>
 <br>
-KABELJAU  
-FENCHEL UND GRÜNER ANIS  
+KABELJAU<br>  
+FENCHEL UND GRÜNER ANIS<br>  
 <br>
 <br>
-KALBSRÜCKEN AUS CORRÈZE  
-SPITZPAPRIKA UND KICHERERBSEN  
-TAGGIASCA OLIVEN, MAJORAN  
+KALBSRÜCKEN AUS CORRÈZE<br>  
+SPITZPAPRIKA UND KICHERERBSEN<br> 
+TAGGIASCA OLIVEN, MAJORAN<br>  
 <br>
 <br>
-KÄSEAUSWAHL  
+KÄSEAUSWAHL<br>  
 <br>
 <br>
- "Monte Carlo"  
-VON DER GUANAJA SCHOKOLADE  
-Orange und Whiskey  
-Schokoladen-Sorbet und Karamell  
+ "Monte Carlo"<br>  
+VON DER GUANAJA SCHOKOLADE<br>  
+Orange und Whiskey<br>  
+Schokoladen-Sorbet und Karamell<br>  
 <br>
 <br>
 .
