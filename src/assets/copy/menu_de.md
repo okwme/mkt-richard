@@ -1,9 +1,9 @@
 ## UNSER AKTUELLES MENU
 <br>
 <br>
-LOCH DUART LACHS MARINIERT    
-Avocado und Senffrüchte  
-Meerrettich  
+LOCH DUART LACHS MARINIERT<br>   
+Avocado und Senffrüchte<br>
+Meerrettich<br>
 <br>
 <br>
 SELLERIE AUS DEM SALZTEIG  
