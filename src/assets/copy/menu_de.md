@@ -1,7 +1,7 @@
 ## UNSER AKTUELLES MENU
 <br>
 <br>
-LOCH DUART LACHS MARINIERT  
+LOCH DUART LACHS MARINIERT    
 Avocado und Senffrüchte  
 Meerrettich  
 <br>
@@ -45,7 +45,6 @@ Schokoladen-Sorbet und Karamell
 6 GÄNGE 96 EURO  
 7 GÄNGE 106 EURO  
 8 Gänge 118 EURO  
-
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
