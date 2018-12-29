@@ -19,20 +19,17 @@ SWEETBREAD AND SMOKED EEL
 fermented pointed cabbage  
 pear and estragon  
 <br>
-—
-<br>
-*Challans Duck in 2 courses:*  
-<br>
-TAJINE  
-with figs and almonds  
-roasted brussels sprouts, sage and dill    
 <br>
 <br>
-PINK BREAST    
-with black walnuts  
-chicorée and liquorice jus  
+CODFISCH  
+FENNEL AND GREEN ANISE  
 <br>
-—  
+<br>
+CORRÈZE VEAL  
+POINTED BELL-PEPPER AND CHICKPEAS  
+Taggiasca olives, morjoram  
+<br>
+<br> 
 <br>
 CHEESE SELECTION  
 <br>
