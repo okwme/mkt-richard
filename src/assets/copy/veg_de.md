@@ -14,9 +14,9 @@ GERÖSTETER TOPINAMBUR
 und Kerbelwurzel  
 <br><br>
 
-FERMENTIERTER SPITZKOHL    
-mit Borlottibohnen  
-Gemüsejus  
+GEMÜSE-BOUILLABAISSE  
+Artichocken & Spitzpaprika  
+Gnocchi Parisienne   
 <br><br>
 
 KÄSEAUSWAHL  
