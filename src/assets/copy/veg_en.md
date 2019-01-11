@@ -15,9 +15,9 @@ ROASTED GIRASOLE<br>
 and chervilroots<br>
 <br>
 <br>
-FERMENTED POINTED CABBAGE<br>
-with borlottibeans<br>
-jus from vegetables<br>
+VEGETABLE BOUILLABAISSE<br>
+artichokes & pointed bell-pepper<br>
+gnocchi parisienne<br>
 <br>
 <br>
 CHEESE SELECTION<br>
