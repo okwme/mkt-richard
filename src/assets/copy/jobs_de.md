@@ -2,7 +2,7 @@
 
 Für unser Team suchen wir zur Zeit:  
 <br>
-Service 
+Service  
 **Sommelier / Mâitre (m/w)**  
 **Restaurantleitung**  
 **Chef de Rang (m/w)**  
