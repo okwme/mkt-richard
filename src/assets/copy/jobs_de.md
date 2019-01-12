@@ -16,7 +16,6 @@ Küche
 <br>
 Teamfähigkeit, Erfahrung und gute Deutsch-Kenntnisse sind für uns sehr wichtig.  
 <br>
-<br>
 Ist die von Ihnen gesuchte Position nicht vakant? Zögern Sie nicht, uns zu kontaktieren.  
 Vielleicht könnte Ihre Person und Ihr Profil mittel- oder längerfristig in unser Team passen.
 <br>
