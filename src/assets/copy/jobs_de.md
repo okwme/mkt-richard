@@ -2,10 +2,22 @@
 
 Für unser Team suchen wir zur Zeit:  
 <br>
-Service  
+Service 
+<br>
+**Sommelier / Mâitre (m/w)**  
+<br>
+**Restaurantleitung**  
+<br>
+**Chef de Rang (m/w)**  
+<br>
 **Aushilfen / Runner (m/w)**  
 <br>
-Küche  
+Küche <br>
+<br>
+**Sous Chef (m/w)**  
+<br>
+**Chef de Partie (m/w)**  
+<br>
 **Koch Lehrling (m/w)**  
 <br>
 Teamfähigkeit, Erfahrung und gute Deutsch-Kenntnisse sind für uns sehr wichtig.  
