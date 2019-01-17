@@ -1,32 +1,41 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-SALAD FROM RADICCHIO<br>
-and young beetroot<br>
-mustard-fruits and avocado<br>
+DUCK AND CHESTNUT<br>
+pickled apple<br>
+kohlrabi and walnut<br>
 <br>
 <br>
-CELARIAC FROM A SALTCRUST<br>
-with black truffle<br>
-creme from onions<br>
+LACQUERED CELERIAC<br>
+licorice vegetable jus<br>
+beurre noisette<br>
 <br>
 <br>
-ROASTED GIRASOLE<br>
-and chervilroots<br>
+TROUT CHAR-GRILLED<br>
+grenobloise<br>
+fermented pointed cabbage & whey<br>
 <br>
 <br>
-VEGETABLE BOUILLABAISSE<br>
-artichokes & pointed bell-pepper<br>
-gnocchi parisienne<br>
+SMOKED PORK CHOP<br>
+red beetroot with tahini<br>
+eel stock<br>
+<br>
+<br>
+CODFISCH<br>
+FENNEL AND GREEN ANISE<br>
+<br>
+<br>
+CORRÈZE VEAL<br>
+POINTED BELL-PEPPER AND CHICKPEAS<br>
+taggiasca olives, morjoram<br>
 <br>
 <br>
 CHEESE SELECTION<br>
 <br>
 <br>
-GUAJANA CHOCOLATE-DESSERT<br>
-"MONTE CARLO"<br>
-with orange and whiskey<br>
-chocolate ice-cream and caramel<br>
+CITRUS FRUITS WITH CAMOMILLE<br>
+almond ice-cream<br>
+white chocolate<br>
 <br>
 <br>
 <br>
