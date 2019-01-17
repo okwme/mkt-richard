@@ -27,7 +27,7 @@ FENNEL AND GREEN ANISE<br>
 <br>
 <br>
 CORRÈZE VEAL<br>
-POINTED BELL-PEPPER AND CHICKPEAS<br>
+pointed bell-pepper and chickpeas<br>
 Taggiasca olives, morjoram<br>
 <br>
 <br>
