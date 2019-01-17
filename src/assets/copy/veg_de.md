@@ -4,10 +4,9 @@ SALAT VON RADICCHIO
 UND JUNGER ROTER BEETE  
 Senffrüchte und Avocado  
 <br><br>
-
-SELLERIE AUS DEM SALZTEIG  
-mit schwarzem Trüffel  
-Zwiebelcreme  
+GELACKTE SELLERIE AUS DEM OFEN  
+Süssholz-Gemüse Jus
+Beurre Noisette  
 <br><br>
 
 GERÖSTETER TOPINAMBUR  
@@ -22,10 +21,8 @@ Gnocchi Parisienne
 KÄSEAUSWAHL  
 <br><br>
 
-"MONTE CARLO"  
-VON DER GUANAJA SCHOKOLADE  
-mit Orange und Whiskey  
-Schokoladen-Eis und Karamell  
+ZITRUSFRÜCHTE MIT KAMILLE  
+Mandeleis und weisse schokolade   
 <br>
 <br>
 <br>
