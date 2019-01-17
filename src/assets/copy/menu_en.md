@@ -29,10 +29,10 @@ CORRÈZE VEAL<br>
 POINTED BELL-PEPPER AND CHICKPEAS<br>
 Taggiasca olives, morjoram<br>
 <br>
-<br>
+
 CHEESE SELECTION<br>
 <br>
-<br>
+
 CITRUS FRUITS WITH CAMOMILLE<br>
 almond ice-cream<br>
 white chocolate<br>
