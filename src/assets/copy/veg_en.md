@@ -1,9 +1,9 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-DUCK AND CHESTNUT<br>
-pickled apple<br>
-kohlrabi and walnut<br>
+RADICCHIO SALAD<br>
+and young beetroot<br>
+mustard-fruits and avocado<br>
 <br>
 <br>
 LACQUERED CELERIAC<br>
@@ -11,23 +11,13 @@ licorice vegetable jus<br>
 beurre noisette<br>
 <br>
 <br>
-TROUT CHAR-GRILLED<br>
-grenobloise<br>
-fermented pointed cabbage & whey<br>
+OMELETTES BAVEUSE<br>
+with MORELS Á LA CRÈME<br>
 <br>
 <br>
-SMOKED PORK CHOP<br>
-red beetroot with tahini<br>
-eel stock<br>
-<br>
-<br>
-CODFISCH<br>
-FENNEL AND GREEN ANISE<br>
-<br>
-<br>
-CORRÈZE VEAL<br>
-POINTED BELL-PEPPER AND CHICKPEAS<br>
-taggiasca olives, morjoram<br>
+VEGETABLE BOUILLABAISSE<br>
+artichokes & pointed bell-pepper<br>
+gnocchi parisienne<br>
 <br>
 <br>
 CHEESE SELECTION<br>
@@ -36,6 +26,7 @@ CHEESE SELECTION<br>
 CITRUS FRUITS WITH CAMOMILLE<br>
 almond ice-cream<br>
 white chocolate<br>
+
 <br>
 <br>
 <br>
