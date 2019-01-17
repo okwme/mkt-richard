@@ -1,6 +1,6 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
-<br>
+
 RADICCHIO SALAD<br>
 and young beetroot<br>
 mustard-fruits and avocado<br>
