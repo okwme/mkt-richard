@@ -1,42 +1,41 @@
 ## OUR CURRENT MENU
-
-MARINATED SALMON FROM LOCH DUAT  
-with avocado and mustard-fruits  
-horseradish  
 <br>
 <br>
-CELARIAC FROM A SALTCRUST    
-with black truffle  
-creme fom onions  
+DUCK AND CHESTNUT<br>
+pickled apple<br>
+kohlrabi and walnut<br>
 <br>
 <br>
-TROUT CHAR-GRILLED  
-potato mousseline  
-whey  
+LACQUERED CELERIAC<br>
+licorice vegetable jus<br>
+beurre noisette<br>
 <br>
 <br>
-SWEETBREAD AND SMOKED EEL  
-fermented pointed cabbage  
-pear and estragon  
+TROUT CHAR-GRILLED<br>
+grenobloise<br>
+fermented pointed cabbage & whey<br>
 <br>
 <br>
-<br>
-CODFISCH  
-FENNEL AND GREEN ANISE  
-<br>
-<br>
-CORRÈZE VEAL  
-POINTED BELL-PEPPER AND CHICKPEAS  
-Taggiasca olives, morjoram  
-<br>
-<br> 
-<br>
-CHEESE SELECTION  
+SMOKED PORK CHOP<br>
+red beetroot with tahini<br>
+eel stock<br>
 <br>
 <br>
-GUAJANA CHOCOLATE-DESSERT "MONTE CARLO"  
-with orange and whiskey  
-chocolate ice-cream and caramel  
+CODFISH<br>
+FENNEL AND GREEN ANISE<br>
+<br>
+<br>
+CORRÈZE VEAL<br>
+POINTED BELL-PEPPER AND CHICKPEAS<br>
+Taggiasca olives, morjoram<br>
+<br>
+<br>
+CHEESE SELECTION<br>
+<br>
+<br>
+CITRUS FRUITS WITH CAMOMILLE<br>
+almond ice-cream<br>
+white chocolate<br>
 <br>
 <br>
 <br>
