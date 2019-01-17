@@ -1,41 +1,41 @@
 ## UNSER AKTUELLES MENU
 <br>
 <br>
-LOCH DUART LACHS MARINIERT<br>   
-Avocado und Senffrüchte<br>
-Meerrettich<br>
+ENTE MIT MARONE<br>
+Eingelegter Apfel<br>
+Kohlrabi und Walnuss<br>
 <br>
 <br>
-SELLERIE AUS DEM SALZTEIG<br> 
-schwarzer Trüffel<br>  
-Zwiebelcreme<br>  
+GELACKTE SELLERIE AUS DEM OFEN<br>
+Süssholz-Gemüse Jus<br>
+Beurre Noisette<br>
 <br>
 <br>
-FORELLE VOM HOLZKOHLEGRILL<br> 
-Kartoffel und Molke<br>  
+FORELLE VOM HOLZKOHLEGRILL<br>
+grenobloise<br>
+Fermentierter Spitzkohl und Molke<br>
 <br>
 <br>
-BRIES MIT RAUCHAAL<br>  
-fermentierter Spitzkohl<br>  
-Birne und Estragon<br> 
+GERAUCHTES SCHWEINERIPPCHEN<br>
+Rote Beete mit Tahini<br>
+Aalfond<br>
 <br>
 <br>
-KABELJAU<br>  
-FENCHEL UND GRÜNER ANIS<br>  
+KABELJAU<br>
+FENCHEL UND GRÜNER ANIS<br>
 <br>
 <br>
-KALBSRÜCKEN AUS CORRÈZE<br>  
-SPITZPAPRIKA UND KICHERERBSEN<br> 
-TAGGIASCA OLIVEN, MAJORAN<br>  
+KALBSRÜCKEN AUS CORRÈZE<br>
+SPITZPAPRIKA UND KICHERERBSEN<br>
+TAGGIASCA OLIVEN, MAJORAN<br>
 <br>
 <br>
-KÄSEAUSWAHL<br>  
+KÄSEAUSWAHL<br>
 <br>
 <br>
- "Monte Carlo"<br>  
-VON DER GUANAJA SCHOKOLADE<br>  
-Orange und Whiskey<br>  
-Schokoladen-Sorbet und Karamell<br>  
+ZITRUSFRÜCHTE MIT KAMILLE<br>
+Mandeleis und weisse Schokolade<br>
+<br>
 <br>
 <br>
 .
