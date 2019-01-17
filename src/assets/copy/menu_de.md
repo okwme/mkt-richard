@@ -6,7 +6,7 @@ Eingelegter Apfel<br>
 Kohlrabi und Walnuss<br>
 <br>
 <br>
-GELACKTE SELLERIE AUS DEM OFEN<br>
+GELACKTER SELLERIE AUS DEM OFEN<br>
 Süssholz-Gemüse Jus<br>
 Beurre Noisette<br>
 <br>
@@ -26,8 +26,8 @@ FENCHEL UND GRÜNER ANIS<br>
 <br>
 <br>
 KALBSRÜCKEN AUS CORRÈZE<br>
-SPITZPAPRIKA UND KICHERERBSEN<br>
-TAGGIASCA OLIVEN, MAJORAN<br>
+Spitzpaprika und Kichererbsen<br>
+Taggiasca Oliven und Majoran<br>
 <br>
 <br>
 KÄSEAUSWAHL<br>
