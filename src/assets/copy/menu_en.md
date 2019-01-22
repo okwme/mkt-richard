@@ -21,7 +21,7 @@ red beetroot with tahini<br>
 eel stock<br>
 <br>
 <br>
-CODFISH<br>
+SEA BASS<br>
 FENNEL AND GREEN ANISE<br>
 <br>
 <br>
