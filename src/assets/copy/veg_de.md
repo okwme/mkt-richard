@@ -10,7 +10,7 @@ Beurre Noisette
 <br><br>
 
 OMELETTES BAVEUSE  
-MIT MORCHELN Á LA CRÈME 
+MIT MORCHELN Á LA CRÈME  
 <br><br>
 
 GEMÜSE-BOUILLABAISSE  
