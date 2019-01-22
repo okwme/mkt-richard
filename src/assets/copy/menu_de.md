@@ -21,7 +21,7 @@ Rote Beete mit Tahini<br>
 Aalfond<br>
 <br>
 <br>
-KABELJAU<br>
+WOLFSBARSCH<br>
 FENCHEL UND GRÜNER ANIS<br>
 <br>
 <br>
