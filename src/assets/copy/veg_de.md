@@ -9,8 +9,8 @@ Süssholz-Gemüse Jus
 Beurre Noisette  
 <br><br>
 
-GERÖSTETER TOPINAMBUR  
-und Kerbelwurzel  
+OMELETTES BAVEUSE  
+MIT MORCHELN Á LA CRÈME 
 <br><br>
 
 GEMÜSE-BOUILLABAISSE  
