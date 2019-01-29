@@ -13,7 +13,7 @@ beurre noisette<br>
 <br>
 TROUT CHAR-GRILLED<br>
 grenobloise<br>
-fermented pointed cabbage & whey<br>
+fermented pointed cabbage<br>
 <br>
 <br>
 SMOKED PORK CHOP<br>
