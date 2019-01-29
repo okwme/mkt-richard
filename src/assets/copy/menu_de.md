@@ -13,7 +13,7 @@ Beurre Noisette<br>
 <br>
 FORELLE VOM HOLZKOHLEGRILL<br>
 grenobloise<br>
-Fermentierter Spitzkohl und Molke<br>
+Fermentierter Spitzkohl<br>
 <br>
 <br>
 GERAUCHTES SCHWEINERIPPCHEN<br>
