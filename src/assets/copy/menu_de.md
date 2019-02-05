@@ -16,7 +16,7 @@ grenobloise<br>
 Fermentierter Spitzkohl<br>
 <br>
 <br>
-GERAUCHTES SCHWEINERIPPCHEN<br>
+GERÄUCHERTES SCHWEINERIPPCHEN<br>
 Rote Beete mit Tahini<br>
 Aalfond<br>
 <br>
