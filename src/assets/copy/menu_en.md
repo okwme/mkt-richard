@@ -34,7 +34,7 @@ Taggiasca olives, morjoram<br>
 CHEESE SELECTION<br>
 <br>
 
-CITRUS FRUITS WITH CAMOMILLE<br>
+CITRUS FRUITS WITH CHAMOMILLE<br>
 almond ice-cream<br>
 white chocolate<br>
 <br>
