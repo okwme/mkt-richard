@@ -11,8 +11,10 @@ licorice vegetable jus<br>
 beurre noisette<br>
 <br>
 <br>
-OMELETTES BAVEUSE<br>
-with MORELS Á LA CRÈME<br>
+PUNTARELLA  
+CAPERS AND SAVORY  
+potato-mousseline  
+chilli-oil<br>
 <br>
 <br>
 VEGETABLE BOUILLABAISSE<br>
