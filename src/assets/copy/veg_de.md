@@ -9,8 +9,10 @@ Süssholz-Gemüse Jus
 Beurre Noisette  
 <br><br>
 
-OMELETTES BAVEUSE  
-MIT MORCHELN Á LA CRÈME  
+PUNTARELLA  
+KAPERN UND BOHNENKRAUT  
+Kartoffel-Mousseline  
+Chilli-Öl  
 <br><br>
 
 GEMÜSE-BOUILLABAISSE  
