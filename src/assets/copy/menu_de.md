@@ -44,7 +44,7 @@ Mandeleis und weisse Schokolade<br>
 5 GÄNGE 84 EURO  
 6 GÄNGE 96 EURO  
 7 GÄNGE 106 EURO  
-8 Gänge 118 EURO  
+8 GÄNGE 118 EURO    
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
