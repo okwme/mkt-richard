@@ -1,12 +1,17 @@
 ## NEWS
 
-**SWISS NIGHTS**  
+**GENUSS MENU**    
 <br>
+On March 20th 2019, 7 pm  
+we will celebrate the Genuss Menu  
+together with winery Clemens Busch from Mosel  
+and in cooperation with Tagesspiegel!!   
+
+We will serve 5 courses  
+paired with wonderful wine from Clemens Busch  
+at 129€.  
+  
+Book your ticket via mail@restaurant-richard.de  
+  
+We are looking forward to an evening with you!
 <br>
-After the abundant holidays  
-we dedicate our restaurant  
-during January 3rd — 5th  
-to the swiss classic cuisine, exclusively.  
-<br>
-Come and enjoy a cordial eve  
-with wonderfully warm classics from switzerland.
