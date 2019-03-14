@@ -9,7 +9,8 @@ und in Zusammenarbeit mit dem Tagesspiegel
 das Genuss Menu!!  
 
 Wir servieren 5 Gänge  
-in wunderbarer Weinbegleitung von Clemens Busch  
+in wunderbarer Weinbegleitung  
+von Clemens Busch  
 zu 129€.  
 
 Bitte bucht via mail@restaurant-richard.de  
