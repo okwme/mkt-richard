@@ -1,19 +1,22 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
-
-RADICCHIO SALAD<br>
-and young beetroot<br>
-mustard-fruits and avocado<br>
+<br>
+MARINATED SALSIFY SALAD<br>
+firar's beard & a ginger-emulsion<br>
 <br>
 <br>
-LACQUERED CELERIAC<br>
+LACQUERED CELERIAC<br> 
 licorice vegetable jus<br>
-beurre noisette<br>
+beurre noisette<br> 
 <br>
 <br>
-PUNTARELLA  
-CAPERS AND SAVORY  
-potato-mousseline  
+DEHYDRATED CARROT<br>
+BROAD BEAN AND WILD GARLIC<br>
+<br>
+<br>
+PUNTARELLA<br>
+capers and savory<br>
+potato-mousseline<br>
 chilli-oil<br>
 <br>
 <br>
@@ -22,12 +25,12 @@ artichokes & pointed bell-pepper<br>
 gnocchi parisienne<br>
 <br>
 <br>
-CHEESE SELECTION<br>
+Cheese selection<br>
 <br>
 <br>
-CITRUS FRUITS WITH CHAMOMILLE<br>
-almond ice-cream<br>
-white chocolate<br>
+MARINATED APPLE-TARTE<br>
+Earl Gray Crumble & Cinnamon Ice Cream<br>
+
 
 <br>
 <br>
@@ -35,6 +38,7 @@ white chocolate<br>
 <br>
 4 Courses 58 Euro<br>   
 5 Courses 72 Euro<br>   
-6 Courses 84 Euro<br>   
+6 Courses 84 Euro<br>
+7 Courses 92 Euro<br>
 <br>
 (all prices incl. VAT)
