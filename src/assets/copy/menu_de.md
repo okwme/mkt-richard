@@ -2,7 +2,6 @@
 <br>
 <br>
 SCHOTTISCHE JAKOBSMUSCHEL  
-
 Marinierte Schwarzwurzel & Mönchsbart  
 <br>
 <br>
@@ -20,7 +19,7 @@ Rhabarber & junger Knoblauch
 Mangold  
 <br>
 <br>
-MIERAL-PERLHUHN IN 2 GÄNGEN  
+*MIERAL-PERLHUHN IN 2 GÄNGEN  
   
 RAVIOLI  
 mit Foie Gras & Artischocke  
@@ -42,8 +41,11 @@ Earl Grey-Crumble & Zimt-Eis
 .  
 <br>
 <br>
-4 GÄNGE 68 EURO / 5 GÄNGE 84 EURO / 6 GÄNGE 96 EURO  
-7 GÄNGE 106 EURO /  8 GÄNGE 118 EURO  
+4 GÄNGE 68 EURO  
+5 GÄNGE 84 EURO  
+6 GÄNGE 96 EURO  
+7 GÄNGE 106 EURO  
+8 GÄNGE 118 EURO  
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
