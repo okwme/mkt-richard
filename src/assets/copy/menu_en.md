@@ -1,42 +1,41 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-DUCK AND CHESTNUT<br>
-pickled apple<br>
-kohlrabi and walnut<br>
+SCOTTISH SCALLOP<br>
+Marinated salsify & firar's beard<br>
 <br>
 <br>
-LACQUERED CELERIAC<br>
+LACQUERED CELERIAC<br> 
 licorice vegetable jus<br>
-beurre noisette<br>
+beurre noisette<br> 
 <br>
 <br>
-TROUT CHAR-GRILLED<br>
-grenobloise<br>
-fermented pointed cabbage<br>
+PULPO AND DEHYDRATED CARROT<br>
+BROAD BEAN AND WILD GARLIC<br>
 <br>
 <br>
-SMOKED PORK CHOP<br>
-red beetroot with tahini<br>
-eel stock<br>
+MONKFISH<br>
+Rhubarb & young garlic<br>
+chard<br>
 <br>
 <br>
-SEA BASS<br>
-FENNEL AND GREEN ANISE<br>
+MIERAL GUINEA FOWL IN 2 COURSES<br>
 <br>
+RAVIOLI<br>
+with foie gras & artichoke<br>
+thyme bouillon<br>
 <br>
-<br>
-CORRÈZE VEAL<br>
-pointed bell-pepper and chickpeas<br>
-Taggiasca olives, morjoram<br>
+CHEST<br>
+with aniseed and pine nuts<br>
+Morels and leaf spinach<br>
 <br>
 <br>
 CHEESE SELECTION<br>
 <br>
+<br>
+MARINATED APPLE-TARTE<br>
+Earl Gray Crumble & Cinnamon Ice Cream<br>
 
-CITRUS FRUITS WITH CHAMOMILLE<br>
-almond ice-cream<br>
-white chocolate<br>
 <br>
 <br>
 <br>
