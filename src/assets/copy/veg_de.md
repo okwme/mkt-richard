@@ -35,9 +35,9 @@ Earl Grey-Crumble & Zimt-Eis<br>
 <br>
 <br>
 <br>
-4 Gänge 58 €<br>
-5 Gänge 72 €<br>  
-6 Gänge 84 €<br>
-7 Gänge 92 €<br>
+4 Gänge 58 €<br>  
+5 Gänge 72 €<br>    
+6 Gänge 84 €<br>  
+7 Gänge 92 €<br>  
   
 \*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
