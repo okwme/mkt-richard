@@ -19,7 +19,7 @@ Rhabarber & junger Knoblauch
 Mangold  
 <br>
 <br>
-*MIERAL-PERLHUHN IN 2 GÄNGEN  
+_MIERAL-PERLHUHN IN 2 GÄNGEN_    
   
 RAVIOLI  
 mit Foie Gras & Artischocke  
