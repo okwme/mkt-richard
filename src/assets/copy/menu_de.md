@@ -26,7 +26,7 @@ mit Foie Gras & Artischocke<br>
 Thymian Bouillon<br>
 <br>
 BRUST    
-Mit ANIS UND PINIENKERNEN<br>
+MIT ANIS UND PINIENKERNEN<br>
 Morcheln und Blattspinat<br>
 <br>
 <br>
