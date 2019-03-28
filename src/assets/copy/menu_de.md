@@ -5,13 +5,19 @@ SCHOTTISCHE JAKOBSMUSCHEL 
 Marinierte Schwarzwurzel & Mönchsbart    
 <br>
 <br>
+<br>
+<br>
 GELACKTER SELLERIE AUS DEM OFEN    
 Süssholz-Gemüse-Jus    
 Beurre Noisette    
 <br>
 <br>
+<br>
+<br>
 PULPO MIT DEHYDRIERTER KAROTTE    
 SAUBOHNE UND BÄRLAUCH    
+<br>
+<br>
 <br>
 <br>
 SEETEUFEL     
@@ -19,7 +25,9 @@ Rhabarber & junger Knoblauch
 Mangold    
 <br>
 <br>
-_MIERAL-PERLHUHN IN 2 GÄNGEN_      
+<br>
+<br>
+MIERAL-PERLHUHN IN 2 GÄNGEN    
   
 RAVIOLI    
 mit Foie Gras & Artischocke    
@@ -31,9 +39,13 @@ Mit ANIS UND PINIENKERNEN
 Morcheln und Blattspinat    
 <br>
 <br>
+<br>
+<br>
 KÄSEAUSWAHL    
 <br>
 <br>  
+<br>
+<br>
 TARTE VOM EINGELEGTEN APFEL    
 Earl Grey-Crumble & Zimt-Eis    
 <br>
