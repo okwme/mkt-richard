@@ -1,53 +1,40 @@
 ## UNSER AKTUELLES MENU
 <br>
 <br>
-SCHOTTISCHE JAKOBSMUSCHEL    
-Marinierte Schwarzwurzel & Mönchsbart    
+SCHOTTISCHE JAKOBSMUSCHEL<br>    
+Marinierte Schwarzwurzel & Mönchsbart<br>    
 <br>
 <br>
+GELACKTER SELLERIE AUS DEM OFEN<br>    
+Süssholz-Gemüse-Jus<br>    
+Beurre Noisette<br>    
 <br>
 <br>
-GELACKTER SELLERIE AUS DEM OFEN    
-Süssholz-Gemüse-Jus    
-Beurre Noisette    
+PULPO MIT DEHYDRIERTER KAROTTE<br>    
+SAUBOHNE UND BÄRLAUCH<br>    
 <br>
 <br>
+SEETEUFEL<br>     
+Rhabarber & junger Knoblauch<br>    
+Mangold<br>    
 <br>
 <br>
-PULPO MIT DEHYDRIERTER KAROTTE    
-SAUBOHNE UND BÄRLAUCH    
+MIERAL-PERLHUHN IN 2 GÄNGEN<br>    
 <br>
-<br>
-<br>
-<br>
-SEETEUFEL     
-Rhabarber & junger Knoblauch    
-Mangold    
-<br>
-<br>
-<br>
-<br>
-MIERAL-PERLHUHN IN 2 GÄNGEN    
-  
-RAVIOLI    
-mit Foie Gras & Artischocke    
-Thymian Bouillon    
-<br>
+RAVIOLI<br>  
+mit Foie Gras & Artischocke<br>    
+Thymian Bouillon<br>    
 <br>
 BRUST    
-Mit ANIS UND PINIENKERNEN    
-Morcheln und Blattspinat    
+Mit ANIS UND PINIENKERNEN<br>    
+Morcheln und Blattspinat<br>    
 <br>
 <br>
+KÄSEAUSWAHL<br>    
 <br>
 <br>
-KÄSEAUSWAHL    
-<br>
-<br>  
-<br>
-<br>
-TARTE VOM EINGELEGTEN APFEL    
-Earl Grey-Crumble & Zimt-Eis    
+TARTE VOM EINGELEGTEN APFEL<br>    
+Earl Grey-Crumble & Zimt-Eis<br>    
 <br>
 <br>
 .    
