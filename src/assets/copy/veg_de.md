@@ -1,36 +1,44 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
-
-SALAT VON RADICCHIO  
-UND JUNGER ROTER BEETE  
-Senffrüchte und Avocado  
-<br><br>
-GELACKTE SELLERIE AUS DEM OFEN  
-Süssholz-Gemüse Jus
+  
+    
+SALAT VON DER SCHWARZWURZEL  
+Mönchsbart & Ingweremulsion  
+  
+  
+GELACKTER SELLERIE AUS DEM OFEN 
+Süssholz-Gemüse-Jus  
 Beurre Noisette  
-<br><br>
-
-PUNTARELLA  
-KAPERN UND BOHNENKRAUT  
+  
+  
+DEHYDRIERTER KAROTTE  
+SAUBOHNE UND BÄRLAUCH  
+  
+  
+PUNTARELLA
+Kapern und Bohnenkraut  
 Kartoffel-Mousseline  
 Chilli-Öl  
-<br><br>
-
+  
+  
 GEMÜSE-BOUILLABAISSE  
-Artichocken & Spitzpaprika  
-Gnocchi Parisienne   
-<br><br>
-
+Artischocke & Spitzpaprika  
+Risotto  
+  
+  
 KÄSEAUSWAHL  
-<br><br>
+  
+  
+TARTE VOM EINGELEGTEN APFEL   
+Earl Grey-Crumble & Zimt-Eis  
 
-ZITRUSFRÜCHTE MIT KAMILLE  
-Mandeleis und weisse schokolade   
+
 <br>
 <br>
 <br>
 <br>
 _4 Gänge 58 €_  
 _5 Gänge 72 €_   
-_6 Gänge 84 €_  
+_6 Gänge 84 €_ 
+_7 Gänge 92 €_
   
 \*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
