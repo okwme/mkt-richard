@@ -1,8 +1,9 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-SCOTTISH SCALLOP<br>
-Marinated salsify & firar's beard<br>
+PROVOLONE <br>
+MIT GRÜNEM SPARGEL & ORANGE <br>
+Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
 LACQUERED CELERIAC<br> 
