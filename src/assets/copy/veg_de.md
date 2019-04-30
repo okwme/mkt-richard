@@ -2,8 +2,9 @@
   
   <br>
 <br>  
-SALAT VON DER SCHWARZWURZEL<br>
-Mönchsbart & Ingweremulsion<br>
+PROVOLONE <br>
+MIT GRÜNEM SPARGEL & ORANGE <br>
+Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
 GELACKTER SELLERIE AUS DEM OFEN<br>
