@@ -1,8 +1,9 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-MARINATED SALSIFY SALAD<br>
-firar's beard & a ginger-emulsion<br>
+PROVOLONE <br>
+WITH GREEN ASPARAGUS & ORANGE <br>
+dill yogurt and smoked oil <br>
 <br>
 <br>
 LACQUERED CELERIAC<br> 
