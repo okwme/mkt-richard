@@ -3,10 +3,13 @@
 We are hiring  
 <br>
 Service  
+**Chef de Rang (m/w)**  
 **Aushilfen / Runner (m/w)**  
+**Auszubildende Restaurantfachfrau/mann ab sofort!** 
 <br>
-Kitchen  
-**Koch Lehrling (m/w)**  
+Küche  
+**Sous Chef (m/w)**  
+**Chef de Partie (m/w)**   
 <br>
 Teamwork, experiences and fluent german language-skills are very important to us.  
 <br>
