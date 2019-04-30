@@ -1,8 +1,9 @@
 ## UNSER AKTUELLES MENU
 <br>
 <br>
-SCHOTTISCHE JAKOBSMUSCHEL<br>
-Marinierte Schwarzwurzel & Mönchsbart<br>
+BRETONISCHE MAKRELE <br>
+MIT GRÜNEM SPARGEL & ORANGE <br>
+Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
 GELACKTER SELLERIE AUS DEM OFEN<br>
