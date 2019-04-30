@@ -1,9 +1,9 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-PROVOLONE <br>
-MIT GRÜNEM SPARGEL & ORANGE <br>
-Dill Joghurt und gerauchtes Öl <br>
+BRETONIC MACKEREL <br>
+WITH GREEN ASPARAGUS & ORANGE <br>
+dill yogurt and smoked oil <br>
 <br>
 <br>
 LACQUERED CELERIAC<br> 
