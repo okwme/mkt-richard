@@ -11,24 +11,17 @@ Süssholz-Gemüse-Jus<br>
 Beurre Noisette<br>    
 <br>
 <br>
-PULPO MIT DEHYDRIERTER KAROTTE<br>
-SAUBOHNE UND BÄRLAUCH<br>
+MEERÄSCHE MIT FENCHEL UND ANIS<br>
+Sardellen- Tomaten-Tapenade<br>
 <br>
-<br>
-SEETEUFEL<br>
-Rhabarber & junger Knoblauch<br>
-Mangold<br>
-<br>
-<br>
-MIERAL-PERLHUHN IN 2 GÄNGEN<br>
 <br>
 RAVIOLI<br>
 mit Foie Gras & Artischocke<br>
 Thymian Bouillon<br>
 <br>
-BRUST    
-MIT ANIS UND PINIENKERNEN<br>
-Morcheln und Blattspinat<br>
+BRANDENBURGER MAIBOCK<br>
+APRIKOSE-HASELNUSS-CONDIMENT<br>
+Roscoffzwiebel mit Heidelbeeren<br>
 <br>
 <br>
 KÄSEAUSWAHL<br>
