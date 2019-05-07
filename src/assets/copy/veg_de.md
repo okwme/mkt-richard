@@ -12,16 +12,6 @@ Süssholz-Gemüse-Jus<br>
 Beurre Noisette<br>  
 <br>
 <br>
-DEHYDRIERTER KAROTTE<br>
-SAUBOHNE UND BÄRLAUCH<br>  
-<br>
-<br>
-PUNTARELLA<br>
-Kapern und Bohnenkraut<br>
-Kartoffel-Mousseline<br>  
-Chilli-Öl<br>  
-<br>
-<br>
 GEMÜSE-BOUILLABAISSE<br>  
 Artischocke & Spitzpaprika<br>  
 Risotto<br>  
