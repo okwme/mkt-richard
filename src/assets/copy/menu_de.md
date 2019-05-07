@@ -1,6 +1,6 @@
 ## UNSER AKTUELLES MENU
 <br>
-<br>
+
 BRETONISCHE MAKRELE <br>
 MIT GRÜNEM SPARGEL & ORANGE <br>
 Dill Joghurt und gerauchtes Öl <br>
