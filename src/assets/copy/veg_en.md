@@ -29,7 +29,6 @@ Earl Gray Crumble & Cinnamon Ice Cream<br>
 <br>
 4 Courses 58 Euro<br>   
 5 Courses 72 Euro<br>   
-6 Courses 84 Euro<br>
-7 Courses 92 Euro<br>
+
 <br>
 (all prices incl. VAT)
