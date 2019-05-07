@@ -11,24 +11,18 @@ licorice vegetable jus<br>
 beurre noisette<br> 
 <br>
 <br>
-PULPO AND DEHYDRATED CARROT<br>
-BROAD BEAN AND WILD GARLIC<br>
+MULLET FENNEL AND ANISSEED
+tapenada from sardine and tomato
 <br>
-<br>
-MONKFISH<br>
-Rhubarb & young garlic<br>
-chard<br>
-<br>
-<br>
-MIERAL GUINEA FOWL IN 2 COURSES<br>
 <br>
 RAVIOLI<br>
 with foie gras & artichoke<br>
 thyme bouillon<br>
 <br>
-CHEST<br>
-with aniseed and pine nuts<br>
-Morels and leaf spinach<br>
+<br>
+VENISON FROM BRANDENBURG<br> 
+APRICOT-HAZELNUT-CONDIMENT<br>
+roscoff-onion and blue berry<br>
 <br>
 <br>
 CHEESE SELECTION<br>
