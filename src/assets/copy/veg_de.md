@@ -8,19 +8,19 @@ Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
 GELACKTER SELLERIE AUS DEM OFEN<br>
-Süssholz-Gemüse-Jus<br>  
+Süssholz-Gemüse-Jus    
 Beurre Noisette<br>  
 <br>
 <br>
-GEMÜSE-BOUILLABAISSE<br>  
-Artischocke & Spitzpaprika<br>  
+GEMÜSE-BOUILLABAISSE<br>
+Artischocke & Spitzpaprika<br>
 Risotto<br>  
 <br>
 <br>
 KÄSEAUSWAHL<br>
 <br>
 <br>
-TARTE VOM EINGELEGTEN APFEL<br>  
+TARTE VOM EINGELEGTEN APFEL<br>
 Earl Grey-Crumble & Zimt-Eis<br>  
 <br>
 <br>
