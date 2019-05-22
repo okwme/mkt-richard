@@ -6,9 +6,8 @@ WITH GREEN ASPARAGUS & ORANGE <br>
 dill yogurt and smoked oil <br>
 <br>
 <br>
-LACQUERED CELERIAC<br> 
-licorice vegetable jus<br>
-beurre noisette<br> 
+ROASTED WHITE ASPARAGUS<br>
+CAPERS, TARRAGON & PEANUT<br> 
 <br>
 <br>
 VEGETABLE BOUILLABAISSE<br>
@@ -19,8 +18,9 @@ gnocchi parisienne<br>
 Cheese selection<br>
 <br>
 <br>
-MARINATED APPLE-TARTE<br>
-Earl Gray Crumble & Cinnamon Ice Cream<br>
+STRAWBERRIES<br>
+PISTACHIO FROM BRONTE<br>
+olive oil<br>
 
 
 <br>
