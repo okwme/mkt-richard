@@ -10,8 +10,8 @@ ROASTED WHITE ASPARAGUS<br>
 BOTTARGA, TARRAGON & PEANUT<br> 
 <br>
 <br>
-MULLET FENNEL AND ANISSEED
-tapenada from sardine and tomato
+MULLET FENNEL AND ANISSEED<br>
+tapenada from sardine and tomato<br>
 <br>
 <br>
 RAVIOLI<br>
