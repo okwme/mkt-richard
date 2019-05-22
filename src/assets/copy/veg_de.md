@@ -7,9 +7,9 @@ MIT GRÜNEM SPARGEL & ORANGE <br>
 Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
-GELACKTER SELLERIE AUS DEM OFEN<br>
-Süssholz-Gemüse-Jus    
-Beurre Noisette<br>  
+GEBRATENER WEISSER SPARGEL<br>
+KAPERN, ESTRAGON & ERDNUSS<br>
+
 <br>
 <br>
 GEMÜSE-BOUILLABAISSE<br>
@@ -20,8 +20,9 @@ Risotto<br>
 KÄSEAUSWAHL<br>
 <br>
 <br>
-TARTE VOM EINGELEGTEN APFEL<br>
-Earl Grey-Crumble & Zimt-Eis<br>  
+ERDBEEREN<br>
+MIT PISTAZIEN AUS BRONTE<br>
+Olivenöl<br>  
 <br>
 <br>
 <br>
