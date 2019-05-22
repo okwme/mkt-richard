@@ -10,7 +10,6 @@ GEBRATENER WEISSER SPARGEL<br>
 MIT BOTTARGA, ESTRAGON & ERDNUSS<br>
 <br>    
 <br>
-<br>
 MEERÄSCHE MIT FENCHEL UND ANIS<br>
 Sardellen- Tomaten-Tapenade<br>
 <br>
