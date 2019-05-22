@@ -6,9 +6,8 @@ WITH GREEN ASPARAGUS & ORANGE <br>
 dill yogurt and smoked oil <br>
 <br>
 <br>
-LACQUERED CELERIAC<br> 
-licorice vegetable jus<br>
-beurre noisette<br> 
+ROASTED WHITE ASPARAGUS<br>
+BOTTARGA, TARRAGON & PEANUT<br> 
 <br>
 <br>
 MULLET FENNEL AND ANISSEED
@@ -28,10 +27,11 @@ roscoff-onion and blue berry<br>
 CHEESE SELECTION<br>
 <br>
 <br>
-MARINATED APPLE-TARTE<br>
-Earl Gray Crumble & Cinnamon Ice Cream<br>
-
+STRAWBERRIES<br>
+PISTACHIO FROM BRONTE<br>
+olive oil<br>
 <br>
+
 <br>
 <br>
 <br>   
