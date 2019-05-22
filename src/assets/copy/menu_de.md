@@ -6,17 +6,17 @@ MIT GRÜNEM SPARGEL & ORANGE <br>
 Dill Joghurt und gerauchtes Öl <br>
 <br>
 <br>
-GELACKTER SELLERIE AUS DEM OFEN<br>
-Süssholz-Gemüse-Jus<br>
-Beurre Noisette<br>    
+GEBRATENER WEISSER SPARGEL<br>
+MIT BOTTARGA, ESTRAGON & ERDNUSS<br>
+<br>    
 <br>
 <br>
 MEERÄSCHE MIT FENCHEL UND ANIS<br>
 Sardellen- Tomaten-Tapenade<br>
 <br>
 <br>
-RAVIOLI<br>
-mit Foie Gras & Artischocke<br>
+PERLHUHN-RAVIOLI<br>
+MIT FOIE-GRAS UND ARTISCHOCKE<br>
 Thymian Bouillon<br>
 <br>
 <br>
@@ -28,8 +28,9 @@ Roscoffzwiebel mit Heidelbeeren<br>
 KÄSEAUSWAHL<br>
 <br>
 <br>
-TARTE VOM EINGELEGTEN APFEL<br>
-Earl Grey-Crumble & Zimt-Eis<br>
+ERDBEEREN<br>
+MIT PISTAZIEN AUS BRONTE<br>
+Olivenöl<br>
 <br>
 <br>
 .    
