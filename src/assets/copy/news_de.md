@@ -1,6 +1,7 @@
 ## NEWS
 
-**GENUSS MENU**    
+**GEMÜSEWOCHEN IM RESTAURANT RICHARD**
+TUTTI FRUTTI!
 <br>
 
 Gemüsewochen im Restaurant Richard.
