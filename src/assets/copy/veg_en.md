@@ -10,9 +10,14 @@ ROASTED WHITE ASPARAGUS<br>
 CAPERS, TARRAGON & PEANUT<br> 
 <br>
 <br>
-VEGETABLE BOUILLABAISSE<br>
-artichokes & pointed bell-pepper<br>
-gnocchi parisienne<br>
+VEGETABLE POT-AU-FEU<br>
+Noirmoutier potatoes<br>
+pimenton de la Vera<br>
+<br>
+<br>
+EGGPLANT WITH SESAME<br>
+yellow cœur-de-bœuf tomato<br>
+
 <br>
 <br>
 Cheese selection<br>
@@ -28,7 +33,8 @@ olive oil<br>
 <br>
 <br>
 4 Courses 58 Euro<br>   
-5 Courses 72 Euro<br>   
+5 Courses 72 Euro<br>
+6 Courses 84 Euro<br>
 
 <br>
 (all prices incl. VAT)
