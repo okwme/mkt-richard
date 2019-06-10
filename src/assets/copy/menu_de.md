@@ -14,14 +14,13 @@ MEERÄSCHE MIT FENCHEL UND ANIS<br>
 Sardellen- Tomaten-Tapenade<br>
 <br>
 <br>
-PERLHUHN-RAVIOLI<br>
-MIT FOIE-GRAS UND ARTISCHOCKE<br>
-Thymian Bouillon<br>
+KALBSBRIES MIT FRISCHEN ERBSEN<br>
+Buttermilch<br>
 <br>
 <br>
-BRANDENBURGER MAIBOCK<br>
-APRIKOSE-HASELNUSS-CONDIMENT<br>
-Roscoffzwiebel mit Heidelbeeren<br>
+MILCHZICKLEIN MIT PFIFFERLINGEN<br>
+Bohnencassoulet<br>
+Spitzpaprika und Senf<br>
 <br>
 <br>
 KÄSEAUSWAHL<br>
@@ -38,7 +37,8 @@ Olivenöl<br>
 4 GÄNGE 68 EURO <br>  
 5 GÄNGE 84 EURO <br>  
 6 GÄNGE 96 EURO <br>  
-7 GÄNGE 106 EURO <br>  
+7 GÄNGE 106 EURO <br>
+8 GÄNGE 120 EURO <br>
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
