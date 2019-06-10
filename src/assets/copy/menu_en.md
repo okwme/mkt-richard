@@ -19,9 +19,14 @@ with foie gras & artichoke<br>
 thyme bouillon<br>
 <br>
 <br>
-VENISON FROM BRANDENBURG<br> 
-APRICOT-HAZELNUT-CONDIMENT<br>
-roscoff-onion and blue berry<br>
+SWEETBREAD WITH FRESH PEAS<br>
+buttermilk<br>
+<br>
+<br>
+MILK-GOAT WITH CHANTERELLES<br>
+bean cassoulet<br>
+pointed paprika and mustard<br>
+
 <br>
 <br>
 CHEESE SELECTION<br>
@@ -39,6 +44,7 @@ olive oil<br>
 5 Courses 84 Euro<br>
 6 Courses 96 Euro<br>
 7 Courses 106 Euro<br>
+8 Courses 120 Euro<br>
 <br>
 <br>
 (all prices incl. VAT)
