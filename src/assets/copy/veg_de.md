@@ -12,9 +12,14 @@ KAPERN, ESTRAGON & ERDNUSS<br>
 
 <br>
 <br>
-GEMÜSE-BOUILLABAISSE<br>
-Artischocke & Spitzpaprika<br>
-Risotto<br>  
+GEMÜSE POT-AU-FEU<br>
+Noirmoutier Kartoffeln<br>
+Pimenton de la Vera<br>
+<br>
+<br>
+AUBERGINE MIT SESAM<br>
+Gelbe Ochsenherz-Tomate<br>
+ 
 <br>
 <br>
 KÄSEAUSWAHL<br>
@@ -28,7 +33,8 @@ Olivenöl<br>
 <br>
 <br>
 4 Gänge 58 €<br>  
-5 Gänge 72 €<br>    
+5 Gänge 72 €<br>
+6 Gänge 84 €<br>
  
   
 \*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
