@@ -1,17 +1,16 @@
 ## NEWS
-
-**GENUSS MENU**    
-<br>
-On March 20th 2019, 7 pm  
-we will celebrate the Genuss Menu  
-together with winery Clemens Busch from Mosel  
-and in cooperation with Tagesspiegel!!   
-
-We will serve 5 courses  
-paired with wonderful wine from Clemens Busch  
-at 129€.  
   
-Book your ticket via mail@restaurant-richard.de  
+**GEMÜSEWOCHEN IM RESTAURANT RICHARD  
+TUTTI FRUTTI!**
   
-We are looking forward to an evening with you!
-<br>
+The Weeks of Vegetable!
+  
+Who is up for veggies? WE ARE UP FOR VEGGIES! Veggies with veggies!
+  
+Ravished by the variety of the summer harvest by our vegetable-gardeners we will present naturaly-delicious and lightly-wholesome dishes.  
+
+July 2nd — 20th 2019 only vegetable will be served, also on our lush terrace!!
+  
+Menu fixe 8 courses á 78€ or á la carte.
+  
+Please book your table via mail@restaurant-richard.de  
