@@ -32,7 +32,7 @@ Young steamed potato
 smoked goat milk butter  
 parsley nage  
 12 Euro  
-+ 10g Osietra caviar   
+ + 10g Osietra caviar   
 20 Euro  
   
   
