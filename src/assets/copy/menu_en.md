@@ -1,50 +1,55 @@
 ## OUR CURRENT MENU
 
 <br>
-BRETONIC MACKEREL <br>
-WITH GREEN ASPARAGUS & ORANGE <br>
-dill yogurt and smoked oil <br>
-<br>
-<br>
-ROASTED WHITE ASPARAGUS<br>
-BOTTARGA, TARRAGON & PEANUT<br> 
-<br>
-<br>
-MULLET FENNEL AND ANISSEED<br>
-tapenada from sardine and tomato<br>
-<br>
-<br>
-RAVIOLI<br>
-with foie gras & artichoke<br>
-thyme bouillon<br>
-<br>
-<br>
-SWEETBREAD WITH FRESH PEAS<br>
-buttermilk<br>
-<br>
-<br>
-MILK-GOAT WITH CHANTERELLES<br>
-bean cassoulet<br>
-pointed paprika and mustard<br>
+  
+Kohlrabi salad, broad beans, strawberries  
+algae broth and bone marrow  
+14 Euro  
+  
+  
+Stewed peppers with PimentoN de la Vera  
+buffalo milk ricotta, marjoram  
+12 Euro  
+  
+  
+"Blanquette de tomato"  
+Taggiasche Olives  
+14 Euro  
+  
+  
+Chawanmushi with peas  
+tarragon & dill  
+smoked eel  
+16 Euro  
+  
+  
+Celery varnished  
+anise & mace, onion & peanut  
+14 Euro  
+  
+  
+Young steamed potato  
+smoked goat milk butter  
+parsley nage  
+12 Euro  
++ 10g Osietra caviar   
+20 Euro  
+  
+  
+Porcini mushrooms with leek shoots  
+confit garlic  
+vegetable jus with cinnamon blossoms  
+18 Euro  
+  
+  
+Roasted peach  
+Beetroot with lavender honey  
+Blackberries and sage ice cream  
+14 Euro  
+  
+  
+Menu fixe à 8 courses 78 Euro per person  
 
-<br>
-<br>
-CHEESE SELECTION<br>
-<br>
-<br>
-STRAWBERRIES<br>
-PISTACHIO FROM BRONTE<br>
-olive oil<br>
-<br>
-
-<br>
-<br>
-<br>   
-4 Courses 68 Euro<br>
-5 Courses 84 Euro<br>
-6 Courses 96 Euro<br>
-7 Courses 106 Euro<br>
-8 Courses 120 Euro<br>
 <br>
 <br>
 (all prices incl. VAT)
