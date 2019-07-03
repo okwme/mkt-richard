@@ -33,7 +33,7 @@ Junge Kartoffel gedämpft
 geräucherte Ziegenmilchbutter  
 Petersilien Nage  
 12 Euro  
- + 10g Osietra Kaviar   
+ with 10g Osietra Kaviar   
 20 Euro  
   
   
