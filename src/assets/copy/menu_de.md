@@ -1,8 +1,9 @@
-## UNSER AKTUELLES MENU
+## UNSER AKTUELLES MENU  
 <br>
 MEDITERRANE WOCHEN IM AUGUST<br>
 <br>
-MENU<br>
+## MENU  <br>
+<br>
 CATALANISCHER PULPO SALAT<br>
 Ajo Blanco<br>
 <br>
@@ -22,7 +23,7 @@ Beeren<br>
 75 Euro pro Person<br>
 <br>
 <br>
-## À LA CARTE<br>
+## À LA CARTE  <br>
 <br>
 CATALANISCHER PULPO SALAT<br>
 Ajo Blanco<br>
@@ -60,3 +61,6 @@ Korianderkörner & Mandeln<br>
 KENEFFA<br>
 Beeren<br>
 12€<br>
+<br>
+<br>
+*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
