@@ -1,8 +1,8 @@
 ## UNSER AKTUELLES MENU  
 <br>
-# MEDITERRANE WOCHEN IM AUGUST<br>
+MEDITERRANE WOCHEN IM AUGUST<br>
 <br>
-# MENU  <br>
+MENU  <br>
 <br>
 CATALANISCHER PULPO SALAT<br>
 Ajo Blanco<br>
@@ -23,7 +23,7 @@ Beeren<br>
 75 Euro pro Person<br>
 <br>
 <br>
-# À LA CARTE  <br>
+À LA CARTE  <br>
 <br>
 CATALANISCHER PULPO SALAT<br>
 Ajo Blanco<br>
