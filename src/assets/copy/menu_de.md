@@ -1,8 +1,8 @@
 ## UNSER AKTUELLES MENU  
 <br>
-**MEDITERRANE WOCHEN IM AUGUST**<br>
+__MEDITERRANE WOCHEN IM AUGUST__<br>
 <br>
-**MENU**  <br>
+MENU  <br>
 <br>
 CATALANISCHER PULPO SALAT<br>
 Ajo Blanco<br>
