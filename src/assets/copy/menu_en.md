@@ -35,11 +35,11 @@ plum, dark chocolate<br>
 caramel aniseed ice cream<br>
 <br>
 <br>
-4 courses 68 Euro<br>
-5 courses 84 Euro<br>
-6 courses 96 Euro<br>
-7 courses 106 Euro<br>
-8 courses 118 Euro <br>
+4 courses 68 €<br>
+5 courses 84 €<br>
+6 courses 96 €<br>
+7 courses 106 €<br>
+8 courses 118 €<br>
 <br>
 (all prices incl. VAT)
 
