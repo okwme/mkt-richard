@@ -1,83 +1,45 @@
 ## OUR CURRENT MENU
 
 <br>
-MEDITERRANIAN WEEKS IN AUGUST <br>
 <br>
-MENU<br>
-<br>
-Spain<br>
-CATALAN PULPO SALAD<br>
-Ajo Blanco<br>
-<br>
-France<br>
-MUSSLE SAUTÉ, GNOCCHI<br>
-Safran<br>
-<br>
-Italy<br>
-SPARACEDDI FROM THE OVEN<br>
-BROCCOLI, ZUCCHINI<br>
-Pecorino & Almond<br>
-<br>
-Spain<br>
-LAMB À LA MORUNA<br>
-FENNEL<br>
-Coriander seeds & Almond<br>
-<br>
-Morocco<br>
-KENEFFA<br>
-Berry<br>
+north Sea crabs<br>
+peas, ayran, saffron<br>
 <br>
 <br>
-75 Euro per person<br>
+tarte fine, cœr de boeuf<br>
+anchovies<br>
 <br>
 <br>
-<br>
-À LA CARTE<br>
-<br>
-Spain<br>
-CATALAN PULPO SALAD<br>
-Ajo Blanco<br>
-20€<br>
-<br>
-Syria<br>
-TABOULEH<br>
-TOMATO, CUCUMBER<br>
-Persil Pesto<br>
-16€<br>
-<br>
-France<br>
-MUSSLE SAUTÉ, GNOCCHI<br>
-Saffron<br>
-22€<br>
-<br>
-Italy<br>
-SPARACEDDI FROM THE OVEN<br>
-BROCCOLI, ZUCCHINI<br>
-Pecorino & Almond<br>
-16€<br>
-<br>
-Croatia<br>
-ROASTED TURBIT<br>
-Grain Salad & Ajvar<br>
-28€ / 38€<br>
-<br>
-Morocco<br>
-ZAALOUK, EGGPLANT<br>
-Dried Tomato & Chermoula<br>
-20€<br>
-<br>
-Spain<br>
-LAMB À LA MORUNA<br>
-FENNEL<br>
-Coriander seeds & Almond<br>
-35€<br>
-<br>
-Morocco<br>
-KENEFFA<br>
-Berry<br>
-12€<br>
+white beans, bottarga<br>
+mushroom broth<br>
 <br>
 <br>
+veal ravioli<br>
+marjoram<br>
+<br>
+<br>
+sole, porcini mushrooms<br>
+bacon<br>
+<br>
+<br>
+bavarian beef roast beef<br>
+parmesan cheese, hazelnut<br>
+sage<br>
+<br>
+<br>
+rocamadour artisanal<br>
+Kreuzberg honey, caraway crispbread<br>
+<br>
+<br>
+plum, dark chocolate<br>
+caramel aniseed ice cream<br>
+<br>
+<br>
+4 courses 68 Euro<br>
+5 courses 84 Euro<br>
+6 courses 96 Euro<br>
+7 courses 106 Euro<br>
+8 courses 118 Euro <br>
 <br>
 (all prices incl. VAT)
 
