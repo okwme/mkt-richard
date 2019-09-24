@@ -5,7 +5,7 @@ NORDSEE KRABBEN, ERBSEN, AYRAN<br>
 Safran<br>
 <br>
 <br>
-TARTE FINE, CŒER DE BŒUF<br>
+TARTE FINE, CŒUR DE BŒUF<br>
 Sardellen<br>
 <br>
 <br>
