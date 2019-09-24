@@ -23,7 +23,7 @@ Kreuzberger Honig<br>
 Kümmelknäckebrot<br>
 <br>
 <br>
-ZWETSCHKE, DUNKLE SCHOKOLADE<br>
+ZWETSCHGE, DUNKLE SCHOKOLADE<br>
 Karamell-Aniseis<br>
 <br>
 <br>
