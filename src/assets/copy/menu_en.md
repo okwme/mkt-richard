@@ -2,11 +2,11 @@
 
 <br>
 <br>
-north Sea crabs<br>
+north sea crabs<br>
 peas, ayran, saffron<br>
 <br>
 <br>
-tarte fine, cœr de boeuf<br>
+tarte fine, cœur de boeuf<br>
 anchovies<br>
 <br>
 <br>
