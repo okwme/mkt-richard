@@ -1,37 +1,37 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-NORDSEE KRABBEN, ERBSEN, AYRAN<br>
-Safran<br>
+Hirschtatar<br>
+Herbstsalat, Brioche, Hefesauce<br>
 <br>
 <br>
-TARTE FINE, CŒUR DE BŒUF<br>
-Sardellen<br>
+Muscheln<br>
+Blumenkohl, Sesam, Miso<br>
 <br>
 <br>
-WEISSE BOHNEN, BOTTARGA<br>
+Weiße Bohnen, Bottarga<br>
 Pilzbouillon<br>
 <br>
 <br>
-KALBSRAVIOLI<br>
+Kalbsravioli<br>
 Majoran<br>
 <br>
 <br>
-SEEZUNGEN, STEINPILZE<br>
+Steinbutt, Steinpilze<br>
 Speck<br>
 <br>
 <br>
-BAYRISCHES RINDERROASTBEEF<br>
-PARMESAN, HASELNUSS<br>
-Salbei<br>
+Gechmorte Lammschulter<br>
+Artischocken, Fenchel, Sternanisjus<br>
 <br>
 <br>
-ROCAMADOUR ARTISANAL<br>
+Rocamadour Artisanal<br>
 Kreuzberger Honig, Kümmelknäckebrot<br>
 <br>
 <br>
-ZWETSCHGE, DUNKLE SCHOKOLADE<br>
-Karamell-Aniseis<br>
+Birne<br>
+Mandel, Joghurt<br>
+
 <br>
 <br>
 4 Gang 68 Euro<br>
