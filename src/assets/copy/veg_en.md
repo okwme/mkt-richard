@@ -1,12 +1,12 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-scamorza<br>
-peas, ayran, saffron<br>
+quince<br>
+autumn salad, brioche, yeast sauce<br>
 <br>
 <br>
-tarte fine, cœur de bœuf<br>
-taggiasca olives<br>
+cauliflower<br>
+sesame, miso<br>
 <br>
 <br>
 white beans<br>
@@ -17,12 +17,13 @@ porcini mushrooms, potatoes<br>
 chard<br>
 <br>
 <br>
-rocamadour artisanal<br>
+rocamadour Artisanal<br>
 Kreuzberg honey, caraway crispbread<br>
 <br>
 <br>
-PLUM, dark chocolate<br>
-caramel aniseed ice cream<br>
+pear<br>
+Almond, yoghurt<br>
+<br>
 <br>
 <br>
 4 courses 58 €<br>
