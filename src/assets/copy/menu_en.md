@@ -16,20 +16,20 @@ mushroom broth<br>
 <br>
 veal ravioli<br>
 marjoram<br>
-<br><br>
+<br>
 <br>
 Turbot, porcini mushrooms<br>
 bacon<br>
 <br>
-<br><br>
+<br>
 Braised shoulder of lamb<br>
 artichokes, fennel, star aniseed jus<br>
-<br><br>
+<br>
 <br>
 Rocamadour Artisanal<br>
 Kreuzberg honey, caraway crispbread<br>
 <br>
-
+<br>
 pear<br>
 Almond, yoghurt<br>
 <br>
