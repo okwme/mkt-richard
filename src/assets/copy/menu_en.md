@@ -10,7 +10,7 @@ seashells<br>
 cauliflower, sesame, miso<br><br>
 <br>
 <br>
-White beans, bottarga<br>
+white beans, bottarga<br>
 mushroom broth<br>
 <br>
 <br>
@@ -18,20 +18,20 @@ veal ravioli<br>
 marjoram<br>
 <br>
 <br>
-Turbot, porcini mushrooms<br>
+turbot, porcini mushrooms<br>
 bacon<br>
 <br>
 <br>
-Braised shoulder of lamb<br>
+braised shoulder of lamb<br>
 artichokes, fennel, star aniseed jus<br>
 <br>
 <br>
-Rocamadour Artisanal<br>
+rocamadour artisanal<br>
 Kreuzberg honey, caraway crispbread<br>
 <br>
 <br>
 pear<br>
-Almond, yoghurt<br>
+almond, yoghurt<br>
 <br>
 <br>
 <br>
