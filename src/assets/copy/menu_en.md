@@ -2,37 +2,37 @@
 
 <br>
 <br>
-north sea crabs<br>
-peas, ayran, saffron<br>
+deer tatar<br>
+autumn salad, brioche, yeast sauce<br>
 <br>
 <br>
-tarte fine, cœur de boeuf<br>
-anchovies<br>
+seashells<br>
+cauliflower, sesame, miso<br><br>
 <br>
 <br>
-white beans, bottarga<br>
+White beans, bottarga<br>
 mushroom broth<br>
 <br>
 <br>
 veal ravioli<br>
 marjoram<br>
+<br><br>
 <br>
-<br>
-sole, porcini mushrooms<br>
+Turbot, porcini mushrooms<br>
 bacon<br>
 <br>
+<br><br>
+Braised shoulder of lamb<br>
+artichokes, fennel, star aniseed jus<br>
+<br><br>
 <br>
-bavarian beef roast beef<br>
-parmesan cheese, hazelnut<br>
-sage<br>
-<br>
-<br>
-rocamadour artisanal<br>
+Rocamadour Artisanal<br>
 Kreuzberg honey, caraway crispbread<br>
 <br>
+
+pear<br>
+Almond, yoghurt<br>
 <br>
-plum, dark chocolate<br>
-caramel aniseed ice cream<br>
 <br>
 <br>
 4 courses 68 €<br>
