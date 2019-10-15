@@ -1,30 +1,30 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-SCAMORZA, ERBSEN, AYRAN<br>
-Safran<br>
+Quitte<br>
+Herbstsalat, Brioche, Hefesauce<br>
 <br>
 <br>
-TARTE FINE<br>
-CŒUR DE BŒUF<br>
-Taggiascha Oliven<br>
+Blumenkohl<br>
+Sesam, Miso<br>
 <br>
 <br>
-WEISSE BOHNEN<br>
+Weiße Bohnen<br>
 Pilzbouillon<br>
 <br>
 <br>
-STEINPILZE, KARTOFFELN<br>
+Steinpilze, Kartoffeln<br>
 Mangold<br>
 <br>
 <br>
-ROCAMADOUR ARTISANAL<br>
-Kreuzberger Honig<br>
-Kümmelknäckebrot<br>
+Rocamadour Artisanal<br>
+Kreuzberger Honig, Kümmelknäckebrot<br>
 <br>
 <br>
-ZWETSCHGE, DUNKLE SCHOKOLADE<br>
-Karamell-Aniseis<br>
+Birne<br>
+Mandel, Joghurt<br>
+<br>
+<br>
 <br>
 <br>
 4 Gang 58 Euro<br>
