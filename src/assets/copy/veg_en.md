@@ -1,28 +1,28 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
 <br>
-quince<br>
-autumn salad, brioche, yeast sauce<br>
+QUINCE<br>
+autumn salad with yeast sauce<br>
 <br>
 <br>
-cauliflower<br>
-sesame, miso<br>
+CAULIFLOWER<br>
+sesame & miso<br>
 <br>
 <br>
-white beans<br>
-mushroom broth<br>
+CELLERY FROM THE OVEN<br>
+licorice with brown butter<br>
 <br>
 <br>
-porcini mushrooms, potatoes<br>
-chard<br>
+ARTICHOKE<br>
+Kale & Sauce barigoule<br>
 <br>
 <br>
-rocamadour Artisanal<br>
-Kreuzberg honey, caraway crispbread<br>
+ROCAMADOUR<br>
+Kreuzberger honey & cumin crispbread<br>
 <br>
 <br>
-pear<br>
-Almond, yoghurt<br>
+PEAR<br>
+Almond & yogurt<br>
 <br>
 <br>
 <br>
