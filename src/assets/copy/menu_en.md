@@ -2,36 +2,37 @@
 
 <br>
 <br>
-deer tatar<br>
-autumn salad, brioche, yeast sauce<br>
+DEER TATAR<br>
+autumn salad with yeast sauce<br>
 <br>
 <br>
-seashells<br>
-cauliflower, sesame, miso<br><br>
+MUSSLES<br>
+cauliflower & sesame<br>
 <br>
 <br>
-white beans, bottarga<br>
-mushroom broth<br>
+CELLERY FROM THE OVEN<br>
+licorice with brown butter<br>
 <br>
 <br>
-veal ravioli<br>
-marjoram<br>
+PORK LOIN<br>
+pumpkin & salsa verde<br>
 <br>
 <br>
-turbot, porcini mushrooms<br>
-bacon<br>
+MULLET<br>
+Stank cabbage & bourride sauce<br>
 <br>
 <br>
-braised shoulder of lamb<br>
-artichokes, fennel, star aniseed jus<br>
+LAMB SHOULDER<br>
+Artichokes with fennel & anise<br>
 <br>
 <br>
-rocamadour artisanal<br>
-Kreuzberg honey, caraway crispbread<br>
+ROCAMADOUR<br>
+Kreuzberger honey & cumin crispbread<br>
 <br>
 <br>
-pear<br>
-almond, yoghurt<br>
+PEAR<br>
+Almond & yogurt<br>
+
 <br>
 <br>
 <br>
