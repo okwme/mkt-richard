@@ -1,36 +1,36 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-Hirschtatar<br>
-Herbstsalat, Brioche, Hefesauce<br>
+HIRSCHTATAR<br>
+Herbstsalat & Hefesauce<br>
 <br>
 <br>
-Muscheln<br>
-Blumenkohl, Sesam, Miso<br>
+MUSCHELN<br>
+Blumenkohl & Sesam<br>
 <br>
 <br>
-Weiße Bohnen, Bottarga<br>
-Pilzbouillon<br>
+SELLERIE AUS DEM OFEN<br>
+Süßholz mit brauner Butter<br>
 <br>
 <br>
-Kalbsravioli<br>
-Majoran<br>
+SCHWEINERÜCKEN<br>
+Kürbis & Salsa verde<br>
 <br>
 <br>
-Steinbutt, Steinpilze<br>
-Speck<br>
+MEERÄSCHE<br>
+Stangelkohl & Sauce bourride<br>
 <br>
 <br>
-Gechmorte Lammschulter<br>
-Artischocken, Fenchel, Sternanisjus<br>
+LAMMSCHULTER<br>
+Artischocke mit Fenchel & Sternanisjus<br>
 <br>
 <br>
-Rocamadour Artisanal<br>
-Kreuzberger Honig, Kümmelknäckebrot<br>
+ROCAMADOUR <br>
+Kreuzberger Honig & Kümmelknäckebrot<br>
 <br>
 <br>
-Birne<br>
-Mandel, Joghurt<br>
+BIRNE<br>
+Mandel &  Joghurt<br>
 
 <br>
 <br>
