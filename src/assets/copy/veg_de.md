@@ -1,28 +1,29 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-Quitte<br>
-Herbstsalat, Brioche, Hefesauce<br>
+QUITTE<br>
+Herbstsalat & Hefesauce<br>
 <br>
 <br>
-Blumenkohl<br>
-Sesam, Miso<br>
+BLUMENKOHL<br>
+Sesam & Miso<br>
 <br>
 <br>
-Weiße Bohnen<br>
-Pilzbouillon<br>
+SELLERIE AUS DEM OFEN<br>
+Süßholz mit brauner Butter<br>
 <br>
 <br>
-Steinpilze, Kartoffeln<br>
-Mangold<br>
+ARTISCHOCKE<br>
+Grünkohl & Sauce barigoule<br>
 <br>
 <br>
-Rocamadour Artisanal<br>
-Kreuzberger Honig, Kümmelknäckebrot<br>
+ROCAMADOUR<br>
+Kreuzberger Honig & Kümmelknäckebrot<br>
 <br>
 <br>
-Birne<br>
-Mandel, Joghurt<br>
+BIRNE<br>
+Mandel & Joghurt
+
 <br>
 <br>
 <br>
