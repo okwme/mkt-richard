@@ -4,7 +4,7 @@
 
 <br>
 <br>
-MENU<br>
+**MENU<br>
 <br>
 TATAR VON ROSA GARNELEN AUS APULIEN<br>
 Spitzkohl, Thymian & Limette<br>
@@ -18,7 +18,8 @@ Blumenkohl & Haselnuss Sauce quatre-épices<br>
 WILDER STEINBUTT<br>
 Artischocke jüdischer Art & Sauce Bordelaise<br>
 <br>
-MIÉRAL PERLHUHN & GELACKTE KNOLLENSELLERIESCHALE<br>
+MIÉRAL PERLHUHN <br>
+GELACKTE KNOLLENSELLERIESCHALE<br>
 Süßholzjus & Estragon<br>
 <br>
 DESSERT VON DER MANJARI SCHOKOLADE<br>
@@ -28,7 +29,8 @@ MENU 160 Euro WEINBEGLEITUNG <br>
 (0,1l/Gang) 130 Euro<br>
 <br>
 <br>
-VEGETARISCHES MENU <br>
+<br>
+**SILVESTER IM RESTAURANT RICHARD<br>
 <br>
 MIMOLETTE BOULE DE LILLE<br>
 Spitzkohl, Thymian & Limette<br>
