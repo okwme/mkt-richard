@@ -30,7 +30,7 @@ MENU 160 Euro WEINBEGLEITUNG <br>
 <br>
 <br>
 <br>
-**MENU VEGETARISCH**<br>
+M E N U  V E G E T A R I S C H<br>
 <br>
 MIMOLETTE BOULE DE LILLE<br>
 Spitzkohl, Thymian & Limette<br>
