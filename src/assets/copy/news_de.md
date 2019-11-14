@@ -1,27 +1,55 @@
 ## NEWS
 
-**GEMÜSEWOCHEN IM RESTAURANT RICHARD**  
-TUTTI FRUTTI!
+**SILVESTER IM RESTAURANT RICHARD**  
+
 <br>
-
-Gemüsewochen im Restaurant Richard.
- 
-Wer hat Lust auf Gemüse?
-Wir haben Lust auf Gemüse! Gemüse mit Gemüse!!
- 
-Wir lassen uns von der Vielfalt der sommerlichen Ernte 
-unserer Gemüsegärtner hinreissen und kochen 
-köstlich-natürliche und bekömmliche Gerichte. 
- 
-Vom 2. — 20. Juli 2019
-servieren wir ausschliesslich 
-Gemüsegerichte, auch auf unserer Terrasse.
- 
-Menu fixe 8 Gerichte á 78€ oder á la carte.
-
-  
-      
-Bitte bucht via mail@restaurant-richard.de   
+<br>
+MENU<br>
+<br>
+TATAR VON ROSA GARNELEN AUS APULIEN<br>
+Spitzkohl, Thymian & Limette<br>
+<br>
+AGNOLOTTI VOM GESCHMORTEN TOPINAMBUR<br>
+Wintertrüffel<br>
+<br>
+GEBRATENE FOIE GRAS<br>
+Blumenkohl & Haselnuss Sauce quatre-épices<br>
+<br>
+WILDER STEINBUTT<br>
+Artischocke jüdischer Art & Sauce Bordelaise<br>
+<br>
+MIÉRAL PERLHUHN & GELACKTE KNOLLENSELLERIESCHALE<br>
+Süßholzjus & Estragon<br>
+<br>
+DESSERT VON DER MANJARI SCHOKOLADE<br>
+Vanille & Karamell<br>
+<br>
+MENU 160 Euro WEINBEGLEITUNG <br>
+(0,1l/Gang) 130 Euro<br>
+<br>
+<br>
+VEGETARISCHES MENU <br>
+<br>
+MIMOLETTE BOULE DE LILLE<br>
+Spitzkohl, Thymian & Limette<br>
+<br>
+AGNOLOTTI VOM GESCHMORTEN TOPINAMBUR<br>
+Wintertrüffel<br>
+<br>
+COMTÉ QUICHE<br>
+Blumenkohl & Haselnuss Sauce quatre-épices<br>
+<br>
+GEMÜSE POT AU FEU<br>
+Artischocke jüdischer Art & Sauce Bordelaise<br>
+<br>
+BONOTTE RÖSTI & GELACKTE KNOLLENSELLERIESCHALE<br>
+Süßholzjus & Estragon<br>
+<br>
+DESSERT VON DER MANJARI SCHOKOLADE<br>
+Vanille & Karamell<br>
+<br>
+MENU VEGETARISCH 130 Euro <br>
+WEINBEGLEITUNG (0,1l/Gang) 130 Euro<br>
 
 
 
