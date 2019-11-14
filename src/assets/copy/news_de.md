@@ -4,7 +4,7 @@
 
 <br>
 <br>
-**MENU<br>
+M E N U<br>
 <br>
 TATAR VON ROSA GARNELEN AUS APULIEN<br>
 Spitzkohl, Thymian & Limette<br>
@@ -30,7 +30,7 @@ MENU 160 Euro WEINBEGLEITUNG <br>
 <br>
 <br>
 <br>
-**SILVESTER IM RESTAURANT RICHARD<br>
+**MENU VEGETARISCH**<br>
 <br>
 MIMOLETTE BOULE DE LILLE<br>
 Spitzkohl, Thymian & Limette<br>
