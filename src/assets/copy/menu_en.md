@@ -2,36 +2,39 @@
 
 <br>
 <br>
-DEER TATAR<br>
-autumn salad with yeast sauce<br>
+MARINATED GLEN DOUGLAS SALMON<br>
+Radicchio Trevisiano, mustard & horseradish<br>
 <br>
 <br>
-MUSSLES<br>
-cauliflower & sesame<br>
+CELERY FROM THE OVEN<br>
+Liquorice vegetable jus & beurre noisette <br>
 <br>
 <br>
-CELLERY FROM THE OVEN<br>
-licorice with brown butter<br>
+RAVIOLI WITH MOUNTAIN CHEESE<br>
+Winter truffles & chestnuts<br>
 <br>
 <br>
-PORK LOIN<br>
-pumpkin & salsa verde<br>
+RED BARB WITH SAFFRON & ARTICHOKE<br>
+Olives, anchovies & lemon thyme<br>
 <br>
 <br>
-MULLET<br>
-Stank cabbage & bourride sauce<br>
+
+*CHALLANS DUCK IN TWO COURSES*<br>
 <br>
+TAGINE FROM THE THIGH WITH BRUSSEL SPROUDS<br>
+Star anise and Pomelo <br>
 <br>
-LAMB SHOULDER<br>
-Artichokes with fennel & anise<br>
+BRISKET WITH ROASTED RED CABBAGE<br>
+Cream of sunflower seed & apple<br>
 <br>
 <br>
 ROCAMADOUR<br>
-Kreuzberger honey & cumin crispbread<br>
+Kreuzberger honey & caraway crispbread<br>
 <br>
 <br>
-PEAR<br>
-Almond & yogurt<br>
+APPELTARTE<br>
+Cinnamon ice cream & caramel<br>
+
 
 <br>
 <br>
