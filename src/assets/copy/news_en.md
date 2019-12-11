@@ -1,40 +1,11 @@
 ## NEWS
   
 
-**TRÜFFELMENU 3. & 4. 12.2019**  
-<br>
-TATAR VOM SIMMENTHALER RIND <br>
-BRIOCHE & JUS <br>
-WINTERTRÜFFEL/TUBER MELANOSPORUM<br>
-<br>
-<br>
-AGNOLOTTI VOM GELACKTEN SELLERIE <br>
-PARMESANCRÈME<br>
-WEIßER TRÜFFEL/TUBER MAGNATUM<br>
-<br>
-<br>
-SEETEUFEL MIT TOPINAMBUR <br>
-HASELNUSS & BEURRE NOISETTE <br>
-WINTERTRÜFFEL/TUBER MELANOSPORUM<br>
-<br>
-<br>
-MIÉRAL PERLUHN UND SAUCE PÉRIGUEUX <br>
-SALAT VOM WURZELGEMÜSE<br>
-<br>
-<br>
-PARIS-BREST<br>
-<br>
-<br>
-4 Gänge 115€ (ohne Seeteufel)<br>
-5 Gänge 145€<br>
-<br>
-<br>
-
 **SILVESTER IM RESTAURANT RICHARD**  
 
 <br>
 <br>
-M E N U<br>
+**MENU**<br>
 <br>
 TATAR VON ROSA GARNELEN AUS APULIEN<br>
 Spitzkohl, Thymian & Limette<br>
@@ -55,12 +26,12 @@ Süßholzjus & Estragon<br>
 DESSERT VON DER MANJARI SCHOKOLADE<br>
 Vanille & Karamell<br>
 <br>
-MENU 160 Euro WEINBEGLEITUNG <br>
+*MENU 160 Euro WEINBEGLEITUNG <br>
 (0,1l/Gang) 130 Euro<br>
 <br>
 <br>
 <br>
-M E N U  V E G E T A R I S C H<br>
+**MENU VEGETARISCH**<br>
 <br>
 MIMOLETTE BOULE DE LILLE<br>
 Spitzkohl, Thymian & Limette<br>
@@ -80,7 +51,7 @@ Süßholzjus & Estragon<br>
 DESSERT VON DER MANJARI SCHOKOLADE<br>
 Vanille & Karamell<br>
 <br>
-MENU VEGETARISCH 130 Euro <br>
+*MENU VEGETARISCH 130 Euro <br>
 WEINBEGLEITUNG (0,1l/Gang) 130 Euro<br>
 
 
