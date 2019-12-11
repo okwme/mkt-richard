@@ -1,36 +1,39 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-HIRSCHTATAR<br>
-Herbstsalat & Hefesauce<br>
-<br>
-<br>
-MUSCHELN<br>
-Blumenkohl & Sesam<br>
+MARINIERTER GLEN DOUGLAS LACHS<br>
+Radicchio Trevisiano, Senffrüchte & Meerrettich<br>
 <br>
 <br>
 SELLERIE AUS DEM OFEN<br>
-Süßholz mit brauner Butter<br>
+Süßholz-Gemüsejus & beurre noisette <br>
 <br>
 <br>
-SCHWEINERÜCKEN<br>
-Kürbis & Salsa verde<br>
+RAVIOLI MIT BERGKÄSE<br>
+Wintertrüffel & Maronen<br>
 <br>
 <br>
-MEERÄSCHE<br>
-Stangelkohl & Sauce bourride<br>
+ROTBARBE MIT SAFRAN & ARTISCHOCKE<br>
+Oliven, Sardellen & Zitronenthymian<br>
 <br>
 <br>
-LAMMSCHULTER<br>
-Artischocke mit Fenchel & Sternanisjus<br>
+<br>
+CHALLANS ENTEN IN ZWEI GÄNGEN<br>
+<br>
+TAGINE VOM SCHENKEL MIT ROSENKOHL<br>
+Sternanis und Pomelo <br>
+<br>
+BRUST MIT GERÖSTETEM ROTKOHL<br>
+Crème vom Sonnenblumenkern & Apfel<br>
 <br>
 <br>
-ROCAMADOUR <br>
-Kreuzberger Honig & Kümmelknäckebrot<br>
+ROCAMADOUR<br>
+Kreuzbergerhonig & Kümmelknäckebrot<br>
 <br>
 <br>
-BIRNE<br>
-Mandel &  Joghurt<br>
+APFELTARTE<br>
+Zimteis & Karamell<br>
+
 
 <br>
 <br>
