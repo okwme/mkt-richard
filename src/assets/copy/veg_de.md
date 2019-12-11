@@ -1,28 +1,31 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-QUITTE<br>
-Herbstsalat & Hefesauce<br>
-<br>
-<br>
-BLUMENKOHL<br>
-Sesam & Miso<br>
+BURRATA<br>
+Radicchio Trevisiano, Senffrüchte & Meerrettich<br>
 <br>
 <br>
 SELLERIE AUS DEM OFEN<br>
-Süßholz mit brauner Butter<br>
+Süßholz-Gemüsejus & beurre noisette <br>
 <br>
 <br>
-ARTISCHOCKE<br>
-Grünkohl & Sauce barigoule<br>
+RAVIOLI MIT BERGKÄSE<br>
+Wintertrüffel & Maronen<br>
+<br>
+<br>
+ARTISCHOCKE À LA BAURIGOLE<br>
+<br>
+<br>
+GEBRATENER ROTKOHL<br>
+Apfel & Buttermilch<br>
 <br>
 <br>
 ROCAMADOUR<br>
-Kreuzberger Honig & Kümmelknäckebrot<br>
+Kreuzbergerhonig & Kümmelknäckebrot<br>
 <br>
 <br>
-BIRNE<br>
-Mandel & Joghurt
+APFELTARTE<br>
+Zimteis & Karamell<br>
 
 <br>
 <br>
