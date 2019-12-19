@@ -8,5 +8,6 @@ The restaurant will be closed 22. — 26. of decemeber over the holidays.
   
 From Friday Dec 27th — Tuesday 31st we will be opened!
 …including Sunday and Monday.
-
+  
+Januars 1st and 2nd, the restaurant will be closed.
 
