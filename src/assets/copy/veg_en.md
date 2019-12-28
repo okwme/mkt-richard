@@ -13,11 +13,11 @@ RAVIOLI WITH MOUNTAIN CHEESE<br>
 Winter truffles & chestnuts<br>
 <br>
 <br>
-ARTICHOKE À LA BAURIGOLE<br>
+ARTICHOKE À LA BARIGOULE<br>
 <br>
 <br>
-ROASTED RED CABBAGE<br>
-Apple & Buttermilk<br>
+MANGOLD WITH ROMANA SALAD <br>
+buttermilk, Roscoff onion & potato gnocchi<br>
 <br>
 <br>
 ROCAMADOUR<br>
