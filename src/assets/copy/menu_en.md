@@ -14,18 +14,13 @@ RAVIOLI WITH MOUNTAIN CHEESE<br>
 Winter truffles & chestnuts<br>
 <br>
 <br>
-RED BARB WITH SAFFRON & ARTICHOKE<br>
-Olives, anchovies & lemon thyme<br>
+LOUP DE MER WITH FENNEL & ANIS<br>
+tomato, anchovies & taggiasca olives<br>
 <br>
 <br>
-
-*CHALLANS DUCK IN TWO COURSES*<br>
-<br>
-TAGINE FROM THE THIGH WITH BRUSSEL SPROUDS<br>
-Star anise and Pomelo <br>
-<br>
-BRISKET WITH ROASTED RED CABBAGE<br>
-Cream of sunflower seed & apple<br>
+SHOULDER OF MILK CALF <br>
+SMOKED EEL<br>
+marjoram<br>
 <br>
 <br>
 ROCAMADOUR<br>
