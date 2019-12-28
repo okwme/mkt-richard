@@ -13,11 +13,11 @@ RAVIOLI MIT BERGKÄSE<br>
 Wintertrüffel & Maronen<br>
 <br>
 <br>
-ARTISCHOCKE À LA BAURIGOLE<br>
+ARTISCHOCKE À LA BARIGOULE<br>
 <br>
 <br>
-GEBRATENER ROTKOHL<br>
-Apfel & Buttermilch<br>
+MANGOLD MIT ROMANASALAT<br> 
+Buttermilch, Roscoffzwiebel & Kartoffelgnocchi<br>
 <br>
 <br>
 ROCAMADOUR<br>
