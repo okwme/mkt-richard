@@ -13,18 +13,13 @@ RAVIOLI MIT BERGKÄSE<br>
 Wintertrüffel & Maronen<br>
 <br>
 <br>
-ROTBARBE MIT SAFRAN & ARTISCHOCKE<br>
-Oliven, Sardellen & Zitronenthymian<br>
+LOUP DE MER MIT FENCHEL & ANIS<br>
+Tomate, Anchovis & Taggiasca Oliven<br>
 <br>
 <br>
-<br>
-CHALLANS ENTEN IN ZWEI GÄNGEN<br>
-<br>
-TAGINE VOM SCHENKEL MIT ROSENKOHL<br>
-Sternanis und Pomelo <br>
-<br>
-BRUST MIT GERÖSTETEM ROTKOHL<br>
-Crème vom Sonnenblumenkern & Apfel<br>
+MILCHKALBSSCHULTER <br>
+MIT RÄUCHERAAL <br>
+Majoran<br>
 <br>
 <br>
 ROCAMADOUR<br>
