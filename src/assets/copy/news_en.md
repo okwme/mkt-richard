@@ -5,7 +5,9 @@
 
 <br>
 <br>
-**MENU**<br>
+
+**MENU**
+
 <br>
 TATAR VON ROSA GARNELEN AUS APULIEN<br>
 Spitzkohl, Thymian & Limette<br>
@@ -31,7 +33,9 @@ Vanille & Karamell<br>
 <br>
 <br>
 <br>
-**MENU VEGETARISCH**<br>
+
+**MENU VEGETARISCH**
+
 <br>
 MIMOLETTE BOULE DE LILLE<br>
 Spitzkohl, Thymian & Limette<br>
