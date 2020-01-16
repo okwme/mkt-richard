@@ -5,5 +5,7 @@
 
 <br>
 <br>
-**On February 4th and 5th we will celebrate delights of the beloved sophisticated Swiss cuisine!**
+On February 4th and 5th <br>
+we will celebrate delights <br>
+of the beloved sophisticated Swiss cuisine!
 
