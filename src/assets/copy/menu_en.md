@@ -1,7 +1,6 @@
 ## OUR CURRENT MENU
 
 <br>
-<br>
 MARINATED LOUP DE MER<br>
 moenchsbart, pine nuts & raisins<br>
 celeriac, red onion<br>
