@@ -1,6 +1,5 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
-<br>
 MOENCHSBART SALAD<br>
 celery, red onion<br>
 Comté<br>
