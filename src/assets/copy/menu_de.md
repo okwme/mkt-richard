@@ -1,6 +1,5 @@
 ## UNSER AKTUELLES MENU  
 <br>
-<br>
 GEBEIZTER LOUP DE MER<br>
 Mönchsbart, Pinienkerne & Rosinen<br>
 Staudensellerie, rote Zwiebel<br>
