@@ -1,36 +1,43 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-BURRATA<br>
-Radicchio Trevisiano, Senffrüchte & Meerrettich<br>
+SALAT VON MÖNCHSBART<br>
+Mit Rosinen-Pinienkerne-Condiment<br>
+Comté & Koriandersaat<br>
+ <br>
 <br>
+SELLERIE AUS DEM OFEN <br>
+Süßholz-Gemüsejus & beurre noisette<br>
 <br>
-SELLERIE AUS DEM OFEN<br>
-Süßholz-Gemüsejus & beurre noisette <br>
+ <br>
+GEGRILLTER LAUCH<br>
+Pistazien aus Bronte, Thymianemulsion<br>
+ <br>
 <br>
+POT AU FEU <br>
+TOPINAMBUR UND GELBER BETE  <br>
 <br>
-RAVIOLI MIT BERGKÄSE<br>
-Wintertrüffel & Maronen<br>
-<br>
-<br>
-ARTISCHOCKE À LA BARIGOULE<br>
-<br>
-<br>
-MANGOLD MIT ROMANASALAT<br> 
-Buttermilch, Roscoffzwiebel & Kartoffelgnocchi<br>
-<br>
+  <br>
+GEFÜLLTE PIMENTON DE PATRON <br>
+mit Karotte, Sellerie, Perlgrauben & Zwiebeln<br>
+ <br>
+ <br>
+RAVIOLI OUVERT <br>
+Spitzkohl & Rosenkohl und Schalotten <br>
+Wermut Beurre Blanc<br>
+ <br>
 <br>
 ROCAMADOUR<br>
-Kreuzbergerhonig & Kümmelknäckebrot<br>
+Kreuzberger Honig, Kümmelknäckebrot<br>
+ <br>
+ <br>
+DESSERT VON DER MANJARI SCHOKOLADE <br>
+Vanille & Karamell<br>
 <br>
 <br>
-APFELTARTE<br>
-Zimteis & Karamell<br>
+4 GÄNGE 60 € <br>
+5 GÄNGE 74 €  <br>
+6 GÄNGE 86 € <br>
+7 GÄNGE 98 € <br>
+8 GÄNGE 110 €<br>
 
-<br>
-<br>
-<br>
-<br>
-4 Gang 58 Euro<br>
-5 Gang 72 Euro<br>
-6 Gang 84 Euro<br>
