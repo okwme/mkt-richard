@@ -1,41 +1,47 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-MARINIERTER GLEN DOUGLAS LACHS<br>
-Radicchio Trevisiano, Senffrüchte & Meerrettich<br>
-<br>
-<br>
-SELLERIE AUS DEM OFEN<br>
-Süßholz-Gemüsejus & beurre noisette <br>
-<br>
-<br>
-RAVIOLI MIT BERGKÄSE<br>
-Wintertrüffel & Maronen<br>
-<br>
-<br>
-LOUP DE MER MIT FENCHEL & ANIS<br>
-Tomate, Anchovis & Taggiasca Oliven<br>
-<br>
-<br>
-MILCHKALBSSCHULTER <br>
-MIT RÄUCHERAAL <br>
-Majoran<br>
-<br>
-<br>
-ROCAMADOUR<br>
-Kreuzbergerhonig & Kümmelknäckebrot<br>
-<br>
-<br>
-APFELTARTE<br>
-Zimteis & Karamell<br>
+GEBEIZTER LOUP DE MER<br>
+Mönchsbart, Pinienkerne & Rosinen  
+Staudensellerie, rote Zwiebel<br>
+ 
+
+SELLERIE AUS DEM OFEN 
+Süßholz-Gemüsejus & beurre noisette
+
+ 
+Gegrillter Lauch mit Thymianemulsion 
+Bottarga und Pistazien aus Bronte
+
+ 
+Ravioli VON DER CHALLANSENTE  
+Topinambur und Salbei- Bouillon
+ 
+ 
+Gedämpfter Skrei
+Pimenton del Patron
+Pil Pil Sauce
+ 
+ 
+Geschmorte Spanferkelkeule
+Spitzkohl, Apfel-Fenchel-Condiment 
+Wermutjus
+ 
+ 
+Rocamadour
+Kreuzberger Honig, Kümmelknäckebrot
+ 
+ 
+Dessert von der Manjari Schokolade
+Vanille & Karamell
+ 
 
 
-<br>
-<br>
-4 Gang 68 Euro<br>
-5 Gang 84 Euro<br>
-6 Gang 96 Euro<br>
-7 Gang 106 Euro<br>
-8 Gang 118 Euro<br>
+4 GÄNGE 72 € 
+5 GÄNGE 86 €  
+6 GÄNGE 100 € 
+7 GÄNGE 112 € 
+8 GÄNGE 124 €
+
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
