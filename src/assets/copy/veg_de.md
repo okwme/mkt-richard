@@ -1,6 +1,5 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-<br>
 SALAT VON MÖNCHSBART<br>
 Mit Rosinen-Pinienkerne-Condiment<br>
 Comté & Koriandersaat<br>
