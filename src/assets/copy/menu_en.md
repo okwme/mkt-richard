@@ -2,43 +2,49 @@
 
 <br>
 <br>
-MARINATED GLEN DOUGLAS SALMON<br>
-Radicchio Trevisiano, mustard & horseradish<br>
+MARINATED LOUP DE MER<br>
+moenchsbart, pine nuts & raisins<br>
+celeriac, red onion<br>
+ <br>
+<br>
+CELERIAC FROM THE OVEN <br>
+liquorice and vegetable jus & beurre noisette<br>
+<br>
+ <br>
+GRILLED LEEK <br>
+with thyme emulsion <br>
+bottarga and pistachios from Bronte<br>
+<br>
+ <br>
+RAVIOLI FROM THE CHALLANS DUCK <br>
+jerusalem artichoke and sage bouillon<br>
+ <br>
+ <br>
+STEAMED SKREI<br>
+Pimenton del Patron<br>
+Pil Pil sauce<br>
+ <br>
+ <br>
+BRAISED SUCKLING PIG<br>
+pointed cabbage, apple-fennel condiment <br>
+vermouth jus<br>
+ <br>
+ <br>
+ROMCAMANDOUR<br>
+Kreuzberg honey, caraway crispbread<br>
+ <br>
+ <br>
+DESSERT OF THE MANJARI CHOCOLATE <br>
+Vanilla & Caramel<br>
 <br>
 <br>
-CELERY FROM THE OVEN<br>
-Liquorice vegetable jus & beurre noisette <br>
 <br>
+4 courses 72€ <br>
+5 courses 86€  <br>
+6 courses 100€ <br>
+7 courses 112€ <br>
+8 courses 124 € <br>
 <br>
-RAVIOLI WITH MOUNTAIN CHEESE<br>
-Winter truffles & chestnuts<br>
-<br>
-<br>
-LOUP DE MER WITH FENNEL & ANIS<br>
-tomato, anchovies & taggiasca olives<br>
-<br>
-<br>
-SHOULDER OF MILK CALF <br>
-SMOKED EEL<br>
-marjoram<br>
-<br>
-<br>
-ROCAMADOUR<br>
-Kreuzberger honey & caraway crispbread<br>
-<br>
-<br>
-APPELTARTE<br>
-Cinnamon ice cream & caramel<br>
-
-
-<br>
-<br>
-<br>
-4 courses 68 €<br>
-5 courses 84 €<br>
-6 courses 96 €<br>
-7 courses 106 €<br>
-8 courses 118 €<br>
 <br>
 (all prices incl. VAT)
 
