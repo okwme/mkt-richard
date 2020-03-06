@@ -27,4 +27,3 @@ Apple-Fennel-Green Aniseed<br>
 Lemon butter milk cinnamon ice cream<br>
 <br>
 
-Translated with www.DeepL.com/Translator (free version)
