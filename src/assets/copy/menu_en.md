@@ -6,7 +6,7 @@ moenchsbart, pine nuts & raisins<br>
 celeriac, red onion<br>
  <br>
 <br>
-CELERIAC FROM THE OVEN <br>
+CELERY FROM THE OVEN <br>
 liquorice and vegetable jus & beurre noisette<br>
 <br>
  <br>
@@ -19,7 +19,7 @@ RAVIOLI FROM THE CHALLANS DUCK <br>
 jerusalem artichoke and sage bouillon<br>
  <br>
  <br>
-STEAMED SKREI<br>
+STEAMED GURNARD<br>
 Pimenton del Patron<br>
 Pil Pil sauce<br>
  <br>
