@@ -26,6 +26,7 @@ Apfel-Fenchel-Grüner Anis<br>
 Zitronebuttermilch-Zimteis<br>
 <br>
 <br>
+<br>
 
 **DAS WEINMAHLEINS MIT DEM WEINGUT PFEFFINGEN UND M. CHAPOUTIER**  
 
@@ -42,13 +43,11 @@ Senffrüchte & Avocado<br>
 2017 Scheurebe Sekt brut<br>
 Weingut Pfeffingen<br>
 <br>
-
 ROTE BEETE AUS DEM OFEN <br>
 Lauwarmes Knochenmark & Sardelle<br>
 2018 Terra Rosetta trocken <br>
 Weingut Pfeffingen <br>
 <br>
-
 GELACKTER SELLERIE <br>
 Süßholz-Gemüsejus & beurre noisette <br>
 Scheurebe „SP“ trocken<br>
@@ -60,19 +59,16 @@ Tomate, Anchovis & Taggiasca Oliven <br>
 2018 Beaurevoir <br>
 M. Chapoutier, Tavel AOC<br>
 <br>
-
 MILCHKALBSBRIES<br>
 Frische Erbsen & Buttermilch<br>
 2018 Belleruche Blanc<br>
 M. Chapoutier, Côtes du Rhône AOC<br>
 <br>
-
 GESCHMORTE LAMMSCHULTER<br>
 Artischocke & Dattel-Haselnusscondiment<br>
 2016 Gigondas<br>
 M. Chapoutier, Gigondas AOC<br>
 <br>
- 
 MONTE CARLO À LA RICHARD<br>
 2018 Scheurebe Auslese <br>
 Weingut Pfeffingen<br>
