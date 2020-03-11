@@ -18,7 +18,7 @@ RAVIOLI VON DER CHALLANSENTE <br>
 Topinambur und Salbei- Bouillon<br>
  <br>
  <br>
-GEDÄPFTER SKREI<br>
+GEDÄMPFTER KNURRHAHN<br>
 Pimenton del Patron<br>
 Pil Pil Sauce<br>
  <br>
