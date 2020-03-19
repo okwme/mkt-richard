@@ -1,29 +1,13 @@
 ## NEWS
-  
+ 
 
-**WINE DINNER WITH JEAN-FRANÇOIS BOURDY **  
+**Dear guests**  
 
 <br>
 <br>
-On Thursday, 19 March 2020, 7 pm, Jean-François Bourdy, winemaker in the 15th generation of the legendary Domaine Bourdy from the swiss Jura, will lead through the evening. We will accompany the wonderful wines with a 5-course menu á 139€<br>
+Due to the situation and in consideration of all of us, Restaurant Richard will remain closed for the time being. As soon as the situation has eased and we can welcome you again with a good conscience we will send out a newsletter and post the good news in the social media.
 <br>
+Until then, we wish you all the best - protect yourself and others!<br>
+See you soon,
 <br>
-Flying classics from Richard<br>
-<br>
-<br>
-Celeriac <br>
-Liquorice vegetable jus & Beurre noisette<br>
-<br>
-<br>
-Glazed milk sweetbreads<br>
-Braised onion & marjoram<br>
-<br>
-<br>
-Miéral guinea fowl<br>
-Morel<br>
-<br>
-<br>
-Apple-Fennel-Green Aniseed<br>
-Lemon butter milk cinnamon ice cream<br>
-<br>
-
+Your Team RICHARD
