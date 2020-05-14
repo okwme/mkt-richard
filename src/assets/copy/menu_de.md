@@ -15,5 +15,6 @@ RHABARBERDESSERT <br>
 MIT HONIG UND BUTTERMILCHEIS<br>
 <br>
 <br>
-4 GANG MENÜ 68 EURO
+4 GANG MENÜ 68 EURO<br>
+<br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
