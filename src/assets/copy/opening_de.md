@@ -1,16 +1,14 @@
 ## ÖFFNUNGSZEITEN
   
   
-Das Restaurant ist Dienstags — Samstags  
-von 19 — 24 Uhr geöffnet.  
-
-Wir schliessen unser Restaurant   
-über die Feiertage 22. — 26.12.2019.
-
-Vom Freitag, den 27.12. — Silvester 
-am 31.12.2019 sind wir durchgängig geöffnet.
+LIEBE GÄSTE UND FREUNDE DES RESTAURANT RICHARD,  
   
-Am 1. und 2. Januar 2020 ist das Restaurant geschlossen.
+WIR FREUEN UNS NACH ZU LANGER PAUSE FÜR SIE WIEDER KOCHEN ZU DÜRFEN.  
+AB FREITAG ERÖFFNEN WIR JEWEILS SCHON UM 18 UHR   
+UND MÜSSEN DAS LOKAL UM 22 UHR SCHLIESSEN.   
+  
+WIR BIETEN IHNEN EIN GESETZTES 4 GÄNGE-MENÜ AN.  
+DIE GERICHTE SIND AUCH A LA CARTE BESTELLBAR.  
   
 
   
