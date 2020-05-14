@@ -1,13 +1,11 @@
 ## OPENING HOURS
-
-The Restaurant is open Tuesday — Saturday  
-7 pm — 0 am.  
   
+DEAR GUESTS AND FRIENDS OF RESTAURANT RICHARD,    
+    
+WE ARE HAPPY TO COOK FOR YOU AGAIN AFTER A TOO LONG BREAK.  
+FROM FRIDAY ON WE OPEN ALREADY AT 6 PM     
+AND MUST CLOSE THE RESTAURANT BY 10 PM.   
   
-The restaurant will be closed 22. — 26. of decemeber over the holidays.
-  
-From Friday Dec 27th — Tuesday 31st we will be opened!
-…including Sunday and Monday.
-  
-Januars 1st and 2nd, the restaurant will be closed.
+WE OFFER YOU A SET 4-COURSE MENU.  
+THE DISHES CAN ALSO BE ORDERED A LA CARTE.  
 
