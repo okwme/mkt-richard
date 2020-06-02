@@ -1,27 +1,27 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-ROTE BEETE MIT GEGRILLTEM LAUCH<br>
-Borschtsch-Sauce<br>
+LACKIERTE AUBERGINE<br>
+Chermolla & Pantelleria Kapern <br>
+14<br>
 <br>
 <br>
-WEISSER SPARGEL MIT DRILLINGEN UND GERÄUCHERTE BUTTER<br>
-Erbsen, Molke und Estragon<br>
+GEGRILLTER WEIßER SPARGEL <br>
+Geräucherter Ricotta & Rouille<br>
+14<br>
 <br>
 <br>
-GNOCCHI PARISIENNE MIT FENCHEL UND TOMATES CONFITES<br>
+BONOTTE KARTOFFELN <br>
+Rote Bohnen & Aprikose<br>
+Sesamjus<br>
+26<br>
 <br>
 <br>
-RHABARBERDESSERT <br>
-MIT HONIG UND BUTTERMILCHREIS<br>
+ERDBEERE & WEIßE SCHOKOLADE <br>
+Bronte-Pistazieneis <br>
+12<br>
 <br>
 <br>
-4 GANG MENU VEGETARISCH 60 EURO<br>
-<br>
-<br>
-+ ZUSATZGÄNGE
-RISOTTO MIT CHALLANSENTE UND ARTISCHOCKE <br>
-RISOTTO MIT ARTISCHOCKE<br>
-COMTÉ MIT KAMILLE UND LAKRITZ<br>
+4 GANG MENÜ 60 EURO<br>
 <br>
 <br>
 *Alle Preise inklusive gesetzlicher Mehrwertsteuer.
