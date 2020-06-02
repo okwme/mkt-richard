@@ -1,20 +1,30 @@
 ## OUR CURRENT MENU
 
 <br>
-MENU CLASSIC
+LACQUERED EGGPLANT<br>
+Chermolla & Bottarga <br>
+14<br>
 <br>
-BEETROOT WITH ANCHOVY AND BONE MARROW<br>
-Borschtsch Sauce<br>
 <br>
-GRILLED TROUT WITH WHITE ASPARAGUS AND PEAS<br>
-Whey and tarragon<br>
+BRETON MACKEREL <br>
+Grilled asparagus & rouille<br>
+16<br>
 <br>
-VEAL WITH FENNEL AND TOMATO CONFITES<br>
 <br>
-RHUBARB DESSERT <br>
-WITH HONEY AND BUTTER MILK ICE CREAM<br>
+LAMB FROM MÜRITZ<br>
+Red beans & apricot condiment <br>
+Sesamius<br>
+32<br>
 <br>
-4 COURSE MENU 68 EURO<br>
+<br>
+STRAWBERRY & WHITE CHOCOLATE <br>
+Bronte pistachio ice cream <br>
+12<br>
+<br>
+<br>
+4 COURSE MENU <br>
+68 EURO<br>
+
 <br>
 (all prices incl. VAT)
 
