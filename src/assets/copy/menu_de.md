@@ -1,18 +1,24 @@
 ## UNSER AKTUELLES MENU  
 <br>
-ROTE BEETE MIT SARDELLE UND KNOCHENMARK<br>
-Borschtsch-Sauce<br>
+LACKIERTE AUBERGINE <br>
+Chermolla & Bottarga <br>
+14<br>
 <br>
 <br>
-GEGRILLTE FORELLE MIT WEISSEM SPARGEL UND ERBSEN<br>
-Molke und Estragon<br>
+BRETONISCHE MAKRELE <br>
+Gegrillter Spargel & Rouille<br>
+16<br>
 <br>
 <br>
-KALBSRÜCKEN MIT FENCHEL UND TOMATES CONFITES<br>
+MÜRITZ-LAMM<br>
+Rote Bohnen & Aprikose-Condiment <br>
+Sesamjus<br>
+32<br>
 <br>
 <br>
-RHABARBERDESSERT <br>
-MIT HONIG UND BUTTERMILCHEIS<br>
+ERDBEERE & WEIßE SCHOKOLADE <br>
+Bronte-Pistazieneis <br>
+12<br>
 <br>
 <br>
 4 GANG MENÜ 68 EURO<br>
