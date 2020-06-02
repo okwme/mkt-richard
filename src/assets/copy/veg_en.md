@@ -1,18 +1,25 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
-BEETROOT WITH GRILLED LEEK<br>
-Borschtsch Sauce<br>
-<br>
-WHITE ASPARAGUS WITH YOUNG POTATOS AND SMOKED BUTTER<br>
-Peas, whey and tarragon<br>
-<br>
-GNOCCHI PARISIENNE WITH FENNEL AND TOMATOES CONFITES<br>	
-<br>
-RHUBARB DESSERT <br>
-WITH HONEY AND BUTTERMILK RICE<br>
+LACQUERED EGGPLANT<br>
+Chermolla & Pantelleria Capers <br>
+14<br>
 <br>
 <br>
-4 COURSE MENU VEGETARIAN 60 EURO
+grilled white asparagus <br>
+Smoked Ricotta & Rouille<br>
+14<br>
+<br>
+<br>
+BONOTTE POTATOES <br>
+Red beans & apricot<br>
+Sesamius<br>
+26<br>
+<br>
+<br>
+STRAWBERRY & WHITE CHOCOLATE <br>
+Bronte pistachio ice cream <br>
+12<br>
+
 <br>
 <br>
 all prices include VAT
