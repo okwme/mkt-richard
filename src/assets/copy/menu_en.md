@@ -1,29 +1,26 @@
 ## OUR CURRENT MENU
 
 <br>
-LACQUERED EGGPLANT<br>
-Chermolla & Bottarga <br>
-14<br>
+<br>
+TOMATO TART WITH TAGGIASCO OLIVES                         
+Anchovy & Crème fraîche   
+  
+   
+ATLANTIC MULLET WITH PORCINI MUSHROOMS                    
+Sweet Pepper & Sauce-Bouillabaisse              
+  
+                                                                     
+EARED BACK OF THE NEBRASKA CATTLE <br> 
+WITH BEETROOT & PICKLED BERGAMOT<br>                 
+Fried Radicchio & Coriander Seed Jus             
+  
+  
+STRAWBERRY & WHITE CHOCOLATE   
+Bronte Pistachio Ice Cream  
 <br>
 <br>
-BRETON MACKEREL <br>
-Grilled asparagus & rouille<br>
-16<br>
+4 COURSE MENU 68 EURO<br>
 <br>
-<br>
-LAMB FROM MÜRITZ<br>
-Red beans & apricot condiment <br>
-Sesamius<br>
-32<br>
-<br>
-<br>
-STRAWBERRY & WHITE CHOCOLATE <br>
-Bronte pistachio ice cream <br>
-12<br>
-<br>
-<br>
-4 COURSE MENU <br>
-68 EURO<br>
 
 <br>
 (all prices incl. VAT)
