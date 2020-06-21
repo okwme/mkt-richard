@@ -10,7 +10,7 @@ ATLANTIC MULLET WITH PORCINI MUSHROOMS     <br>
 Sweet Pepper & Sauce-Bouillabaisse    <br>          
   <br>
           <br>                                                           
-EARED BACK OF THE NEBRASKA CATTLE <br> 
+HIGH BACK OF THE NEBRASKA CATTLE <br> 
 WITH BEETROOT & PICKLED BERGAMOT <br>                 
 Fried Radicchio & Coriander Seed Jus  <br>           
   <br>
