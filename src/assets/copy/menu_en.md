@@ -11,7 +11,7 @@ Sweet Pepper & Sauce-Bouillabaisse    <br>
   <br>
           <br>                                                           
 HIGH BACK OF THE NEBRASKA CATTLE <br> 
-WITH BEETROOT & PICKLED BERGAMOT <br>                 
+WITH BEETROOT & PICKLED BERGAMOTTE <br>                 
 Fried Radicchio & Coriander Seed Jus  <br>           
   <br>
   <br>
