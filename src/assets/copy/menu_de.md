@@ -1,20 +1,20 @@
 ## UNSER AKTUELLES MENU  
 <br>
-TOMATENTARTE MIT TAGGIASCO-OLIVEN                         
-Sardelle & Crème fraîche   
-  
-   
-ATLANTIK-MEERÄSCHE MIT STEINPILZEN                    
-Spitzpaprika & Sauce -Bouillabaisse              
-  
-                                                                     
-HOHRÜCKEN VOM NEBRASKARIND  
-MIT ROTE BEETE & EINGELEGTER BERGAMOTTE                 
-Gebratener Radicchio & Koriandersaatjus             
-  
-  
-ERDBEERE & WEISSE SCHOKOLADE  
-Bronte-Pistazieneis  
+TOMATENTARTE MIT TAGGIASCO-OLIVEN <br>                       
+Sardelle & Crème fraîche <br>
+<br>
+<br>
+ATLANTIK-MEERÄSCHE MIT STEINPILZEN <br>                 
+Spitzpaprika & Sauce -Bouillabaisse <br>          
+<br>
+<br>                                                             
+HOHRÜCKEN VOM NEBRASKARIND <br>
+MIT ROTE BEETE & EINGELEGTER BERGAMOTTE  <br>           
+Gebratener Radicchio & Koriandersaatjus <br>          
+<br>
+<br>
+ERDBEERE & WEISSE SCHOKOLADE <br>
+Bronte-Pistazieneis <br>
 <br>
 <br>
 4 GANG MENÜ 68 EURO<br>
