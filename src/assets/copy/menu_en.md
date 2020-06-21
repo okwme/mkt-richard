@@ -2,7 +2,7 @@
 
 <br>
 <br>
-TOMATO TART WITH TAGGIASCO OLIVES   <br>                      
+TOMATO TARTE WITH TAGGIASCO OLIVES   <br>                      
 Anchovy & Crème fraîche   <br>
   <br>
    <br>
