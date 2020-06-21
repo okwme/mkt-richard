@@ -1,24 +1,20 @@
 ## UNSER AKTUELLES MENU  
 <br>
-LACKIERTE AUBERGINE <br>
-Chermolla & Bottarga <br>
-14<br>
-<br>
-<br>
-BRETONISCHE MAKRELE <br>
-Gegrillter Spargel & Rouille<br>
-16<br>
-<br>
-<br>
-MÜRITZ-LAMM<br>
-Rote Bohnen & Aprikose-Condiment <br>
-Sesamjus<br>
-32<br>
-<br>
-<br>
-ERDBEERE & WEIßE SCHOKOLADE <br>
-Bronte-Pistazieneis <br>
-12<br>
+TOMATENTARTE MIT TAGGIASCO-OLIVEN                         
+Sardelle & Crème fraîche   
+  
+   
+ATLANTIK-MEERÄSCHE MIT STEINPILZEN                    
+Spitzpaprika & Sauce -Bouillabaisse              
+  
+                                                                     
+HOHRÜCKEN VOM NEBRASKARIND  
+MIT ROTE BEETE & EINGELEGTER BERGAMOTTE                 
+Gebratener Radicchio & Koriandersaatjus             
+  
+  
+ERDBEERE & WEISSE SCHOKOLADE  
+Bronte-Pistazieneis  
 <br>
 <br>
 4 GANG MENÜ 68 EURO<br>
