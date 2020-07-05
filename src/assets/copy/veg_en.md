@@ -1,28 +1,28 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br>
-TOMATO TARTE WITH TAGGIASCO OLIVES <br>
-Capers & Crème Fraîche<br>
-<br>
- <br>
-PORCINI MUSHROOMS WITH BRAISED POINTED PAPRIKE <br>
-Sauce méditerranéenne & Pearl Onion <br>
-<br>
- <br>
-YOUNG BEETROOT WITH SUMMER TRUFFLES <br>
-Fried Radicchio & Mustard Cabbage <br>
-<br>
- <br>
- STRAWBERRY & WHITE CHOCOLATE <br>
-Bronte Pistachio Ice-Cream <br>
+VEGETARIANO<br>
 <br>
 <br>
-ADDITIONAL COURSE<br>
+BEETROOT FROM THE OVEN <br>
+WITH GLASED VEGETABLES<br>
+Olives, capers & bilettes<br>
+Salsa Verde<br>
 <br>
-TORTELLINI WITH AUBERGINE & BUFFALO MOZARELLA <br>
-Peas & Almond-Fond <br>
-18 Euro<br>
+<br>
+ROASTED ZUCCHINI FLOWERS <br>
+Thyme & Almonds<br>
+<br>
+<br>
+TRUFFLED BRAMATA WITH PORCINI MUSHROOM<br>
+Sage and vegetable jus<br>
+<br>
+<br>
+CANDIED APRICOT<br>
+with hazelnut ice cream<br>
+Marsala sabayon<br>
 <br>
 <br>
 4 COURSE MENU 60 EURO <br>
+<br>
 <br>
 all prices include VAT
