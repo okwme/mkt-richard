@@ -1,26 +1,23 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-TOMATENTARTE MIT TAGGIASCO-OLIVEN <br>
-Kapern & Crème fraîche<br>
-<br>
- <br>
-STEINPILZE MIT GESCHMORTER SPITZPAPRIKA <br>
-Sauce méditerranéenne & Perlzwiebel <br>
-<br>
- <br>
-JUNGE ROTE BETE MIT SOMMERTRÜFFEL <br>
-Gebratener Radicchio & Senfkohl <br>
-<br>
- <br>
-ERDBEERE & WEISSE SCHOKOLADE <br>
-Bronte-Pistazieneis <br>
+VEGETARIANO<br>
 <br>
 <br>
-ZUSATZGANG<br>
+ROTE BEETE AUS DEM OFEN	MIT GLASIERTEM GEMÜSE<br>
+Oliven, Kapern & Gallette<br>
+Salsa Verde<br>
 <br>
-TORTELLINI MIT AUBERGINE & BÜFFELMOZARELLA <br>
-Erbsen & Mandelfond <br>
-18 Euro<br>
+<br>
+GEBRATENE ZUCCHINIBLÜTEN <br>
+Thymian & Mandeln<br>
+<br>
+<br>
+GETRÜFFELTE BRAMATA MIT STEINPLIZEN<br>
+Gemüse-Salbeijus<br>
+<br>
+<br>
+KANDIERTE APRIKOSE MIT HASELNUSSEIS<br>
+Marsala-Zabaione<br>
 <br>
 <br>
 4 GANG MENÜ 60 EURO <br>
