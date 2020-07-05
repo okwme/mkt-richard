@@ -1,20 +1,24 @@
 ## UNSER AKTUELLES MENU  
 <br>
-TOMATENTARTE MIT TAGGIASCO-OLIVEN <br>                       
-Sardelle & Crème fraîche <br>
+CLASSICO <br>
+
+CAPPON MAGRO<br>
+Garnele, Makrele, Anchovi, Rote Beete<br>
+Tomate & grüne Bohnen <br>
+Salsa Verde<br>
 <br>
 <br>
-ATLANTIK-MEERÄSCHE MIT STEINPILZEN <br>                 
-Spitzpaprika & Sauce -Bouillabaisse <br>          
-<br>
-<br>                                                             
-HOHRÜCKEN VOM NEBRASKARIND <br>
-MIT ROTE BEETE & EINGELEGTER BERGAMOTTE  <br>           
-Gebratener Radicchio & Koriandersaatjus <br>          
+GEBRATENE ZUCCHINIBLÜTEN MIT LARDO DI COLONNATA<br>
+Thymian & Mandeln<br>
 <br>
 <br>
-ERDBEERE & WEISSE SCHOKOLADE <br>
-Bronte-Pistazieneis <br>
+WACHTEL VOM HOLZKOHLEGRILL MIT STEINPILZEN<br>
+Getrüffelte Bramata & Knoblauch<br>
+Salbeijus<br>
+<br>
+<br>
+KANDIERTE APRIKOSE MIT HASELNUSSEIS<br>
+Marsala-Zabaione<br>
 <br>
 <br>
 4 GANG MENÜ 68 EURO<br>
