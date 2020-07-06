@@ -5,7 +5,7 @@ VEGETARIANO<br>
 <br>
 BEETROOT FROM THE OVEN <br>
 WITH GLASED VEGETABLES<br>
-Olives, capers & bilettes<br>
+Olives, Capers & Galette<br>
 Salsa Verde<br>
 <br>
 <br>
@@ -14,11 +14,11 @@ Thyme & Almonds<br>
 <br>
 <br>
 TRUFFLED BRAMATA WITH PORCINI MUSHROOM<br>
-Sage and vegetable jus<br>
+Sage and Vegetable—Jus<br>
 <br>
 <br>
 CANDIED APRICOT<br>
-with hazelnut ice cream<br>
+with Hazelnut Ice Cream<br>
 Marsala sabayon<br>
 <br>
 <br>
