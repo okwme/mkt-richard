@@ -9,7 +9,7 @@ das Restaurant den folgenden Themen:<br>
 <br>
 <br>
 <br>
-## Gioco in Casa <br>
+Gioco in Casa <br>
 <br>
 7.—18. Juli 2020<br>
 <br>
@@ -19,7 +19,7 @@ der norditalienische Küche seiner Heimat.<br>
 <br>
 <br>
 <br>
-## Tutti Frutti<br>
+Tutti Frutti<br>
 <br>
 21. Juli—8. August 2020 <br>
 <br>
@@ -31,7 +31,7 @@ Gemüse mit Gemüse!<br>
 <br>
  <br>
 <br>
-## Oriental Delights<br>
+Oriental Delights<br>
 <br>
 11.—22. August 2020<br>
 <br>
@@ -41,7 +41,7 @@ und ihren raffinierten Genüssen hin.<br>
 <br>
 <br>
 <br>
-## Mehr ist Meer<br>
+Mehr ist Meer<br>
 <br>
 25. August—5. September<br>
 <br>
