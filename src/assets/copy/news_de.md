@@ -9,7 +9,7 @@ das Restaurant den folgenden Themen:<br>
 <br>
 <br>
 <br>
-## Gioco in Casa<br>
+## Gioco in Casa <br>
 <br>
 7.—18. Juli 2020<br>
 <br>
