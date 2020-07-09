@@ -3,9 +3,7 @@
 <br>
 <br>
 Dear guests,<br>
-Restaurant Richard commences the summer program<br>
-in four acts. These weeks we dedicate <br>
-the restaurant to the following topics:<br>
+Restaurant Richard commences the summer program in four acts. During these weeks we will dedicate the restaurant to the following topics:<br>
 <br>
 <br>
 <br>
@@ -19,7 +17,7 @@ of the northern Italian cuisine, his home. <br>
 <br>
 <br>
 <br>
-## Tutti Frutti<br>
+Tutti Frutti<br>
 <br>
 21 July-8 August 2020 <br>
 <br>
@@ -31,7 +29,7 @@ Vegetables with vegetables!<br>
 <br>
  <br>
 <br>
-## Oriental Delights<br>
+Oriental Delights<br>
 <br>
 11-22 August 2020<br>
 <br>
@@ -41,7 +39,7 @@ and its refined pleasures. <br>
 <br>
 <br>
 <br>
-## Mehr ist Meer<br>
+Mehr ist Meer<br>
 <br>
 25 August-5 September<br>
 <br>
