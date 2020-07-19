@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: netlify-cms # Branch to update (optional; defaults to master)
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "public/content/home.yml"
+        fields: 
+          - {label: Title, name: title, widget: string}
+          - label: Sections
+            name: sections
+            widget: list
+            fields: 
+              - {label: Image, name: image, widget: image}
+              - {label: Video URL, name: video, widget: string}
