@@ -1,28 +1,63 @@
 ## OUR CURRENT VEGETARIAN MENU
-<br>
-VEGETARIANO<br>
-<br>
-<br>
-BEETROOT FROM THE OVEN <br>
-WITH GLASED VEGETABLES<br>
-Olives, Capers & Galette<br>
-Salsa Verde<br>
-<br>
-<br>
-ROASTED ZUCCHINI FLOWERS <br>
-Thyme & Almonds<br>
-<br>
-<br>
-TRUFFLED BRAMATA WITH PORCINI MUSHROOM<br>
-Sage and Vegetable—Jus<br>
-<br>
-<br>
-CANDIED APRICOT<br>
-with Hazelnut Ice Cream<br>
-Marsala sabayon<br>
-<br>
-<br>
-4 COURSE MENU 60 EURO <br>
-<br>
-<br>
-all prices include VAT
+<br/>
+RATATOUILLE<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+SPRING ONIONS - TARTE TATIN<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ROYAL WITH PEAS<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+VEGETABLE-„BAECKEOFFE“<br/>
+<br/>
+TRADITIONAL STEW FROM ALSACE<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+PORCINI MUSHROOMS AND SMOKED BUTTER<br/>
+<br/>
+Grenaillepotatoes and Parsley<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+GRILLED LEEK FROM THE CHARCOAL GRILL<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+STRAWBERRIES & WHITE CHOCOLATE<br/>
+<br/>
+Bronte-Pistachio Icecream<br/>
+<br/>
+ <br/>
+<br/>
+76 EURO<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+DEAR GUESTS, WE ASK FOR UNDERSTANDING OF SPONTANEOUS MENU CHANGES<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ALL PRICES IN EURO INCLUDING LEGAL VAT.
