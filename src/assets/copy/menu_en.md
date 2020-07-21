@@ -1,31 +1,61 @@
-## OUR CURRENT MENU
-
-<br>
-<br>
-CAPPON MAGRO<br>
-Shrimp, Mackere<br>
-Anchovy, Beetroot<br><br>
-Tomato & green Beans<br>
-Salsa Verde<br>
-<br>
-<br>
-ROASTED ZUCCHINI FLOWERS<br>
-WITH LARDO DI COLONNATA<br>
-Thyme & Almonds<br>
-<br>
-<br>
-QUAIL FROM A WOOD COAL GRILL<br>
-WITH PORICINI MUSHROOMS<br>
-Truffled Bramata & Garlic<br>
-Sage jus<br>
-<br>
-<br>
-CANDIED APRICOT<br>
-with Hazelnut Ice cream<br>
-Marsala Sabayon<br>
-<br>
-<br>
-4 COURSE MENU 68 EURO<br>
-<br>
-(all prices incl. VAT)
-
+RATATOUILLE<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+SPRING ONIONS - TARTE TATIN<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ROYAL WITH PEAS<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+VEGETABLE-„BAECKEOFFE“<br/>
+<br/>
+TRADITIONAL STEW FROM ALSACE<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+PORCINI MUSHROOMS AND SMOKED BUTTER<br/>
+<br/>
+Grenaillepotatoes and Parsley<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+GRILLED LEEK FROM THE CHARCOAL GRILL<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+STRAWBERRIES & WHITE CHOCOLATE<br/>
+<br/>
+Bronte-Pistachio Icecream<br/>
+<br/>
+ <br/>
+<br/>
+76 EURO<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+DEAR GUESTS, WE ASK FOR UNDERSTANDING OF SPONTANEOUS MENU CHANGES<br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ <br/>
+<br/>
+ALL PRICES IN EURO INCLUDING LEGAL VAT.
