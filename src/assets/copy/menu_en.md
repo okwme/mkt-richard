@@ -1,62 +1,29 @@
 ## OUR CURRENT MENU
 <br/>
-RATATOUILLE<br/>
+RED SHRIMP WITH BABA GANOUSH<br/>
+Celeriac Emulsion and Ayran<br/>
 <br/>
- <br/>
 <br/>
- <br/>
+ATLANTIC- RED MULLET & ALMOND PICADA<br/>
+Fennel and Harissa<br/>
 <br/>
-SPRING ONIONS - TARTE TATIN<br/>
 <br/>
- <br/>
+LEMON CHICKEN WITH SHAKSHUKA<br/>
+Red Rice<br/>
+Raz el Hanout<br/>
 <br/>
- <br/>
 <br/>
-ROYAL WITH PEAS<br/>
+KENEFFA AND MARINATED BERRIES<br/>
+Raspberry sorbet<br/>
 <br/>
- <br/>
 <br/>
- <br/>
-<br/>
-VEGETABLE-„BAECKEOFFE“<br/>
-<br/>
-TRADITIONAL STEW FROM ALSACE<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-PORCINI MUSHROOMS AND SMOKED BUTTER<br/>
-<br/>
-Grenaillepotatoes and Parsley<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-GRILLED LEEK FROM THE CHARCOAL GRILL<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-STRAWBERRIES & WHITE CHOCOLATE<br/>
-<br/>
-Bronte-Pistachio Icecream<br/>
-<br/>
- <br/>
-<br/>
-76 EURO<br/>
+68 EURO<br/>
 <br/>
  <br/>
 <br/>
  <br/>
 <br/>
 DEAR GUESTS, WE ASK FOR UNDERSTANDING OF SPONTANEOUS MENU CHANGES<br/>
-<br/>
- <br/>
-<br/>
- <br/>
 <br/>
  <br/>
 <br/>
