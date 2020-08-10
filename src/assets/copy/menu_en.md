@@ -23,8 +23,8 @@ Raspberry sorbet<br/>
 <br/>
  <br/>
 <br/>
-DEAR GUESTS, WE ASK FOR UNDERSTANDING OF SPONTANEOUS MENU CHANGES<br/>
+Dear guests, please allow us to spontanteously change the menus.<br/>
 <br/>
  <br/>
 <br/>
-ALL PRICES IN EURO INCLUDING LEGAL VAT.
+All prices include VAT.
