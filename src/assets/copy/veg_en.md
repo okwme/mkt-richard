@@ -1,62 +1,27 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
-RATATOUILLE<br/>
 <br/>
- <br/>
+BABA GANOUSH WITH RED PEPPERS<br/>
+CelerIac-Emulsion and Ayran<br/>
 <br/>
- <br/>
 <br/>
-SPRING ONIONS - TARTE TATIN<br/>
+LACQUERED FENNEL & ALMOND PICADA<br/>
+Fennel Salad and Harissa<br/>
 <br/>
- <br/>
 <br/>
- <br/>
+DEHYDRATED COEUR DU BOEUF-TOMATE<br/>
+EGG YOLK (SHAKSHUKA)<br/>
+Red Rice<br/>
+Raz el Hanout<br/>
 <br/>
-ROYAL WITH PEAS<br/>
 <br/>
- <br/>
+KENEFFA AND MARINATED BERRIES<br/>
+Raspberry sorbet<br/>
 <br/>
- <br/>
-<br/>
-VEGETABLE-„BAECKEOFFE“<br/>
-<br/>
-TRADITIONAL STEW FROM ALSACE<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-PORCINI MUSHROOMS AND SMOKED BUTTER<br/>
-<br/>
-Grenaillepotatoes and Parsley<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-GRILLED LEEK FROM THE CHARCOAL GRILL<br/>
-<br/>
- <br/>
-<br/>
- <br/>
-<br/>
-STRAWBERRIES & WHITE CHOCOLATE<br/>
-<br/>
-Bronte-Pistachio Icecream<br/>
-<br/>
- <br/>
-<br/>
-76 EURO<br/>
-<br/>
- <br/>
-<br/>
+ 60 Euro
  <br/>
 <br/>
 DEAR GUESTS, WE ASK FOR UNDERSTANDING OF SPONTANEOUS MENU CHANGES<br/>
-<br/>
- <br/>
-<br/>
- <br/>
 <br/>
  <br/>
 <br/>
