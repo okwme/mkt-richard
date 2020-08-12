@@ -14,35 +14,43 @@ media_library:
 collections:
   - label: "Pages"
     name: "pages"
-    types:
-      - label: 'Image'
-        name: 'image'
-        widget: object
-        # summary: '{{fields.image}}'
+    files:
+      - label: "Home"
+        name: "home"
+        file: "static/content/home.json"
         fields: 
-          - label: Image
-            name: image
-            widget: image
-            media_library: 
-              config: 
-                multiple: false
-          - {label: Alt, name: alt, widget: string, default: (Describe the image for the visually impaired!) }
-      - label: 'Video'
-        name: 'video'
-        widget: object
-        fields:
-          - label: Video
-            name: video_lnd
-            widget: file
-            media_library:
-              config:
-                multiple: false
-          # - label: Portrait Video
-          #   name: video_mbl
-          #   widget: file
-          #   media_library:
-          #     config:
-          #       multiple: false
+          - label: 'Sections'
+            name: 'sections'
+            widget: list
+            types:
+              - label: 'Image'
+                name: 'image'
+                widget: object
+                # summary: '{{fields.image}}'
+                fields: 
+                  - label: Image
+                    name: image
+                    widget: image
+                    media_library: 
+                      config: 
+                        multiple: false
+                  - {label: Alt, name: alt, widget: string, default: (Describe the image for the visually impaired!) }
+              - label: 'Video'
+                name: 'video'
+                widget: object
+                fields:
+                  - label: Video
+                    name: video_lnd
+                    widget: file
+                    media_library:
+                      config:
+                        multiple: false
+                  # - label: Portrait Video
+                  #   name: video_mbl
+                  #   widget: file
+                  #   media_library:
+                  #     config:
+                  #       multiple: false
     # files:
     #   - label: "Home"
     #     name: "home"
