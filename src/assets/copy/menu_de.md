@@ -21,4 +21,6 @@ Himbersorbet<br>
 <br/>
 <br/>
 <br>
-*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
+*We accept EC, MAESTRO, VISA & Cash
+All prices are in Euro and include the legal value added tax.
+In case of allergies please contact our service staff.
