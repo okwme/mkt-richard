@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "iphone-inline-video": "^2.2.2",
+    "markdown-it": "^11.0.0",
     "sanitize.css": "^7.0.3",
     "vue": "^2.5.2",
     "vue-fullpage.js": "^0.0.5",
