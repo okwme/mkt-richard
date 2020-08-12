@@ -4,8 +4,22 @@
       "links": [
         {
           "page": "menu",
+          "label_en": "Menu",
+          "label_de": "Menü"
+        },
+        {
+          "page": "contact",
           "label_en": "Contact",
           "label_de": "Contakt"
+        }
+      ]
+    },
+    {
+      "links": [
+        {
+          "page": "contact",
+          "label_en": "Contact2",
+          "label_de": "Contakt2"
         }
       ]
     }
