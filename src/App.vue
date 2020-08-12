@@ -3,7 +3,29 @@
     <home :class="{showNav:showNav}" @closeNav="closeNav" :lang="lang" />
     <div id="nextButton" @click="$refs.fullpage.api.moveSectionDown()"></div>
     <full-page ref="fullpage" :options="options" id="fullpage">
+      <!-- page sections -->
       <div class="section"
+      v-for="(section, i) in doc.sections"
+      :key="i"
+      :id="'section' + i"
+      :class="{'video-el' : section.type=== 'video'}"
+      >
+        <!-- (video bg) -->
+        <template v-if="section.type === 'video'">
+          <video class="fp-video fp-bg" :src="section.video_lnd" autoplay muted loop playsinline></video>
+        </template>
+        <!-- (image bg) -->
+        <template v-else-if="section.type === 'image'">
+          <div role="img" class="fp-bg" :style="`background-image:url(${section.image})`" :aria-label="section.alt"></div>
+        </template>
+        <!-- (landing image) -->
+        <template v-if="i === 0 && doc.landing_img">
+          <div class="landingImage" @click="goToNews">
+            <img :src="doc.landing_img" :alt="doc.landing_img_alt">
+          </div>
+        </template>
+      </div>
+      <!-- <div class="section"
       v-for="(content,i) in contents"
       :key="i"
       :id="'section' + i"
@@ -22,7 +44,7 @@
         </video>
         <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
         <div v-if="i === 0 && landingImage" @click="goToNews" class="landingImage"  v-html="landingImage"/>
-      </div>
+      </div> -->
     </full-page>
     <div :class="{showNav:showNav, floatLogo: true}"><a href="/"><img src="/static/img/logo_big.png"></a></div>
     <div class="siteLinks">
