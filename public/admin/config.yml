@@ -19,6 +19,10 @@ collections:
         name: "home"
         file: "static/content/home.json"
         fields: 
+          - label: 'Landing Image'
+            name: 'landing_img'
+            widget: image
+            required: false
           - label: 'Sections'
             name: 'sections'
             widget: list
