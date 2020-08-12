@@ -61,13 +61,15 @@ collections:
                 name: 'links'
                 widget: list
                 fields: 
+                  - label: 'Page'
+                    name: 'page'
+                    widget: relation
+                    collection: menu-pages
+                    searchFields: ["title"],
+                    valueField: title
                   - {label: 'Label (EN)', name: 'label_en', widget: 'string'}
                   - {label: 'Label (DE)', name: 'label_de', widget: 'string'}
-                  # - label: 'Link To'
-                  #   name: 'link'
-                  #   widget: relation
-                  #   collection: menu-pages
-                  #   valueField: slug
+                  
   - label: "Pages"
     name: 'menu-pages'
     folder: 'static/content/menu-pages'
