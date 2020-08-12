@@ -12,7 +12,7 @@ media_library:
     api_key: 858462229676913
 
 collections:
-  - label: "Pages"
+  - label: "Main"
     name: "pages"
     files:
       - label: "Home"
@@ -49,3 +49,14 @@ collections:
                     media_library:
                       config:
                         multiple: false
+  - label: "Menu"
+    name: 'menu'
+    folder: 'static/content/menu'
+    create: true
+    identifier_field: slug
+    fields: 
+      - {label: "URL Slug", name: "slug", widget: "string"}
+      - {label: 'Name (DE)', name: "name_de", widget: "string"}
+      - {label: "Body (DE)", name: "body_de", widget: "markdown"}
+      - {label: 'Name (EN)', name: "name_en", widget: "string"}
+      - {label: "Body (EN)", name: "body_en", widget: "markdown"}
