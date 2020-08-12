@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <header>{{ doc.title }}</header>
     <home :class="{showNav:showNav}" @closeNav="closeNav" :lang="lang" />
     <div id="nextButton" @click="$refs.fullpage.api.moveSectionDown()"></div>
     <full-page ref="fullpage" :options="options" id="fullpage">
@@ -191,7 +190,8 @@ let contents = [
     path: '/static/images/'
   }
 ]
-require('./assets/fullpage.parallax.min.js')
+// loaded in index.html via <script>
+// require('./assets/fullpage.parallax.min.js')
 export default {
   name: 'App',
   data () {
