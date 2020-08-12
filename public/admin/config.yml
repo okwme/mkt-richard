@@ -8,11 +8,10 @@ public_folder: "/static/uploads" # public url from dist
 collections:
   - name: "pages"
     label: "Pages"
-    format: 'json',
     files:
       - label: "Home"
         name: "home"
-        file: "public/content/home.yml"
+        file: "static/content/home.json"
         fields: 
           - {label: Title, name: title, widget: string}
           - label: Sections
