@@ -2,7 +2,22 @@
   "title": "holmes place 2",
   "sections": [
     {
-      "image": "https://res.cloudinary.com/evv/image/upload/c_scale,w_528/v1568217952/sample.jpg"
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/evv/video/upload/v1568220482/OTTOLINGER-SS19-vf1080p30-muted-short_mrhr4j.mp4"
+    },
+    {
+      "type": "image",
+      "alt": "(Describe the image for the visually impaired!)",
+      "image": "https://res.cloudinary.com/evv/image/upload/v1568217952/sample.jpg"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/evv/video/upload/v1568220482/OTTOLINGER-SS19-vf1080p30-muted-short_mrhr4j.mp4"
+    },
+    {
+      "type": "image",
+      "alt": "(Describe the image for the visually impaired!)",
+      "image": "https://res.cloudinary.com/evv/image/upload/v1568217952/sample.jpg"
     }
   ]
 }
