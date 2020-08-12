@@ -15,20 +15,31 @@
               <img src="/static/img/star.png">
               <img src="/static/img/hat.png">
             </div>
-            <div class="link-group" v-for="(group, i) in sections" :key="'group-' + i"  >
+            <div class="link-group" v-for="(group, i) in menu.groups" :key="'group-' + i"  >
+              <div v-for="(link, j) in group.links"  :key="'section-' + i + '-' + j" >
+                <router-link  :to="link.page">{{ link['label_' + [lang]] }}</router-link>
+              </div>
+            </div>
+            <!-- <div class="link-group" v-for="(group, i) in sections" :key="'group-' + i"  >
               <div v-for="(section, j) in group"  :key="'section-' + i + '-' + j" >
                 <router-link  :to="section.nav">{{section.name[lang]}}</router-link>
               </div>
-            </div>
+            </div> -->
           </div>
         </section>
-        <template v-for="(group, i) in sections"  >
+        <template v-for="(slug, ii) in menuPages"  >
+          <section
+          class="nav-section" :id="slug"  :key="'content-section-' + ii">
+            <menu-page :lang="lang" :slug="slug"  />
+          </section>
+        </template>
+        <!-- <template v-for="(group, i) in sections"  >
           <section
           :class="section.style"
           class="nav-section" v-for="(section, j) in group" :id="section.nav"  :key="'content-section-' + i+'-'+j">
             <item :lang="lang" :md="section.nav"  />
           </section>
-        </template>
+        </template> -->
       </div>
     </div>
   </div>
@@ -36,14 +47,19 @@
 
 <script>
 import Item from '@/components/Item'
+import MenuPage from '@/components/MenuPage'
+
+const menu = require('../../static/content/menu.json')
 
 require('waypoints/lib/noframework.waypoints.js')
 export default {
   name: 'Home',
+  props: ['lang'],
   data () {
     return {
       atTop: true,
       routeName: null,
+      menu: menu,
       sections: [
         [
           // {
@@ -135,7 +151,16 @@ export default {
       ]
     }
   },
-  props: ['lang'],
+  computed: {
+    menuPages () {
+      const slugs = []
+      this.menu.groups.forEach(grp => grp.links.forEach(link => slugs.push(link.page)))
+      return slugs
+    },
+    arrow () {
+      return { rotate: !this.atTop }
+    }
+  },
   methods: {
     clickBack () {
       if (this.$route.path === '/nav') {
@@ -148,12 +173,8 @@ export default {
       return false
     }
   },
-  computed: {
-    arrow () {
-      return { rotate: !this.atTop }
-    }
-  },
   components: {
+    MenuPage,
     Item
   },
   mounted () {
