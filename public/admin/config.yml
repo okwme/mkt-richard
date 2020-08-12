@@ -2,8 +2,14 @@ backend:
   name: git-gateway
   branch: netlify-cms # Branch to update (optional; defaults to master)
 
-media_folder: "static/uploads" # where files are saved
-public_folder: "/static/uploads" # public url from dist
+# media_folder: "static/uploads" # where files are saved
+# public_folder: "/static/uploads" # public url from dist
+
+media_library:
+  name: cloudinary
+  config: 
+    cloud_name: evv
+    api_key: 858462229676913
 
 collections:
   - label: "Pages"
@@ -19,4 +25,4 @@ collections:
             widget: list
             fields: 
               - {label: Image, name: image, widget: image}
-              - {label: Video URL, name: video, widget: string}
+              - {label: Vimeo URL, name: video, widget: string, required: false}
