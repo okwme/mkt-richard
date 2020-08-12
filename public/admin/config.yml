@@ -23,6 +23,7 @@ collections:
             name: 'landing_img'
             widget: image
             required: false
+          - {label: Landing Image Alt, name: landing_img_alt, widget: string, default: (Describe the image for the visually impaired!), required: false }
           - label: 'Sections'
             name: 'sections'
             widget: list
