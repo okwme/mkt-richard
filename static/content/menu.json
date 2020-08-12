@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "links": [
+        {
+          "page": "Menu",
+          "label_en": "CURRENT MENU",
+          "label_de": "Aktuelles Menu"
+        },
+        {
+          "page": "Contact",
+          "label_en": "Contact & Reservations",
+          "label_de": "Contakt & Reservierung"
+        }
+      ]
+    }
+  ]
+}
