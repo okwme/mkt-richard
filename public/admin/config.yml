@@ -6,11 +6,9 @@ media_folder: "static/uploads" # where files are saved
 public_folder: "/static/uploads" # public url from dist
 
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "Pages"
     files:
-      - label: "Home"
-        name: "home"
+      - name: "Home"
         file: "static/content/home.json"
         fields: 
           - {label: Title, name: title, widget: string}
