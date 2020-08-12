@@ -26,7 +26,6 @@ collections:
               - label: 'Image'
                 name: 'image'
                 widget: object
-                # summary: '{{fields.image}}'
                 fields: 
                   - label: Image
                     name: image
@@ -45,21 +44,3 @@ collections:
                     media_library:
                       config:
                         multiple: false
-                  # - label: Portrait Video
-                  #   name: video_mbl
-                  #   widget: file
-                  #   media_library:
-                  #     config:
-                  #       multiple: false
-    # files:
-    #   - label: "Home"
-    #     name: "home"
-    #     file: "static/content/home.json"
-    #     fields: 
-    #       - {label: Title, name: title, widget: string}
-    #       - label: Sections
-    #         name: sections
-    #         widget: list
-    #         fields: 
-    #           - {label: Image, name: image, widget: image}
-    #           - {label: Vimeo URL, name: video, widget: string, required: false}
