@@ -19,5 +19,7 @@
       "alt": "(Describe the image for the visually impaired!)",
       "image": "https://res.cloudinary.com/evv/image/upload/v1568217952/sample.jpg"
     }
-  ]
+  ],
+  "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
+  "landing_img_alt": "Event graphic"
 }
