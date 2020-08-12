@@ -2,8 +2,7 @@
   "title": "holmes place 2",
   "sections": [
     {
-      "image": "/static/uploads/r-153224-1329063542.jpeg.jpg",
-      "video": "https://vimeo.xyz"
+      "image": "https://res.cloudinary.com/evv/image/upload/c_scale,w_528/v1568217952/sample.jpg"
     }
   ]
 }
