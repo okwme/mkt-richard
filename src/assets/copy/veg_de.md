@@ -22,4 +22,6 @@ Himbersorbet<br>
 60 EURO
 <br/>
 <br>
-*Alle Preise inklusive gesetzlicher Mehrwertsteuer.
+**Wir akzeptieren EC, MAESTRO, VISA & Bargeld
+Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
+Bei Allergien wenden sie sich gerne auch schon vorab an unsere Service-Mitarbeiter.
