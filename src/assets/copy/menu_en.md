@@ -27,4 +27,6 @@ Dear guests, please allow us to spontanteously change the menus.<br/>
 <br/>
  <br/>
 <br/>
-All prices include VAT.
+WE ACCEPT EC, MAESTRO, VISA & Cash.<br/>
+All prices are in Euro and include legal VAT.<br/>
+In case of allergies please contact our service staff.<br/>
