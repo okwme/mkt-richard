@@ -12,8 +12,8 @@ media_library:
     api_key: 858462229676913
 
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: "Main"
+    name: "main"
     files:
       - label: "Home"
         name: "home"
@@ -49,15 +49,35 @@ collections:
                     media_library:
                       config:
                         multiple: false
-  - label: "Menu"
-    name: 'menu'
-    folder: 'static/content/menu'
+      - label: "Menu"
+        name: 'menu'
+        file: "static/content/menu.json"
+        fields: 
+          - label: 'Groups'
+            name: 'groups'
+            widget: list
+            fields: 
+              - label: 'Links'
+                name: 'links'
+                widget: list
+                fields: 
+                  - {label: 'Label (EN)', name: 'label_en', widget: 'string'}
+                  - {label: 'Label (DE)', name: 'label_de', widget: 'string'}
+                  - label: 'Link To'
+                    name: 'link',
+                    widget: relation
+                    collection: menu-pages
+                    valueField: slug
+  - label: "Pages"
+    name: 'menu-pages'
+    folder: 'static/content/menu-pages'
     format: 'json'
     create: true
-    identifier_field: slug
+    # identifier_field: slug
     fields: 
-      - {label: "URL Slug", name: "slug", widget: "string"}
-      - {label: 'Name (EN)', name: "name_en", widget: "string"}
-      - {label: 'Name (DE)', name: "name_de", widget: "string"}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      # - {label: "URL Slug", name: "slug", widget: "string"}
+      # - {label: 'Name (EN)', name: "name_en", widget: "string"}
+      # - {label: 'Name (DE)', name: "name_de", widget: "string"}
       - {label: "Body (EN)", name: "body_en", widget: "markdown"}
       - {label: "Body (DE)", name: "body_de", widget: "markdown"}     
