@@ -21,6 +21,6 @@ Himbersorbet<br>
 <br/>
 <br/>
 <br>
-*We accept EC, MAESTRO, VISA & Cash
-All prices are in Euro and include the legal value added tax.
-In case of allergies please contact our service staff.
+*Wir akzeptieren EC, MAESTRO, VISA & Bargeld
+Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.
+Bei Allergien wenden sie sich gerne auch schon vorab an unsere Service-Mitarbeiter.
