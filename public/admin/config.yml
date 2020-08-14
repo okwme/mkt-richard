@@ -10,8 +10,10 @@ backend:
 media_library:
   name: cloudinary
   config: 
-    cloud_name: evv
-    api_key: 858462229676913
+    #cloud_name: evv
+    #api_key: 858462229676913
+    cloud_name: restaurantrichard
+    api_key: 853527768489353
 
 collections:
   - label: "Main"
