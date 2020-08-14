@@ -3,6 +3,15 @@
   "sections": [
     {
       "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/richard_blumen-IG_lxzodk.mov"
+    },
+    {
+      "type": "image",
+      "alt": "(Describe the image for the visually impaired!)",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg"
+    },
+    {
+      "type": "video",
       "video_lnd": "https://res.cloudinary.com/evv/video/upload/v1568220482/OTTOLINGER-SS19-vf1080p30-muted-short_mrhr4j.mp4"
     },
     {
