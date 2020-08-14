@@ -3,16 +3,17 @@
   "sections": [
     {
       "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4"
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4",
+      "label": "blumen"
     },
     {
       "type": "image",
-      "alt": "(Describe the image for the visually impaired!)",
+      "alt": "KUPFER MIRROR",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg"
     },
     {
       "type": "image",
-      "alt": "(Describe the image for the visually impaired!)",
+      "alt": "GIOCO",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg"
     }
   ],
