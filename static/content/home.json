@@ -3,7 +3,7 @@
   "sections": [
     {
       "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/richard_blumen-IG_lxzodk.mov"
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4"
     },
     {
       "type": "image",
@@ -11,22 +11,9 @@
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg"
     },
     {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/evv/video/upload/v1568220482/OTTOLINGER-SS19-vf1080p30-muted-short_mrhr4j.mp4"
-    },
-    {
       "type": "image",
       "alt": "(Describe the image for the visually impaired!)",
-      "image": "https://res.cloudinary.com/evv/image/upload/v1568217952/sample.jpg"
-    },
-    {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/evv/video/upload/v1568220482/OTTOLINGER-SS19-vf1080p30-muted-short_mrhr4j.mp4"
-    },
-    {
-      "type": "image",
-      "alt": "(Describe the image for the visually impaired!)",
-      "image": "https://res.cloudinary.com/evv/image/upload/v1568217952/sample.jpg"
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg"
     }
   ],
   "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
