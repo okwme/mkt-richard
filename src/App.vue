@@ -20,9 +20,9 @@
         </template>
         <!-- (landing image) -->
         <template v-if="i === 0 && doc.landing_img">
-          <div class="landingImage" @click="goToNews">
+          <a class="landingImage" @click="goToNews" :href="doc.landing_img_link" :target="doc.landing_img_link ? '_blank' : ''" rel="noopener">
             <img :src="doc.landing_img" :alt="doc.landing_img_alt">
-          </div>
+          </a>
         </template>
       </div>
       <!-- <div class="section"
@@ -430,6 +430,7 @@ strong {
   cursor: pointer;
 }
 .landingImage {
+  display:block;
   position: absolute;
   z-index:10;
   top:10vh;
