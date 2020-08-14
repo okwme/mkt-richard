@@ -27,7 +27,7 @@ collections:
             name: 'landing_img'
             widget: image
             required: false
-          - {label: Landing Image Alt, name: landing_img_alt, widget: string, default: "(Describe the image for the visually impaired!)", required: false }
+          # - {label: Landing Image Alt, name: landing_img_alt, widget: string, default: "(Describe the image for the visually impaired!)", required: false }
           - label: 'Sections'
             name: 'sections'
             widget: list
@@ -35,6 +35,7 @@ collections:
               - label: 'Image'
                 name: 'image'
                 widget: object
+                summary: "{{fields.alt}}"
                 fields: 
                   - label: Image
                     name: image
@@ -42,11 +43,13 @@ collections:
                     media_library: 
                       config: 
                         multiple: false
-                  - {label: Alt, name: alt, widget: string, default: (Describe the image for the visually impaired!) }
+                  - {label: Description, name: alt, widget: string, default: (Describe the image for the visually impaired!) }
               - label: 'Video'
                 name: 'video'
                 widget: object
+                summary: "{{fields.label}}"
                 fields:
+                  - {label: "Label", name: 'label', widget: string}
                   - label: Video
                     name: video_lnd
                     widget: file
