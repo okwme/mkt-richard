@@ -25,26 +25,6 @@
           </a>
         </template>
       </div>
-      <!-- <div class="section"
-      v-for="(content,i) in contents"
-      :key="i"
-      :id="'section' + i"
-      :class="{mirror:content.name === 'richard_orange.mov' || content.name === '_DSF2502-Bearbeitet.jpg', 'video-el' : content.type=== 'video'}"
-      >
-        <video
-        :autoplay="isMobile"
-        playsinline
-        preload="metadata"
-         v-if="content.type === 'video'" loop muted class="fp-video fp-bg" :poster="content.poster">
-          <source
-          v-for="(src,i) in content.src"
-          :key="i"
-          :id="'source'+i"
-          :src="content.path + src.file" type="video/mp4" :media="src.media"/>
-        </video>
-        <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
-        <div v-if="i === 0 && landingImage" @click="goToNews" class="landingImage"  v-html="landingImage"/>
-      </div> -->
     </full-page>
     <div :class="{showNav:showNav, floatLogo: true}"><a href="/"><img src="/static/img/logo_big.png"></a></div>
     <div class="siteLinks">
@@ -65,153 +45,6 @@ import enableInlineVideo from 'iphone-inline-video'
 
 const doc = require('../static/content/home.json')
 
-let contents = [
-  {
-    type: 'video',
-    poster: '/static/images/richard_paul.jpg',
-    src: [
-      {
-        file: 'Richard_Paul 9rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Paul 9rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Paul 9rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Paul 9rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: 'richard_lamps_image.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_door.jpg',
-    src: [
-      {
-        file: 'Richard_Door 4rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Door 4rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Door 4rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Door 4rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: '54_Wx1_Richard_c_LenaGanssmann-DSC_9460.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'image',
-    name: '75_Wx1_Richard_c_LenaGanssmann-DSC_9661.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_celery.jpg',
-    src: [
-      {
-        file: 'Richard_Celery 3rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Celery 3rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Celery 3rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Celery 3rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: 'RICHARD-Interior.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_eggplant.jpg',
-    src: [
-      {
-        file: 'Richard_Eggplant 1rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_orange.jpg',
-    src: [
-      {
-        file: 'richard_orangerf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_orangerf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_orangerf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_orangerf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: '_DSF2502-Bearbeitet.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'image',
-    name: 'RR-WEBSITE-BolkBG.jpg',
-    path: '/static/images/'
-  }
-]
 // loaded in index.html via <script>
 // require('./assets/fullpage.parallax.min.js')
 export default {
@@ -222,7 +55,6 @@ export default {
       isMobile: isMobile(),
       lang: 'de',
       showNav: false,
-      contents,
       options: {
         // scrollBar: true, // causes scroll jitter (Chrome), but now there's a gap on loop :(
         loopBottom: true,
