@@ -224,7 +224,7 @@ export default {
       showNav: false,
       contents,
       options: {
-        scrollBar: true,
+        // scrollBar: true, // causes scroll jitter (Chrome), but now there's a gap on loop :(
         loopBottom: true,
         touchSensitivity: 1,
         css3: true,
