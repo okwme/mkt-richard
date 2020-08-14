@@ -430,16 +430,19 @@ strong {
   cursor: pointer;
 }
 .landingImage {
-  // text-align: center;
+  position: absolute;
+  z-index:10;
+  top:10vh;
+  left:20px;
+  width: calc(100% - 20px);
+  height: calc(100% - 30vh);
   cursor: pointer;
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
   img {
-    padding: 10vh 0px;
-    max-height: 100vh;
-    max-width: 100vw;
+    position:absolute;
+    top:0; left:0;
+    width:100%; height: 100%;
+    object-fit: contain;
+    object-position: center;
   }
 }
 .floatLogo {
