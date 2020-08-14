@@ -8,9 +8,9 @@
           "label_de": "Menü"
         },
         {
-          "page": "contact",
-          "label_en": "Contact",
-          "label_de": "Contakt"
+          "page": "vegetarian-menu-de",
+          "label_de": "Vegetarisches Menu",
+          "label_en": "Vegetarian Menu"
         }
       ]
     },
