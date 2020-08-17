@@ -15,6 +15,16 @@
       "type": "image",
       "alt": "GIOCO",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg"
+    },
+    {
+      "type": "image",
+      "alt": "Ein gespielgeltes Bild unseres Gastraumes, mit gläsernen Leuchten, einem frivolen Bild von Bernhard Martin und Blumen",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg"
+    },
+    {
+      "type": "image",
+      "alt": "ein Bild unseres Fassade zur Sommerzeit. Gründerzeit mit pinker Wandfarbe und dunkelblauen Fensterrahmen.",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597411791/RR-FASSADE_hzqfw5.jpg"
     }
   ],
   "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
