@@ -28,8 +28,13 @@
     },
     {
       "type": "image",
-      "alt": "FASSADE",
+      "alt": "FASSADE HOCHKANT",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
+    },
+    {
+      "type": "image",
+      "alt": "DESSERT",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410005/_DSF2502-Bearbeitet_kq1tzd.jpg"
     }
   ],
   "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
