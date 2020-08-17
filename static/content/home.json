@@ -2,14 +2,14 @@
   "title": "holmes place 2",
   "sections": [
     {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4",
-      "label": "blumen"
-    },
-    {
       "type": "image",
       "alt": "KUPFER MIRROR",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4",
+      "label": "blumen"
     },
     {
       "type": "image",
@@ -25,6 +25,11 @@
       "type": "image",
       "alt": "ein Bild unseres Fassade zur Sommerzeit. Gründerzeit mit pinker Wandfarbe und dunkelblauen Fensterrahmen.",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597411791/RR-FASSADE_hzqfw5.jpg"
+    },
+    {
+      "type": "image",
+      "alt": "(Describe the image for the visually impaired!)",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
     }
   ],
   "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
