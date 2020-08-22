@@ -1,25 +1,27 @@
 ## OUR CURRENT MENU
 <br/>
-RED SHRIMP WITH BABA GANOUSH<br/>
-Celeriac Emulsion and Ayran<br/>
-<br/>
-<br/>
-ATLANTIC- RED MULLET & ALMOND PICADA<br/>
-Fennel and Harissa<br/>
-<br/>
-<br/>
-LEMON CHICKEN WITH SHAKSHUKA<br/>
-Red Rice<br/>
-Raz el Hanout<br/>
-<br/>
-<br/>
-KENEFFA AND MARINATED BERRIES<br/>
-Raspberry sorbet<br/>
-<br/>
-<br/>
-68 EURO<br/>
-<br/>
- <br/>
+MARINATED ATLANTIC MULLETS WITH PANZANELLA <br>
+FOND OF YELLOW OXHEART TOMATOES <br>
+<br>
+<br>
+MUSSEL CASSOULET WITH FRESH CANNELINI BEANS <br>
+BOUILLON DE PORC<br>
+<br>
+<br>
+MONKFISH AND LACQUERED EGGPLANT <br>
+SAUCE BOUILLABAISE <br>
+<br>
+<br>
+BRAISED PEACH AND ROSEMARY ICE CREAM <br>
+<br>
+<br>
+74 €
+<br>
+<br>
+ADDITIONAL GEAR <br>
+<br>
+ROASTED PULPO WITH HERB EMULSION <br>
+PAPRIKA AND CHARD <br>
 <br/>
  <br/>
 <br/>
