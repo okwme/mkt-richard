@@ -44,6 +44,7 @@ import { isMobile } from './assets/helpers'
 import enableInlineVideo from 'iphone-inline-video'
 
 const doc = require('../static/content/home.json')
+const isPortrait = () => window.innerWidth <= window.innerHeight * 1.2
 
 // loaded in index.html via <script>
 // require('./assets/fullpage.parallax.min.js')
@@ -53,7 +54,7 @@ export default {
     return {
       doc: doc,
       isMobile: isMobile(),
-      isPortrait: window.innerWidth <= window.innerHeight * 1.2,
+      isPortrait: isPortrait(),
       lang: 'de',
       showNav: false,
       options: {
@@ -91,6 +92,8 @@ export default {
     }
     /* enable inline video on ios */
     document.querySelectorAll('.fp-video').forEach(v => enableInlineVideo(v))
+    // set portrait on orientation change
+    window.addEventListener('resize', () => { this.isPortrait = isPortrait() })
   },
   methods: {
     goToNews () {
