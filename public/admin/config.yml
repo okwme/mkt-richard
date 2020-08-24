@@ -31,7 +31,7 @@ collections:
             name: 'landing_img_link'
             widget: string
             required: false
-          # - {label: Landing Image Alt, name: landing_img_alt, widget: string, default: "(Describe the image for the visually impaired!)", required: false }
+          - {label: Landing Image Alt, name: landing_img_alt, widget: string, hint: "Describe the image for the visually impaired!", required: false }
           - label: 'Sections'
             name: 'sections'
             widget: list
@@ -47,7 +47,13 @@ collections:
                     media_library: 
                       config: 
                         multiple: false
-                  - {label: Description, name: alt, widget: string, default: (Describe the image for the visually impaired!) }
+                  - label: Mobile Image
+                    name: image_mobile
+                    widget: image
+                    media_library: 
+                      config: 
+                        multiple: false
+                  - {label: Description, name: alt, widget: string, hint: Describe the image for the visually impaired! }
               - label: 'Video'
                 name: 'video'
                 widget: object

@@ -16,7 +16,7 @@
         </template>
         <!-- (image bg) -->
         <template v-else-if="section.type === 'image'">
-          <div role="img" class="fp-bg" :style="`background-image:url(${section.image})`" :aria-label="section.alt"></div>
+          <div role="img" class="fp-bg" :style="`background-image:url(${isPortrait ? section.image_mobile : section.image})`" :aria-label="section.alt"></div>
         </template>
         <!-- (landing image) -->
         <template v-if="i === 0 && doc.landing_img">
@@ -53,6 +53,7 @@ export default {
     return {
       doc: doc,
       isMobile: isMobile(),
+      isPortrait: window.innerWidth <= window.innerHeight * 1.2,
       lang: 'de',
       showNav: false,
       options: {
