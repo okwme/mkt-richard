@@ -22,7 +22,7 @@ Rosemary Icecream<br/>
 4 courses 74€<br/>
 <br/>
 <br/>
-ADDITIONAL COURSE<br/>
+## ADDITIONAL COURSE<br/>
 <br/>
 ROASTED PULPO<br/>
 Herb Emulsion<br/>
