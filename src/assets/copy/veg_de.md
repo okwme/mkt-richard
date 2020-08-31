@@ -1,32 +1,33 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-GEBEIZTE ATLANTIK MEERÄSCHE<br>
-MIT PANZANELLA<br>
-FOND VON GELBEN OCHSENHERZTOMATEN<br>
+PANZANELLA<br>
+Fond von gelben Ochsenherztomaten<br>
+Seagrapes<br>
 <br>
 <br>
-MIESMUSCHEL-CASSOULET <br>
-MIT FRISCHEN CANNELINIBOHNEN<br>
-BOUILLON DE PORC <br>
+CASSOULET <br>
+Frische Borlottibohnen <br>
+geräucherter Tofu<br>
 <br>
 <br>
-SEETEUFEL<br>
-UND LACKIERTE AUBERGINE <br>
-SAUCE BOUILLABAISE<br>
+LACKIERTE AUBERGINE <br>
+Algensalat  <br>
+Anisschaum<br>
 <br>
 <br>
-GESCHMORTER PFIRSICH UND ROSMARINEIS<br>
+GESCHMORTER PFIRSICH <br>
+Rosmarineis<br>
 <br>
-
-74 €
+4 Gänge 66 €
 <br>
 <br>
-ZUSÄTZLICHER GANG<br>
 <br>
-GERÖSTETER PULPO MIT KRÄUTEREMULSION<br>
+ZUSÄTZLICHER GANG<br>
+<br>
 SPITZPAPRIKA UND MANGOLD<br>
+Kräuteremulsion mit Spirulina<br>
+14€ 
 <br>
-18€
 <br/>
 <br>
 *Wir akzeptieren EC, MAESTRO, VISA & Bargeld<br>
