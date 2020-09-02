@@ -19,7 +19,7 @@ BRAISED PEACH<br/>
 Rosemary Icecream<br/>
 <br/>
 <br/>
-4 courses 74€<br/>
+4 courses 78€<br/>
 <br/>
 <br/>
 ## ADDITIONAL COURSE<br/>
