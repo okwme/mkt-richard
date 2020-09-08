@@ -1,34 +1,37 @@
 ## OUR CURRENT MENU
 <br/>
-MARINATED ATLANTIC MULLETS<br/>
-Panzanella<br/>
-Fond of yellow Oxheart-Tomatoes<br/>
+DRY AGED BEEF TATAKI <br/>
+Pumpkin and Cucumber<br/>
+Pistachio Bagnacauda<br/>
 <br/>
-<br/>
-MUSSEL CASSOULET<br/>
-Fresh Borlotti Beans<br/>
-Bouillion de Porc<br/>
-<br/>
-<br/>
-HALIBUTT<br/>
-lacquered Eggplant<br/>
-Sauce Bouillabaisse<br/>
-<br/>
-<br/>
-BRAISED PEACH<br/>
-Rosemary Icecream<br/>
-<br/>
-<br/>
-4 courses 78€<br/>
-<br/>
-<br/>
-## ADDITIONAL COURSE<br/>
-<br/>
-ROASTED PULPO<br/>
-Herb Emulsion<br/>
-Pointed Pepper and Chard<br/>
-18€
-<br/>
+ <br/>
+GLAZED HEART-SWEETBREAD <br/>
+Green Peas <br/>
+Buttermilk <br/>
+ <br/>
+  <br/>
+FRIED LOUP DE MER <br/>
+Boletus <br/>
+Baconjus <br/>
+ <br/>
+ <br/>
+PEAR VARIATION <br/>
+Pine Nut Ice Cream <br/>
+Yogurt <br/>
+ <br/>
+ <br/>
+4 courses 74 Euros <br/>
+ <br/>
+  <br/>
+ <br/>
+Additional course <br/>
+ <br/>
+CASSOULET <br/>
+OF FRESH BORLOTTI BEANS <br/>
+Amber Mackerel-Bottarga <br/>
+Mushroom-Bouillon <br/>
+ <br/>
+16 Euros <br/>
  <br/>
 <br/>
 Dear guests, please allow us to spontanteously change the menus.<br/>
