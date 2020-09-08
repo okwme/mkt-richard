@@ -1,31 +1,39 @@
 ## UNSER AKTUELLES MENU  
 <br>
-GEBEIZTE ATLANTIK MEERÄSCHE<br>
-MIT PANZANELLA<br>
-FOND VON GELBEN OCHSENHERZTOMATEN<br>
+DRY AGED RINDER TATAKI<br>
+Kürbis und Gurke<br>
+Pistazien-Bagnacauda<br>
+<br>
+ <br>
+GLASIERTES HERZ-KALBSBRIES<br>
+Grüne Erbsen <br>
+Buttermilch<br>
+<br>
+ <br>
+GEBRATENER LOUP DE MER<br>
+Steinpilze<br>
+Speckjus<br>
 <br>
 <br>
-MIESMUSCHEL-CASSOULET <br>
-MIT FRISCHEN BORLOTTIBOHNEN<br>
-BOUILLON DE PORC <br>
+BIRNENVARIATION<br>
+Pinienkern-Eis<br>
+Joghurt<br>
 <br>
 <br>
-HEILBUTT<br>
-UND LACKIERTE AUBERGINE <br>
-SAUCE BOUILLABAISSE<br>
+4 Gänge 74 Euro<br>
 <br>
+ <br>
 <br>
-GESCHMORTER PFIRSICH UND ROSMARINEIS<br>
+ZUSATZGANG<br>
 <br>
-78€
+CASSOULET <br>
+VON FRISCHEN BORLOTTI-BOHNEN<br>
+Bottarga von der Bernsteinmakrele<br>
+Pilzbouillon<br>
 <br>
-<br>
-ZUSÄTZLICHER GANG<br>
-<br>
-GERÖSTETER PULPO MIT KRÄUTEREMULSION<br>
-SPITZPAPRIKA UND MANGOLD<br>
-<br>
-18€
+16 Euro<br>
+
+
 <br/>
 <br/>
 <br>
