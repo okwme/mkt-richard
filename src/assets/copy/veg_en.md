@@ -1,33 +1,37 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
-PANZANELLA<br/>
-Fond of yellow Oxheart-Tomatoes<br/>
-Seagrapes<br/>
+BUTTERNUT PUMPKIN TATAKI<br/>
+Cucumber andSsea Buckthorn<br/>
+Black Garlic<br/>
+<br/>
+ <br/>
+GLAZED ARTICHOKE<br/>
+Green Peas<br/>
+Buttermilk<br/>
+<br/>
+ <br/>
+FRIED PORCINO MUSHROOMS<br/>
+Potato Gnocchi and Swiss Chard<br/>
+Mushroom jus<br/>
+<br/>
+ <br/>
+PEAR VARIATION<br/>
+Pine Nut Ice Cream<br/>
+Yogurt<br/>
 <br/>
 <br/>
-CASSOULET<br/>
-Fresh Borlotti Beans<br/>
-Smoked Tofu<br/>
+4 courses 66 euros<br/>
 <br/>
-<br/>
-LACQUERED EGGPLANT<br/>
-Seaweed Salad<br/>
-Anise Foam<br/>
-<br/>
-<br/>
-BRAISED PEACH<br/>
-Rosemary Icecream<br/>
-<br/>
-<br/>
-4 courses 66€<br/>
-<br/>
+ <br/>
 <br/>
 ADDITIONAL COURSE<br/>
 <br/>
-POINTED PEPPER AND CHARD<br/>
-Herb Emulsion<br/>
-Spirulina<br/>
-14€
+CASSOULET<br/>
+OF FRESH BORLOTTI BEANS<br/>
+Dehydrated Carrot<br/>
+Mushroom-Bouillon<br/>
+<br/>
+14 euros<br/>
  <br/>
 <br/>
 Dear guests, please allow us to spontanteously change the menus.<br/>
