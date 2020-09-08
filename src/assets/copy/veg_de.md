@@ -1,32 +1,37 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-PANZANELLA<br>
-Fond von gelben Ochsenherztomaten<br>
-Seagrapes<br>
+BUTTERNUT-KÜRBIS TATAKI<br>
+Gurke und Sanddorn<br>
+Schwarzer Knoblauch<br>
 <br>
+ <br>
+GLASIERTE ARTISCHOCKE<br>
+Grüne Erbsen <br>
+Buttermilch<br>
+<br>
+ <br>
+GEBRATENE STEINPILZE<br>
+Kartoffelgnocchi und Mangold <br>
+Pilzjus<br>
+<br>
+ <br>
+BIRNENVARIATION<br>
+Pinienkern-Eis<br>
+Joghurt<br>
+<br>
+<br>
+4 Gänge 66 Euro<br>
+<br>
+ <br>
+<br>
+ZUSATZGANG<br>
 <br>
 CASSOULET <br>
-Frische Borlottibohnen <br>
-geräucherter Tofu<br>
+VON FRISCHEN BORLOTTI-BOHNEN <br>
+Dehydrierte Karotte <br>
+Pilzbouillon<br>
 <br>
-<br>
-LACKIERTE AUBERGINE <br>
-Algensalat  <br>
-Anisschaum<br>
-<br>
-<br>
-GESCHMORTER PFIRSICH <br>
-Rosmarineis<br>
-<br>
-4 Gänge 66 €
-<br>
-<br>
-<br>
-ZUSÄTZLICHER GANG<br>
-<br>
-SPITZPAPRIKA UND MANGOLD<br>
-Kräuteremulsion mit Spirulina<br>
-14€ 
+14 Euro<br>
 <br>
 <br/>
 <br>
