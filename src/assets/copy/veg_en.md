@@ -10,7 +10,7 @@ Green Peas<br/>
 Buttermilk<br/>
 <br/>
  <br/>
-FRIED PORCINO MUSHROOMS<br/>
+FRIED CHANTERELLES<br/>
 Potato Gnocchi and Swiss Chard<br/>
 Mushroom jus<br/>
 <br/>
