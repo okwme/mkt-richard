@@ -10,7 +10,7 @@ Grüne Erbsen <br>
 Buttermilch<br>
 <br>
  <br>
-GEBRATENE STEINPILZE<br>
+GEBRATENE PFIFFERLINGEe<br>
 Kartoffelgnocchi und Mangold <br>
 Pilzjus<br>
 <br>
