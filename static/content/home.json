@@ -3,6 +3,12 @@
   "sections": [
     {
       "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410030/RR_ORIENTAL_DELIGHTS_afcekt.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
+      "alt": "Oriental Delight / Tripple"
+    },
+    {
+      "type": "image",
       "alt": "KUPFER ",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/KOLJA_ylz1t0.jpg"
@@ -43,12 +49,36 @@
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290158/MANGOLDhoch_afdnim.jpg"
     },
     {
-      "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410030/RR_ORIENTAL_DELIGHTS_afcekt.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
-      "alt": "Oriental Delight / Tripple"
+      "type": "video",
+      "label": "PAUL",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/RR_KITCHEN_PAULE-IG_jrv1va.mov"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409837/RR_LAMPS_IG_jqwsdh.mov",
+      "label": "LAMPEN"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409788/RR_eggplant-IG_kgykyx.mov",
+      "label": "AUBERGINE"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409833/RR_STICKERS_IG_yfrysa.mov",
+      "label": "ALINE & Stern"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409838/RR_FISH_LOOP_IG_s40fwj.mov",
+      "label": "FISCHTELLER"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409828/RR_DOOR_IG_p0qykq.mov",
+      "label": "TÜRÖFFNER"
     }
   ],
-  "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
+  "landing_img": "",
   "landing_img_alt": "Event graphic"
 }
