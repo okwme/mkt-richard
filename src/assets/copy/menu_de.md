@@ -11,7 +11,7 @@ Buttermilch<br>
 <br>
  <br>
 GEBRATENER LOUP DE MER<br>
-Steinpilze<br>
+Pfifferlinge<br>
 Speckjus<br>
 <br>
 <br>
