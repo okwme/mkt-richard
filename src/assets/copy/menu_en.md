@@ -11,7 +11,7 @@ Buttermilk <br/>
  <br/>
   <br/>
 FRIED LOUP DE MER <br/>
-Boletus <br/>
+CHANTERELLES <br/>
 Baconjus <br/>
  <br/>
  <br/>
