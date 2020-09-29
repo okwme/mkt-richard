@@ -3,8 +3,15 @@
   "sections": [
     {
       "type": "image",
-      "alt": "KUPFER MIRROR",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg"
+      "alt": "KUPFER ",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/KOLJA_ylz1t0.jpg"
+    },
+    {
+      "type": "image",
+      "alt": "GIOCO / Tripple",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg"
     },
     {
       "type": "video",
@@ -13,28 +20,33 @@
     },
     {
       "type": "image",
-      "alt": "GIOCO",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg"
-    },
-    {
-      "type": "image",
       "alt": "BOLK MIRROR",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg"
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290152/BOLKhoch_ybjybl.jpg"
     },
     {
       "type": "image",
-      "alt": "STAFF bw",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410008/75_Wx1_Richard_c_LenaGanssmann-DSC_9661_gksfdq.jpg"
+      "alt": "STAFF / HANS",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410008/75_Wx1_Richard_c_LenaGanssmann-DSC_9661_gksfdq.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/HANShoch_whxi1b.jpg"
     },
     {
       "type": "image",
       "alt": "FASSADE HOCHKANT",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
     },
     {
       "type": "image",
-      "alt": "DESSERT",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410005/_DSF2502-Bearbeitet_kq1tzd.jpg"
+      "alt": "Mangold Makrele",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290177/MANGOLD_tqkh4h.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290158/MANGOLDhoch_afdnim.jpg"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410030/RR_ORIENTAL_DELIGHTS_afcekt.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
+      "alt": "Oriental Delight / Tripple"
     }
   ],
   "landing_img": "https://res.cloudinary.com/evv/image/upload/v1597244114/hfm3w1jslxt2bgiqovn5.png",
