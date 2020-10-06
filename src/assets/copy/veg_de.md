@@ -1,37 +1,41 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-BUTTERNUT-KÜRBIS TATAKI<br>
-Gurke und Sanddorn<br>
-Schwarzer Knoblauch<br>
-<br>
- <br>
-GLASIERTE ARTISCHOCKE<br>
-Grüne Erbsen <br>
-Buttermilch<br>
-<br>
- <br>
-GEBRATENE PFIFFERLINGEe<br>
-Kartoffelgnocchi und Mangold <br>
-Pilzjus<br>
-<br>
- <br>
-BIRNENVARIATION<br>
-Pinienkern-Eis<br>
-Joghurt<br>
+ROTE BEETE AUS DEM OFEN<br>
+Burata mit eingelegtem Fenchel<br>
+Harissa—Crème fraîche Condiment<br>
 <br>
 <br>
-4 Gänge 66 Euro<br>
+GELACKTER SELLERIE<br>
+Süßholz-Gemüsejus<br>
+Beurre noisette<br>
 <br>
- <br>
 <br>
-ZUSATZGANG<br>
+GESCHMORTE GELBE & ROTE PAPRIKA<br>
+knusprige Taggiasca Oliven<br>
+Jus de Tomates<br>
 <br>
-CASSOULET <br>
-VON FRISCHEN BORLOTTI-BOHNEN <br>
-Dehydrierte Karotte <br>
-Pilzbouillon<br>
 <br>
-14 Euro<br>
+CANNELLINI BOHNEN<br>
+Gebratener wilder Brokkoli<br>
+Miso Beur re blanc<br>
+<br>
+<br>
+KÜRBIS AUS DEM OFEN<br>
+THYMIANEMULSION<br>
+Baba Ganoush und Feigen<br>
+<br>
+<br>
+KÄSEVARIATION<br>
+<br>
+<br>
+MIRABELLEN UND MARONEN<br>
+Tarte au Fromage blanc<br>
+Haselnusseis<br>
+<br>
+<br>
+<br>
+4 GÄNGE 72€ / 5 GÄNGE 86€<br>
+6 GÄNGE 100€ / 7 GÄNGE 112€<br>
 <br>
 <br/>
 <br>
