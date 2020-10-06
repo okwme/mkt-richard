@@ -7,7 +7,7 @@ Harissa-Crème Fraîche Condiment<br/>
 <br/>
 LACQUERED CELERY<br/>
 Liquorice vegetable jus<br/>
-Beur re noisette<br/>
+Beurre noisette<br/>
 <br/>
 <br/>
 ROASTED CALAMAR<br/>
