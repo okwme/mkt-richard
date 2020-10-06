@@ -38,9 +38,21 @@
     },
     {
       "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLE_lmlmag.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLEhoch_fvriyo.jpg",
+      "alt": "SELLERIE JACINT"
+    },
+    {
+      "type": "image",
       "alt": "FASSADE HOCHKANT",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290145/BERNADETTE_kxpinq.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601291164/BERNADETTEhoch_vyfiol.jpg",
+      "alt": "Bernadette"
     },
     {
       "type": "image",
@@ -54,6 +66,12 @@
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/RR_KITCHEN_PAULE-IG_jrv1va.mov"
     },
     {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290155/FRAN_et8gvp.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290154/FRANhoch_i1fl0q.jpg",
+      "alt": "FRAN"
+    },
+    {
       "type": "video",
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409837/RR_LAMPS_IG_jqwsdh.mov",
       "label": "LAMPEN"
@@ -64,9 +82,21 @@
       "label": "AUBERGINE"
     },
     {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/TRU%CC%88FFEL19_fuvden.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290170/TRU%CC%88FFEL19hoch_yxe8c4.jpg",
+      "alt": "TRÜFFEL 2019"
+    },
+    {
       "type": "video",
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409833/RR_STICKERS_IG_yfrysa.mov",
       "label": "ALINE & Stern"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SILVESTER19_bk8foc.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601291158/SILVESTER19hoch_vmlvk2.jpg",
+      "alt": "SILVESTER 19"
     },
     {
       "type": "video",
@@ -74,9 +104,21 @@
       "label": "FISCHTELLER"
     },
     {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SILVESTER18_mzqtnc.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/SYLIVESTER18_y4xza8.jpg",
+      "alt": "SILVESTER 2018"
+    },
+    {
       "type": "video",
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409828/RR_DOOR_IG_p0qykq.mov",
       "label": "TÜRÖFFNER"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290145/CAULY_sqlagm.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290148/CAULYhoch_fqwmku.jpg",
+      "alt": "Cauly"
     }
   ],
   "landing_img": "",
