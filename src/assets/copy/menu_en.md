@@ -1,37 +1,40 @@
 ## OUR CURRENT MENU
 <br/>
-DRY AGED BEEF TATAKI <br/>
-Pumpkin and Cucumber<br/>
-Pistachio Bagnacauda<br/>
+BEET FROM THE OVEN<br/>
+Pickled fennel with anchovy<br/>
+Harissa-Crème Fraîche Condiment<br/>
 <br/>
- <br/>
-GLAZED HEART-SWEETBREAD <br/>
-Green Peas <br/>
-Buttermilk <br/>
- <br/>
-  <br/>
-FRIED LOUP DE MER <br/>
-CHANTERELLES <br/>
-Baconjus <br/>
- <br/>
- <br/>
-PEAR VARIATION <br/>
-Pine Nut Ice Cream <br/>
-Yogurt <br/>
- <br/>
- <br/>
-4 courses 74 Euros <br/>
- <br/>
-  <br/>
- <br/>
-Additional course <br/>
- <br/>
-CASSOULET <br/>
-OF FRESH BORLOTTI BEANS <br/>
-Amber Mackerel-Bottarga <br/>
-Mushroom-Bouillon <br/>
- <br/>
-16 Euros <br/>
+<br/>
+LACQUERED CELERY<br/>
+Liquorice vegetable jus<br/>
+Beur re noisette<br/>
+<br/>
+<br/>
+ROASTED CALAMAR<br/>
+Peppers and black olives<br/>
+<br/>
+<br/>
+ATLANTIC LOUP DE MER<br/>
+WITH MUSSEL<br/>
+Cannellini beans<br/>
+Miso Beur re blanc<br/>
+<br/>
+<br/>
+STREELITZER SADDLE OF VENISON<br/>
+Baba Ganoush and figs<br/>
+<br/>
+<br/>
+CHEESE VARIATION<br/>
+<br/>
+<br/>
+MIRABELLES AND CHESTNUTS<br/>
+Tarte au Fromage blanc<br/>
+hazelnut ice cream<br/>
+<br/>
+<br/>
+<br/>
+4 courses 72€ / 5 courses 86€<br/>
+6 courses 100€ / 7 courses 118€<br/>
  <br/>
 <br/>
 Dear guests, please allow us to spontanteously change the menus.<br/>
