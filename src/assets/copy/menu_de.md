@@ -17,7 +17,7 @@ Paprika und schwarze Oliven<br/>
 ATLANTISCHER LOUP DE MER<br/>
 MIT MIESMUSCHEL<br/>
 Cannellini Bohnen<br/>
-Miso Beur re blanc<br/>
+Miso Beurre blanc<br/>
 <br/>
 <br/>
 STREELITZER HIRSCHRÜCKEN<br/>
@@ -28,7 +28,7 @@ KÄSEVARIATION<br/>
 <br/>
 <br/>
 MIRABELLEN UND MARONEN<br/>
-Tar te au Fromage blanc<br/>
+Tarte au Fromage blanc<br/>
 Haselnusseis<br/>
 <br/>
 <br/>
