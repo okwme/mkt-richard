@@ -1,40 +1,40 @@
 ## UNSER AKTUELLES MENU  
 <br>
-DRY AGED RINDER TATAKI<br>
-Kürbis und Gurke<br>
-Pistazien-Bagnacauda<br>
-<br>
- <br>
-GLASIERTES HERZ-KALBSBRIES<br>
-Grüne Erbsen <br>
-Buttermilch<br>
-<br>
- <br>
-GEBRATENER LOUP DE MER<br>
-Pfifferlinge<br>
-Speckjus<br>
-<br>
-<br>
-BIRNENVARIATION<br>
-Pinienkern-Eis<br>
-Joghurt<br>
-<br>
-<br>
-4 Gänge 74 Euro<br>
-<br>
- <br>
-<br>
-ZUSATZGANG<br>
-<br>
-CASSOULET <br>
-VON FRISCHEN BORLOTTI-BOHNEN<br>
-Bottarga von der Bernsteinmakrele<br>
-Pilzbouillon<br>
-<br>
-16 Euro<br>
-
-
+ROTE BEETE AUS DEM OFEN<br/>
+Eingelegter Fenchel mit Sardelle<br/>
+Harissa—Crème Fraîche Condiment<br/>
 <br/>
+<br/>
+GELACKTER SELLERIE<br/>
+Süßholz-Gemüsejus<br/>
+Beurre noisette<br/>
+<br/>
+<br/>
+GEBRATENER KALAMAR<br/>
+Paprika und schwarze Oliven<br/>
+<br/>
+<br/>
+ATLANTISCHER LOUP DE MER<br/>
+MIT MIESMUSCHEL<br/>
+Cannellini Bohnen<br/>
+Miso Beur re blanc<br/>
+<br/>
+<br/>
+STREELITZER HIRSCHRÜCKEN<br/>
+Baba Ganoush und Feigen<br/>
+<br/>
+<br/>
+KÄSEVARIATION<br/>
+<br/>
+<br/>
+MIRABELLEN UND MARONEN<br/>
+Tar te au Fromage blanc<br/>
+Haselnusseis<br/>
+<br/>
+<br/>
+<br/>
+4 Gänge 72€ / 5 Gänge 86€<br/>
+6 Gänge 100€ / 7 Gänge 118€<br/>
 <br/>
 <br>
 *Wir akzeptieren EC, MAESTRO, VISA & Bargeld.<br>
