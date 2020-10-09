@@ -20,6 +20,12 @@
     },
     {
       "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602235699/RR_WEBSITE-LANDSCAPE_CARDINALS_xqzjmp.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602235737/RR_WEBSITE-PORTRAIT_CARDINALS_uu5qqn.jpg",
+      "alt": "CARDINALS"
+    },
+    {
+      "type": "image",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601366920/RR_RR_SOMMERPROGRAMM4_si32e7.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
       "alt": "Oriental Delight / Tripple"
@@ -37,12 +43,6 @@
     },
     {
       "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290145/BERNADETTE_kxpinq.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601291164/BERNADETTEhoch_vyfiol.jpg",
-      "alt": "Bernadette"
-    },
-    {
-      "type": "image",
       "alt": "Mangold Makrele",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290177/MANGOLD_tqkh4h.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290158/MANGOLDhoch_afdnim.jpg"
@@ -55,19 +55,14 @@
     },
     {
       "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409788/RR_eggplant-IG_kgykyx.mov",
-      "label": "AUBERGINE"
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1602155050/richard_celery_e0nnvw.mov",
+      "label": "SELLERIE CUT KINGA"
     },
     {
       "type": "image",
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/TRU%CC%88FFEL19_fuvden.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290170/TRU%CC%88FFEL19hoch_yxe8c4.jpg",
       "alt": "TRÜFFEL 2019"
-    },
-    {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409833/RR_STICKERS_IG_yfrysa.mov",
-      "label": "ALINE & Stern"
     },
     {
       "type": "image",
@@ -85,6 +80,23 @@
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SILVESTER18_mzqtnc.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/SYLIVESTER18_y4xza8.jpg",
       "alt": "SILVESTER 2018"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409788/RR_eggplant-IG_kgykyx.mov",
+      "label": "AUBERGINE"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155056/53_Wx1_Richard_c_LenaGanssmann-DSC_9458_jf3llp.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155062/50_Wx1_Richard_c_LenaGanssmann-DSC_9455_vl8hmf.jpg",
+      "alt": "LOUP DE MER ARTICHOCKE"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155063/_DSF2502-Bearbeitet_l5fqud.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155066/_DSF2493-Bearbeitet_hgxboi.jpg",
+      "alt": "DESSERT SCHAGERL"
     },
     {
       "type": "video",
