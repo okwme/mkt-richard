@@ -3,7 +3,24 @@
   "sections": [
     {
       "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410030/RR_ORIENTAL_DELIGHTS_afcekt.jpg",
+      "alt": "BOLK ",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290152/BOLKhoch_ybjybl.jpg"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLE_lmlmag.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLEhoch_fvriyo.jpg",
+      "alt": "SELLERIE JACINT"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409832/RR_KUPFER_IG_kqyekn.mov",
+      "label": "KUPFER HAJJI & MKT"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601366920/RR_RR_SOMMERPROGRAMM4_si32e7.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
       "alt": "Oriental Delight / Tripple"
     },
@@ -14,44 +31,9 @@
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/KOLJA_ylz1t0.jpg"
     },
     {
-      "type": "image",
-      "alt": "GIOCO / Tripple",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410028/RR_ORIENTAL_DELIGHT_yaodig.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290144/TUTTIFRUTTI_mc0taa.jpg"
-    },
-    {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/vc_h264/v1597409813/richard_blumen-IG_lxzodk.mp4",
-      "label": "blumen"
-    },
-    {
-      "type": "image",
-      "alt": "BOLK ",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290152/BOLKhoch_ybjybl.jpg"
-    },
-    {
-      "type": "image",
-      "alt": "STAFF / HANS",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410008/75_Wx1_Richard_c_LenaGanssmann-DSC_9661_gksfdq.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/HANShoch_whxi1b.jpg"
-    },
-    {
-      "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLE_lmlmag.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLEhoch_fvriyo.jpg",
-      "alt": "SELLERIE JACINT"
-    },
-    {
       "type": "video",
       "label": "PAUL",
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/RR_KITCHEN_PAULE-IG_jrv1va.mov"
-    },
-    {
-      "type": "image",
-      "alt": "FASSADE HOCHKANT",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597673463/FASSADE_web_w0gph3.jpg"
     },
     {
       "type": "image",
@@ -70,17 +52,6 @@
       "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290161/SCHWEIZER_ggjmxs.jpg",
       "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290163/schweizerHOCH_ilspgw.jpg",
       "alt": "Schweizer Abende 2020"
-    },
-    {
-      "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290155/FRAN_et8gvp.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290154/FRANhoch_i1fl0q.jpg",
-      "alt": "FRAN"
-    },
-    {
-      "type": "video",
-      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409837/RR_LAMPS_IG_jqwsdh.mov",
-      "label": "LAMPEN"
     },
     {
       "type": "video",
@@ -119,12 +90,6 @@
       "type": "video",
       "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409828/RR_DOOR_IG_p0qykq.mov",
       "label": "TÜRÖFFNER"
-    },
-    {
-      "type": "image",
-      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290145/CAULY_sqlagm.jpg",
-      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290148/CAULYhoch_fqwmku.jpg",
-      "alt": "Cauly"
     }
   ],
   "landing_img": "",
