@@ -3,44 +3,13 @@
 <br>
 <br>
 Liebe Gäste,<br>
-Das Richard beginnt das Sommer-Programm<br>
-in 4 Akten. In diesen Wochen widmen wir<br>
-das Restaurant den folgenden Themen:<br>
 <br>
+wir freuen uns schon sehr, Euch bald wieder zu sehen.<br>
+Bis dahin wünschen wir einen schönen Advent.<br>
 <br>
-<br>
-Gioco in Casa <br>
-<br>
-7.—18. Juli 2020<br>
-<br>
-Unser Küchenchef Francesco Contiero<br>
-zelebriert und interpretiert die köstliche Vielfalt der norditalienische Küche, seiner Heimat.<br>
-<br>
-<br>
-<br>
-Tutti Frutti<br>
-<br>
-21. Juli—8. August 2020 <br>
-<br>
-Wir lassen uns wieder von der sommerlichen Ernte unserer Gemüsegärtner hinreissen und kochen köstlich-natürliche und bekömmliche Gerichte: <br>
-Gemüse mit Gemüse!<br>
-<br>
-<br>
-<br>
-Oriental Delights<br>
-<br>
-11.—22. August 2020<br>
-<br>
-An diesen heissen Sommerabenden geben wir uns ganz der intensiven Küche des Orients und ihren raffinierten Genüssen hin.<br>
-<br>
-<br>
-<br>
-Mehr ist Meer<br>
-<br>
-25. August—5. September<br>
-<br>
-Die Früchte des Meeres sind der Star dieses Menus, in dem frang-frisch und spontan gekocht wird,<br>
-in klassischer RICHARD-Manier.<br>
+Herzlichst!<br>
+Das ganze Richard-Team
+
 <br>
 <br>
 <br>
