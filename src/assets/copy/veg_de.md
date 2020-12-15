@@ -1,41 +1,26 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
-ROTE BEETE AUS DEM OFEN<br>
-Burata mit eingelegtem Fenchel<br>
-Harissa—Crème fraîche Condiment<br>
+Das vegetarische<br>
+Silvestermenü für zu Hause<br>
 <br>
 <br>
-GELACKTER SELLERIE<br>
-Süßholz-Gemüsejus<br>
-Beurre noisette<br>
+Carpaccio von gelber Beete<br>
+Buttermilch-Estragon Emulsion & knusprigen Taggiasca Oliven<br>
 <br>
 <br>
-GESCHMORTE GELBE & ROTE PAPRIKA<br>
-knusprige Taggiasca Oliven<br>
-Jus de Tomates<br>
+Tagliatelle mit Perigord Trüffel<br>
+Trüffel Butter <br>
 <br>
 <br>
-CANNELLINI BOHNEN<br>
-Gebratener wilder Brokkoli<br>
-Miso Beur re blanc<br>
+Geschmortes Ragout von Topinambur<br>
+mit Artischocke à la Barigoule<br>
+Aprikosencondiment<br>
+<br>
+ <br>
+Winterliche Tarte Tatin<br>
 <br>
 <br>
-KÜRBIS AUS DEM OFEN<br>
-THYMIANEMULSION<br>
-Baba Ganoush und Feigen<br>
-<br>
-<br>
-KÄSEVARIATION<br>
-<br>
-<br>
-MIRABELLEN UND MARONEN<br>
-Tarte au Fromage blanc<br>
-Haselnusseis<br>
-<br>
-<br>
-<br>
-4 GÄNGE 72€ / 5 GÄNGE 86€<br>
-6 GÄNGE 100€ / 7 GÄNGE 112€<br>
+60€ 
 <br>
 <br/>
 <br>
