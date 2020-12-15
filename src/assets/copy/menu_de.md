@@ -1,42 +1,39 @@
 ## UNSER AKTUELLES MENU  
 <br>
-ROTE BEETE AUS DEM OFEN<br/>
-Eingelegter Fenchel mit Sardelle<br/>
-Harissa—Crème Fraîche Condiment<br/>
-<br/>
-<br/>
-GELACKTER SELLERIE<br/>
-Süßholz-Gemüsejus<br/>
-Beurre noisette<br/>
-<br/>
-<br/>
-GEBRATENER KALAMAR<br/>
-Paprika und schwarze Oliven<br/>
-<br/>
-<br/>
-ATLANTISCHER LOUP DE MER<br/>
-MIT MIESMUSCHEL<br/>
-Cannellini Bohnen<br/>
-Miso Beurre blanc<br/>
-<br/>
-<br/>
-STREELITZER HIRSCHRÜCKEN<br/>
-Baba Ganoush und Feigen<br/>
-<br/>
-<br/>
-KÄSEVARIATION<br/>
-<br/>
-<br/>
-MIRABELLEN UND MARONEN<br/>
-Tarte au Fromage blanc<br/>
-Haselnusseis<br/>
-<br/>
-<br/>
-<br/>
-4 Gänge 72€ / 5 Gänge 86€<br/>
-6 Gänge 100€ / 7 Gänge 118€<br/>
-<br/>
 <br>
+Liebe Gäste,<br>
+<br>
+<br>
+wir bereiten Ihnen ein festliches 4 Gänge-Menü vor.
+Sie können es leicht zu Hause fertigstellen. 
+<br>
+<br>
+Das klassische<br>
+Silvestermenu für zu Hause<br>
+<br>
+<br>
+Gebeizter Loup mit Carpaccio von gelber Beete<br>
+Buttermilch-Estragon Emulsion & knusprigen Taggiasca Oliven<br>
+<br>
+<br>
+Tagliatelle mit Perigord Trüffel<br>
+Trüffel Butter <br>
+<br>
+<br>
+Geschmorte Kalbsschulter<br>
+mit Artischocke à la Barigoule<br>
+Aprikosencondiment<br>
+<br>
+<br>
+Winterliche Tarte Tatin<br>
+<br>
+<br>
+64€ <br>
+<br>
+<br>
+<br>
+
+
 *Wir akzeptieren EC, MAESTRO, VISA & Bargeld.<br>
 Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.<br>
 Bei Allergien wenden sie sich gerne auch schon vorab an unsere Service-Mitarbeiter.<br>
