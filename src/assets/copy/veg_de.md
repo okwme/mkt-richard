@@ -23,6 +23,26 @@ Winterliche Tarte Tatin<br>
 60€ 
 <br>
 <br/>
+
+Wir empfehlen auch gerne passende Weine zum Menü! <br>
+Erhältlich in halben wie auch in ganzen Flaschen.  <br>
+ <br>
+  <br>
+ <br>
+ Die Menu-Pakete können Sie am 30.12.2020 von 15—18 Uhr & am 31.12.2020 von 12—15 Uhr bei uns im Richard, Köpenickerstrasse 174 abholen. <br>
+ <br>
+  <br>
+Gerne nehmen wir  Ihre Bestellung per Mail mail@restaurant-richard.de bis spätestens Montag, den 28.12.2020 um 14:00 Uhr entgegen.
+ <br>
+  <br>
+Wir freuen uns,  Sie auf diesem Wege zu beglücken! <br>
+ <br>
+  <br>
+Ihr Richard-Team
+
+<br>
+<br>
+<br>
 <br>
 *Wir akzeptieren EC, MAESTRO, VISA & Bargeld<br>
 Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.<br>
