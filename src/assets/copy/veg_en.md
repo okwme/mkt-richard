@@ -1,46 +1,51 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
-BEET FROM THE OVEN<br/>
-Burata with pickled fennel<br/>
-Harissa-Crème fraîche Condiment<br/>
+<br>
+Das vegetarische<br>
+Silvestermenü für zu Hause<br>
+<br>
+<br>
+Carpaccio von gelber Beete<br>
+Buttermilch-Estragon Emulsion & knusprigen Taggiasca Oliven<br>
+<br>
+<br>
+Tagliatelle mit Perigord Trüffel<br>
+Trüffel Butter <br>
+<br>
+<br>
+Geschmortes Ragout von Topinambur<br>
+mit Artischocke à la Barigoule<br>
+Aprikosencondiment<br>
+<br>
+ <br>
+Winterliche Tarte Tatin<br>
+<br>
+<br>
+60€ 
+<br>
 <br/>
-<br/>
-LACQUERED CELERY<br/>
-Liquorice vegetable jus<br/>
-Beurre noisette<br/>
-<br/>
-<br/>
-BRAISED YELLOW & RED PEPPERS<br/>
-crunchy Taggiasca olives<br/>
-Jus de Tomatoes<br/>
-<br/>
-<br/>
-CANNELLINI BEANS<br/>
-Fried wild broccoli<br/>
-Miso Beurre blanc<br/>
-<br/>
-<br/>
-PUMPKIN FROM THE OVEN<br/>
-THYME EMULSION<br/>
-Baba Ganoush and figs<br/>
-<br/>
-<br/>
-CHEESE VARIATION<br/>
-<br/>
-<br/>
-MIRABELLES AND CHESTNUTS<br/>
-Tarte au Fromage blanc<br/>
-hazelnut ice cream<br/>
-<br/>
-<br/>
-4 courses 72€ / 5 courses 86€<br/>
-6 courses 100€ / 7 courses 112€<br/>
-<br/>
-<br/>
-Dear guests, please allow us to spontanteously change the menus.<br/>
-<br/>
- <br/>
-<br/>
-WE ACCEPT EC, MAESTRO, VISA & Cash.<br/>
-All prices are in Euro and include legal VAT.<br/>
-In case of allergies please contact our service staff.<br/>
+
+Wir empfehlen auch gerne passende Weine zum Menü! <br>
+Erhältlich in halben wie auch in ganzen Flaschen.  <br>
+ <br>
+  <br>
+ <br>
+ Die Menu-Pakete können Sie am 30.12.2020 von 15—18 Uhr & am 31.12.2020 von 12—15 Uhr bei uns im Richard, Köpenickerstrasse 174 abholen. <br>
+ <br>
+  <br>
+Gerne nehmen wir  Ihre Bestellung per Mail mail@restaurant-richard.de bis spätestens Montag, den 28.12.2020 um 14:00 Uhr entgegen.
+ <br>
+  <br>
+Wir freuen uns,  Sie auf diesem Wege zu beglücken! <br>
+ <br>
+  <br>
+Ihr Richard-Team
+
+<br>
+<br>
+<br>
+<br>
+*Wir akzeptieren EC, MAESTRO, VISA & Bargeld<br>
+Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.<br>
+Bei Allergien wenden sie sich gerne auch schon vorab an unsere Service-Mitarbeiter.<br>
+
