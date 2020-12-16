@@ -1,6 +1,10 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
 <br>
+Liebe Gäste,<br>
+<br> 
+wir bereiten Ihnen ein festliches 4 Gänge-Menü vor. Sie können es leicht zu Hause fertigstellen. <br>
+<br>
 Das vegetarische<br>
 Silvestermenü für zu Hause<br>
 <br>
