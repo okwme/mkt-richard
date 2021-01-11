@@ -2,8 +2,7 @@
  
 <br>
 <br>
-<br>
-<br>
+
 Liebe Gäste,<br>
 <br>
 Am kommenden Freitag, den 15. Januar 2021<br>
