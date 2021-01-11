@@ -4,7 +4,7 @@
 <br>
 Liebe Gäste,<br>
 <br>
-Am kommenden Freitag, den 15. Januar 2021<br>
+Am kommenden Samstag, den 16. Januar 2021<br>
 bieten wir einen Hauptgang zum Mitnehmen an.<br>
 <br>
 <br>
