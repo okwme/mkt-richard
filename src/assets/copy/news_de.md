@@ -6,7 +6,7 @@ Liebe Gäste,<br>
 <br>
 Am kommenden Samstag,<br>
 den 23. Januar 2021<br>
-bieten wir ein wärmend italienisches Menu<br>
+bieten wir ein wärmendes italienisches Menu<br>
 in 3 Gängen zum Mitnehmen an.<br>
 <br>
 <br>
@@ -20,7 +20,7 @@ Neustrelitzer Hirsch-Ragout Bolognese Art <br>
 <br>
 <br>
 NORDITALIENISCHE PATISSERIE<br>
-Finanziere — flüffiges Mandelgebäck <br>
+Finanziere — fluffiges Mandelgebäck <br>
 Brutti ma buoni — doppelt gebackener Baiser mit Haselnüssen <br>
 Baci di dama — Nusskeks mit dunkler Schokoladen-Ganache<br>
 <br>
