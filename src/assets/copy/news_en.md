@@ -3,43 +3,44 @@
 <br>
 <br>
 
+<br>
+<br>
 Liebe Gäste,<br>
 <br>
-Am kommenden Samstag, den 16. Januar 2021<br>
-bieten wir einen Hauptgang zum Mitnehmen an.<br>
+Am kommenden Samstag,<br>
+den 23. Januar 2021<br>
+bieten wir ein wärmend italienisches Menu<br>
+in 3 Gängen zum Mitnehmen an.<br>
 <br>
 <br>
-Lou de Mer an der Gräte<br>
-mit Safran mariniert<br>
-Bouillabaissefond und Fenchel<br>
-Orientalischer Reis mit Linsen<br>
-und gerösteten Zwiebeln <br>
-<br>
-Pro Person 38 Euro<br>
+SALAT VON GEBACKENER SPITZPAPRIKA<br>
+Cantabrico Anchovis, Taggiasca Oliven und Kapern <br>
 <br>
 <br>
-Dazu empfehlen wir <br>
-<br>
-Chardonnay Réserve du fils 2018,<br>
-Weingut Bernhard Koch/Pfalz<br>
-<br>
-Nachhaltig, fein und langlebig.<br>
-Mit zurückhaltender Frucht und Würze<br>
-sowie leicht reduktiven Noten weiß dieser Wein zu punkten.<br>
-Dazu überzeugt der Chardonnay Réserve du Fils mit seinem balancierten Gaumenauftritt und seiner straffen Säure<br>
-<br>
-29 Euro die Flasche<br>
+HANDGESCHNITTENE PAPPARDELLE<br>
+„33 Eigelbe“<br>
+Neustrelitzer Hirsch-Ragout Bolognese Art <br>
 <br>
 <br>
+NORDITALIENISCHE PATISSERIE<br>
+Finanziere — flüffiges Mandelgebäck <br>
+Brutti ma buoni — doppelt gebackener Baiser mit Haselnüssen <br>
+Baci di dama — Nusskeks mit dunkler Schokoladen-Ganache<br>
+<br>
+ <br>
+Menu 45€ <br>
 
-
-
+<br>
+<br>
+<br>
 
 Bestellung per Mail<br>
-bis Donnerstag, 14. Januar,  16 Uhr<br>
+bis Donnerstag, 21. Januar, 16 Uhr<br>
 <br>
+Sie können Ihr Paket am Samstag,<br>
+den 23. Januar zwischen 12 —15 Uhr abholen.<br>
 <br>
-Sie werden den üppigen Hauptgang in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 16.1.2021 verarbeitet werden müssen und nicht lagerfähig sind.<br>
+Sie werden das Menu in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 24.1.2021 verarbeitet werden sollten und nicht lagerfähig sind.<br>
 <br>
 Nach ihrer Bestellung erhalten Sie eine Bestätigung von<br>
 mail@restaurant-richard.de<br>
@@ -51,7 +52,8 @@ Herzliche Grüße,<br>
 das Richard<br>
 <br>
 
-
+<br>
+<br>
 
 <br>
 <br>
