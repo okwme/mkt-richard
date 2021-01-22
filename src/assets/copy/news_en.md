@@ -5,51 +5,55 @@
 
 <br>
 <br>
+<br>
+<br>
 Liebe Gäste,<br>
 <br>
-Am kommenden Samstag,<br>
-den 23. Januar 2021<br>
-bieten wir ein wärmendes italienisches Menu<br>
-in 3 Gängen zum Mitnehmen an.<br>
+für Samstag, den 30. Januar 2021 bereiten wir einen Hauptgang und ein Dessert für Sie zum Mitnehmen vor.<br>
 <br>
 <br>
-SALAT VON GEBACKENER SPITZPAPRIKA<br>
-Cantabrico Anchovis, Taggiasca Oliven und Kapern <br>
+LAMM TAJINE<br>
+Gemüse im eigenen Fond <br>
+Dill, Minze, Petersilie a Part<br>
+Bulgur mit Nüssen, Trockenfrüchten und Zitrone <br>
+<br>
+ODER DIE VEGETARISCHE TAJINE<br>
 <br>
 <br>
-HANDGESCHNITTENE PAPPARDELLE<br>
-„33 Eigelbe“<br>
-Neustrelitzer Hirsch-Ragout Bolognese Art <br>
+RICHARD'S BAKLAVA <br>
+Pistazie, Himbeere und Salbei <br>
+ <br>
 <br>
 <br>
-NORDITALIENISCHE PATISSERIE<br>
-Finanziere — fluffiges Mandelgebäck <br>
-Brutti ma buoni — doppelt gebackener Baiser mit Haselnüssen <br>
-Baci di dama — Nusskeks mit dunkler Schokoladen-Ganache<br>
+Zwei Gänge<br>
+mit Lamm<br>
+38€ <br>
 <br>
- <br>
-Menu 45€ <br>
-
+Zwei Gänge<br>
+vegetarisch <br>
+32€<br>
 <br>
+ <br>
 <br>
 <br>
 
 Bestellung per Mail<br>
-bis Donnerstag, 21. Januar, 16 Uhr<br>
+bis Donnerstag, 28. Januar, 16 Uhr<br>
 <br>
 Sie können Ihr Paket am Samstag,<br>
-den 23. Januar zwischen 12 —15 Uhr abholen.<br>
+den 30. Januar zwischen 12 —15 Uhr abholen.<br>
 <br>
-Sie werden das Menu in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 24.1.2021 verarbeitet werden sollten und nicht lagerfähig sind.<br>
+Sie werden das kleine Menu in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 31.1.2021 verarbeitet werden sollten und nicht lagerfähig sind.<br>
 <br>
 Nach ihrer Bestellung erhalten Sie eine Bestätigung von<br>
 mail@restaurant-richard.de<br>
+ <br>
 <br>
-<br>
-
 Herzliche Grüße,<br>
 <br>
 das Richard<br>
+<br>
+<br>
 <br>
 
 <br>
