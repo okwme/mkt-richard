@@ -1,49 +1,47 @@
 ## NEWS
  
-
 <br>
 <br>
 <br>
-Liebe Gäste,<br>
+Zu Valentistag bieten wir an eine liebevolle Valentinsbox. Gefüllt mit verschiedenen Köstlichkeiten die euch den ganzen Valentinstag versüßen sollen.
 <br>
-für den kommenden Samstag, am 6. Februar bereiten wir ein winterliches Menu in 3 Gängen vor.<br>
+Unsere Empfehlungen zum Frühstück, zum Lunch oder zum Dinner.<br>
 <br>
-<br>
-VEGETARISCHER BORSCHTSCH <br>
-Crème fraîche & Dill<br>
-<br>
-<br>
-CONFIERTER SKREI<br>
-Gegrillter Lauch & Radicchio di Castelfranco<br>
-Radicchio Tardivo Salat <br>
-Pistazien beurre blanc <br>
-<br>
-oder<br>
-<br>
-TOPINAMBUR & SELLERIE PASTILLA<br>
-Gegrillter Lauch & Radicchio di Castelfranco<br>
-Radicchio Tardivo Salat <br>
-Pistazien beurre blanc <br>
+I<br>
+2x Briochette von Soluna Brot & Öl<br>
+Frischkaese Urstromkäserei <br>
+Feigenorangen Marmelade<br>
 <br>
 <br>
-ZITRUSFRÜCHTE<br>
-Biskuit & Olivenöl<br>
+II<br>
+Verschiedene rohe und gegarte Gemüse <br>
+Dazu 3 verschiedene Saucen:<br>
+Bagnacauda, Knoblauch, Anchovis & Olivenöl Sauce<br>
+Chermola, Koriander, Petersilie, Olivenöl & Zitrone Sauce<br>
+Romesco Sauce, rote Paprika & Mandeln<br>
 <br>
 <br>
-Menu<br>
-mit Skrei 54€<br>
-vegetarisch 48€<br>
+III<br>
+Pizzateig zum Selberbacken<br>
+Tomatensoße <br>
+Mozzarella di bufala<br>
+Provolone<br>
+Kapern und schwarze Oliven Paste<br>
+<br>
+<br>
+Pro Person 54 € pro Person. <br>
+Wer möchte kann die Speisen mit etwas Brot und die Pizza je nach Geschmack aufpeppen.<br>
  <br>
 <br>
 <br>
 
 Bestellung per Mail<br>
-bis Donnerstag, 4. Februar, 16 Uhr<br>
+bis Donnerstag, 11. Februar, 16 Uhr<br>
 <br>
 Sie können Ihr Paket am Samstag,<br>
-den 6. Februar zwischen 12—15 Uhr abholen.<br>
+den 13. Februar zwischen 12—15 Uhr abholen.<br>
 <br>
-Sie werden das kleine Menu in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 7.2.2021 verarbeitet werden sollten und nicht lagerfähig sind.<br>
+Sie werden das kleine Menu in einfachen (in einer Anleitung beschriebenen) Handgriffen fertig stellen können. Wir möchten aber darauf hinweisen, dass die Produkte bis zum 14.2.2021 verarbeitet werden sollten und nicht lagerfähig sind.<br>
 <br>
 Nach ihrer Bestellung erhalten Sie eine Bestätigung von
 mail@restaurant-richard.de<br>
