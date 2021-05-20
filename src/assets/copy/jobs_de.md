@@ -1,21 +1,38 @@
 ## JOBS
 
-Für unser Team suchen wir zur Zeit:  
 <br>
-Service  
-**Chef de Rang (m/w)**  
-**Aushilfen / Runner (m/w)**  
-**Auszubildende Restaurantfachfrau/mann ab sofort!** 
-<br>
-Küche  
-**Sous Chef (m/w)**  
-**Chef de Partie (m/w)**   
+Für unser Team suchen wir ab Mitte Juni oder nach Vereinbarung: <br>
 <br>
 <br>
-Teamfähigkeit, Erfahrung und gute Deutsch-Kenntnisse sind für uns sehr wichtig.  
+SERVICE<br>
+RESTAURANTLEITUNG (m/w/d) <br>
+DU<br>
+… verfügst über ein hohes Maß an Qualitätsbewusstsein und hast einen Blick für Details.
+… arbeitest gerne in einem super-freundlichen Team und freust dich auf lebendige Servicezeiten.
+...bist verantwortungsbewusst, zuverlässig und liebst den täglichen Umgang mit unseren zahlreichen Stammgästen, neuen Gästen und Kollegen.
 <br>
-Ist die von Ihnen gesuchte Position nicht vakant? Zögern Sie nicht, uns zu kontaktieren.  
-Vielleicht könnte Ihre Person und Ihr Profil mittel- oder längerfristig in unser Team passen.
+<br>
+RUNNER (m/w/d)<br>
+DU<br>
+… hast schon erste Erfahrungen im Service.
+… bist freundlich und hast Freude in einem super Team zu arbeiten. 
+… liebst den Umgang mit unseren Gästen
 <br>
 <br>
-Bitte senden Sie Ihre Bewerbung an <u>[bewerbung@restaurant-richard.de](mailto:bewerbung@restaurant-richard.de)</u>
+<br>
+KÜCHE<br>
+<br>
+KÜCHENLEITUNG (m/w/d) & SOUSCHEF (m/w/d)<br>
+DU<br>
+… bringst viel Erfahrung in der gehobenen Gastronomie mit.
+… verfügst über ein hohes Maß an Qualitätsbewusstsein und hast einen Blick für Details.
+… arbeitest gerne in einem super-freundlichen Team und freust dich auf lebendige Servicezeiten.
+… zeigst gerne Einsatzbereitschaft, Flexibilität, Geradlinigkeit, Teamgeist und Loyalität.
+<br>
+<br>
+<br>
+<br>
+Wir freuen uns auf deine Bewerbung an <u>[bewerbung@restaurant-richard.de](mailto:bewerbung@restaurant-richard.de)</u>
+Ist die von dir gesuchte Position nicht vakant? Zöger nicht uns zu kontaktieren. Vielleicht passt dein Profil mittel- oder langfristig in unser Team.
+<br>
+<br> 
