@@ -4,27 +4,25 @@
 Für unser Team suchen wir ab Mitte Juni oder nach Vereinbarung: <br>
 <br>
 <br>
-SERVICE<br>
+     SERVICE<br>
+<br>   
 RESTAURANTLEITUNG (m/w/d) <br>
-DU<br>
-… verfügst über ein hohes Maß an Qualitätsbewusstsein und hast einen Blick für Details.
+DU … verfügst über ein hohes Maß an Qualitätsbewusstsein und hast einen Blick für Details.
 … arbeitest gerne in einem super-freundlichen Team und freust dich auf lebendige Servicezeiten.
 ...bist verantwortungsbewusst, zuverlässig und liebst den täglichen Umgang mit unseren zahlreichen Stammgästen, neuen Gästen und Kollegen.
 <br>
 <br>
 RUNNER (m/w/d)<br>
-DU<br>
-… hast schon erste Erfahrungen im Service.
+DU … hast schon erste Erfahrungen im Service.
 … bist freundlich und hast Freude in einem super Team zu arbeiten. 
 … liebst den Umgang mit unseren Gästen
 <br>
 <br>
 <br>
-KÜCHE<br>
+     KÜCHE<br>
 <br>
 KÜCHENLEITUNG (m/w/d) & SOUSCHEF (m/w/d)<br>
-DU<br>
-… bringst viel Erfahrung in der gehobenen Gastronomie mit.
+DU … bringst viel Erfahrung in der gehobenen Gastronomie mit.
 … verfügst über ein hohes Maß an Qualitätsbewusstsein und hast einen Blick für Details.
 … arbeitest gerne in einem super-freundlichen Team und freust dich auf lebendige Servicezeiten.
 … zeigst gerne Einsatzbereitschaft, Flexibilität, Geradlinigkeit, Teamgeist und Loyalität.
