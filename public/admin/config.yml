@@ -1,0 +1,94 @@
+backend:
+  name: git-gateway
+  branch: netlify-cms # Branch to update (optional; defaults to master)
+
+# media_folder: "static/uploads" # where files are saved
+# public_folder: "/static/uploads" # public url from dist
+
+# publish_mode: editorial_workflow
+
+media_library:
+  name: cloudinary
+  config: 
+    #cloud_name: evv
+    #api_key: 858462229676913
+    cloud_name: restaurantrichard
+    api_key: 853527768489353
+
+collections:
+  - label: "Main"
+    name: "main"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "static/content/home.json"
+        fields: 
+          - label: 'Landing Image'
+            name: 'landing_img'
+            widget: image
+            required: false
+          - label: 'Landing Image Link'
+            name: 'landing_img_link'
+            widget: string
+            required: false
+          - {label: Landing Image Alt, name: landing_img_alt, widget: string, hint: "Describe the image for the visually impaired!", required: false }
+          - label: 'Sections'
+            name: 'sections'
+            widget: list
+            types:
+              - label: 'Image'
+                name: 'image'
+                widget: object
+                summary: "image: {{fields.alt}}"
+                fields: 
+                  - label: Image
+                    name: image
+                    widget: image
+                    media_library: 
+                      config: 
+                        multiple: false
+                  - label: Mobile Image
+                    name: image_mobile
+                    widget: image
+                    media_library: 
+                      config: 
+                        multiple: false
+                  - {label: Description, name: alt, widget: string, hint: Describe the image for the visually impaired! }
+              - label: 'Video'
+                name: 'video'
+                widget: object
+                summary: "video: {{fields.label}}"
+                fields:
+                  - {label: "Label", name: 'label', widget: string}
+                  - label: Video
+                    name: video_lnd
+                    widget: file
+                    hint: 'Videos should be .mp4 format, H.264 codec, 720p'
+                    media_library:
+                      config:
+                        multiple: false
+      - label: "Menu"
+        name: 'menu'
+        file: "static/content/menu.json"
+        fields: 
+          - label: 'Groups'
+            name: 'groups'
+            widget: list
+            fields: 
+              - label: 'Links'
+                name: 'links'
+                widget: list
+                fields: 
+                  - {label: 'Page', name: 'page', widget: relation, collection: menu-pages, searchFields: ["title"], valueField: "{{slug}}"}
+                  - {label: 'Label (DE)', name: 'label_de', widget: 'string'}
+                  - {label: 'Label (EN)', name: 'label_en', widget: 'string'}
+                  
+  - label: "Pages"
+    name: 'menu-pages'
+    folder: 'static/content/menu-pages'
+    format: 'json'
+    create: true
+    fields: 
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: "Body (DE)", name: "body_de", widget: "markdown"}     
+      - {label: "Body (EN)", name: "body_en", widget: "markdown"}

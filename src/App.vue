@@ -3,25 +3,27 @@
     <home :class="{showNav:showNav}" @closeNav="closeNav" :lang="lang" />
     <div id="nextButton" @click="$refs.fullpage.api.moveSectionDown()"></div>
     <full-page ref="fullpage" :options="options" id="fullpage">
+      <!-- page sections -->
       <div class="section"
-      v-for="(content,i) in contents"
+      v-for="(section, i) in doc.sections"
       :key="i"
       :id="'section' + i"
-      :class="{mirror:content.name === 'richard_orange.mov' || content.name === '_DSF2502-Bearbeitet.jpg', 'video-el' : content.type=== 'video'}"
+      :class="{'video-el' : section.type=== 'video'}"
       >
-        <video
-        :autoplay="isMobile"
-        playsinline
-        preload="metadata"
-         v-if="content.type === 'video'" loop muted class="fp-video fp-bg" :poster="content.poster">
-          <source
-          v-for="(src,i) in content.src"
-          :key="i"
-          :id="'source'+i"
-          :src="content.path + src.file" type="video/mp4" :media="src.media"/>
-        </video>
-        <div v-else class="fp-bg" :style="'background-image:url(' + content.path + content.name + ')'"></div>
-        <div v-if="i === 0 && landingImage" @click="goToNews" class="landingImage"  v-html="landingImage"/>
+        <!-- (video bg) -->
+        <template v-if="section.type === 'video'">
+          <video class="fp-video fp-bg" :src="section.video_lnd" autoplay muted loop playsinline></video>
+        </template>
+        <!-- (image bg) -->
+        <template v-else-if="section.type === 'image'">
+          <div role="img" class="fp-bg" :style="`background-image:url(${isPortrait ? section.image_mobile : section.image})`" :aria-label="section.alt"></div>
+        </template>
+        <!-- (landing image) -->
+        <template v-if="i === 0 && doc.landing_img">
+          <a class="landingImage" @click="goToNews" :href="doc.landing_img_link" :target="doc.landing_img_link ? '_blank' : ''" rel="noopener">
+            <img :src="doc.landing_img" :alt="doc.landing_img_alt">
+          </a>
+        </template>
       </div>
     </full-page>
     <div :class="{showNav:showNav, floatLogo: true}"><a href="/"><img src="/static/img/logo_big.png"></a></div>
@@ -41,164 +43,22 @@ import Home from '@/components/Home'
 import { isMobile } from './assets/helpers'
 import enableInlineVideo from 'iphone-inline-video'
 
-let contents = [
-  {
-    type: 'video',
-    poster: '/static/images/richard_paul.jpg',
-    src: [
-      {
-        file: 'Richard_Paul 9rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Paul 9rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Paul 9rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Paul 9rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: 'richard_lamps_image.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_door.jpg',
-    src: [
-      {
-        file: 'Richard_Door 4rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Door 4rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Door 4rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Door 4rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: '54_Wx1_Richard_c_LenaGanssmann-DSC_9460.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'image',
-    name: '75_Wx1_Richard_c_LenaGanssmann-DSC_9661.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_celery.jpg',
-    src: [
-      {
-        file: 'Richard_Celery 3rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Celery 3rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Celery 3rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Celery 3rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: 'RICHARD-Interior.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_eggplant.jpg',
-    src: [
-      {
-        file: 'Richard_Eggplant 1rf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_Eggplant 1rf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'video',
-    poster: '/static/images/richard_orange.jpg',
-    src: [
-      {
-        file: 'richard_orangerf23.00.mp4',
-        media: 'all and (max-device-width: 375px)'
-      },
-      {
-        file: 'Richard_orangerf22.00.mp4',
-        media: 'all and (max-device-width: 768px)'
-      },
-      {
-        file: 'Richard_orangerf21.00.mp4',
-        media: 'all and (max-device-width: 1024px)'
-      },
-      {
-        file: 'Richard_orangerf20.00.mp4',
-        media: 'all and (max-device-width: 1025px)'
-      }
-    ],
-    path: '/static/videos/compressed/'
-  },
-  {
-    type: 'image',
-    name: '_DSF2502-Bearbeitet.jpg',
-    path: '/static/images/'
-  },
-  {
-    type: 'image',
-    name: 'RR-WEBSITE-BolkBG.jpg',
-    path: '/static/images/'
-  }
-]
-require('./assets/fullpage.parallax.min.js')
+const doc = require('../static/content/home.json')
+const isPortrait = () => window.innerWidth <= window.innerHeight * 1.2
+
+// loaded in index.html via <script>
+// require('./assets/fullpage.parallax.min.js')
 export default {
   name: 'App',
   data () {
     return {
+      doc: doc,
       isMobile: isMobile(),
+      isPortrait: isPortrait(),
       lang: 'de',
       showNav: false,
-      contents,
       options: {
-        scrollBar: true,
+        // scrollBar: true, // causes scroll jitter (Chrome), but now there's a gap on loop :(
         loopBottom: true,
         touchSensitivity: 1,
         css3: true,
@@ -232,6 +92,8 @@ export default {
     }
     /* enable inline video on ios */
     document.querySelectorAll('.fp-video').forEach(v => enableInlineVideo(v))
+    // set portrait on orientation change
+    window.addEventListener('resize', () => { this.isPortrait = isPortrait() })
   },
   methods: {
     goToNews () {
@@ -404,16 +266,20 @@ strong {
   cursor: pointer;
 }
 .landingImage {
-  // text-align: center;
+  display:block;
+  position: absolute;
+  z-index:10;
+  top:10vh;
+  left:20px;
+  width: calc(100% - 20px);
+  height: calc(100% - 30vh);
   cursor: pointer;
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
   img {
-    padding: 10vh 0px;
-    max-height: 100vh;
-    max-width: 100vw;
+    position:absolute;
+    top:0; left:0;
+    width:100%; height: 100%;
+    object-fit: contain;
+    object-position: center;
   }
 }
 .floatLogo {

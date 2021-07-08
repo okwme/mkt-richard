@@ -1,0 +1,70 @@
+{
+  "groups": [
+    {
+      "links": [
+        {
+          "page": "menu",
+          "label_en": "Menu",
+          "label_de": "Menu"
+        },
+        {
+          "page": "vegetarian-menu-de",
+          "label_de": "Vegetarisches Menu",
+          "label_en": "Vegetarian Menu"
+        },
+        {
+          "page": "wein",
+          "label_de": "Weinkarte",
+          "label_en": "Wine"
+        }
+      ]
+    },
+    {
+      "links": [
+        {
+          "page": "news",
+          "label_de": "News",
+          "label_en": "News"
+        },
+        {
+          "page": "öffnungszeiten",
+          "label_de": "Öffnungszeiten",
+          "label_en": "Opening Hours"
+        },
+        {
+          "page": "contact",
+          "label_de": "Kontakt & Reservierung",
+          "label_en": "Contact & Reservations"
+        }
+      ]
+    },
+    {
+      "links": [
+        {
+          "page": "presse",
+          "label_de": "Presse",
+          "label_en": "Press"
+        },
+        {
+          "page": "jobs",
+          "label_de": "Jobs",
+          "label_en": "Jobs"
+        }
+      ]
+    },
+    {
+      "links": [
+        {
+          "page": "impressum",
+          "label_de": "Impressum",
+          "label_en": "Impress"
+        },
+        {
+          "page": "datenschutz",
+          "label_de": "Datenschutz",
+          "label_en": "Legal Terms"
+        }
+      ]
+    }
+  ]
+}

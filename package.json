@@ -8,10 +8,11 @@
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
-    "build": "node build/build.js && cp _redirects dist"
+    "build": "node build/build.js && cp -R public/* dist"
   },
   "dependencies": {
     "iphone-inline-video": "^2.2.2",
+    "markdown-it": "^11.0.0",
     "sanitize.css": "^7.0.3",
     "vue": "^2.5.2",
     "vue-fullpage.js": "^0.0.5",

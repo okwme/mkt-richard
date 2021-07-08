@@ -1,0 +1,109 @@
+{
+  "title": "holmes place 2",
+  "sections": [
+    {
+      "type": "image",
+      "alt": "BOLK ",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410093/BOLKmkt_nqirw9.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290152/BOLKhoch_ybjybl.jpg"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLE_lmlmag.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SELLEhoch_fvriyo.jpg",
+      "alt": "SELLERIE JACINT"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409832/RR_KUPFER_IG_kqyekn.mov",
+      "label": "KUPFER HAJJI & MKT"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602235699/RR_WEBSITE-LANDSCAPE_CARDINALS_xqzjmp.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602235737/RR_WEBSITE-PORTRAIT_CARDINALS_uu5qqn.jpg",
+      "alt": "CARDINALS"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601366920/RR_RR_SOMMERPROGRAMM4_si32e7.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290172/SUMMER2020hoch_nop26z.jpg",
+      "alt": "Oriental Delight / Tripple"
+    },
+    {
+      "type": "image",
+      "alt": "KUPFER ",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1597410615/RR-kupfer-spiegel_cr5sii.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290156/KOLJA_ylz1t0.jpg"
+    },
+    {
+      "type": "video",
+      "label": "PAUL",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409813/RR_KITCHEN_PAULE-IG_jrv1va.mov"
+    },
+    {
+      "type": "image",
+      "alt": "Mangold Makrele",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290177/MANGOLD_tqkh4h.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290158/MANGOLDhoch_afdnim.jpg"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290161/SCHWEIZER_ggjmxs.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290163/schweizerHOCH_ilspgw.jpg",
+      "alt": "Schweizer Abende 2020"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1602155050/richard_celery_e0nnvw.mov",
+      "label": "SELLERIE CUT KINGA"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/TRU%CC%88FFEL19_fuvden.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290170/TRU%CC%88FFEL19hoch_yxe8c4.jpg",
+      "alt": "TRÜFFEL 2019"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SILVESTER19_bk8foc.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601291158/SILVESTER19hoch_vmlvk2.jpg",
+      "alt": "SILVESTER 19"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409838/RR_FISH_LOOP_IG_s40fwj.mov",
+      "label": "FISCHTELLER"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290167/SILVESTER18_mzqtnc.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1601290169/SYLIVESTER18_y4xza8.jpg",
+      "alt": "SILVESTER 2018"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409788/RR_eggplant-IG_kgykyx.mov",
+      "label": "AUBERGINE"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155056/53_Wx1_Richard_c_LenaGanssmann-DSC_9458_jf3llp.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155062/50_Wx1_Richard_c_LenaGanssmann-DSC_9455_vl8hmf.jpg",
+      "alt": "LOUP DE MER ARTICHOCKE"
+    },
+    {
+      "type": "image",
+      "image": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155063/_DSF2502-Bearbeitet_l5fqud.jpg",
+      "image_mobile": "https://res.cloudinary.com/restaurantrichard/image/upload/v1602155066/_DSF2493-Bearbeitet_hgxboi.jpg",
+      "alt": "DESSERT SCHAGERL"
+    },
+    {
+      "type": "video",
+      "video_lnd": "https://res.cloudinary.com/restaurantrichard/video/upload/v1597409828/RR_DOOR_IG_p0qykq.mov",
+      "label": "TÜRÖFFNER"
+    }
+  ],
+  "landing_img": "",
+  "landing_img_alt": "Event graphic"
+}
