@@ -9,17 +9,17 @@ Vongole and Bouchot mussels
  <br>
 <br>
 TARTAR OF POMERANIAN BEEF<br>
-Tomato gelée and warm saffron oil 
+Tomato gelée and warm saffron oil  <br>
 <br>
 BROOK TROUT<br>
 with peas & tarragon<br>
-smoked butter
+smoked butter <br>
  <br>
 <br>
 SHOULDER OF EIFEL LAMB<br>
 with dates & cashews<br>
 red chicory<br>
-onion & beetroot
+onion & beetroot <br>
 <br>
 <br>
 MILLEFEUILLE<br>
