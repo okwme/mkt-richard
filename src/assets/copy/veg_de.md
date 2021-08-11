@@ -3,10 +3,8 @@
 <br>
 Liebe Gäste,<br>
 <br>
-Auf Grund der Pandemie und den damit einhergehenden Restriktionen ist unser Restaurant geschlossen.
-Bitte folgen Sie uns auf Instagram oder Facebook 
-oder melden Sie sich für unseren Newsletter an, um auf dem Laufenden zu bleiben.
-Dort informieren wir über verschiedene Aktionen wie Take-Outs.
+leider könne wir derzeit kein vegetarisches Menu anbieten — sobald uns dies wieder möglich ist informieren wir Sie hier, über unseren Newsletter oder auf Instagram & Facebook.
+Vielen Dank für Ihr Verständnis.
 
 <br>
 <br>
