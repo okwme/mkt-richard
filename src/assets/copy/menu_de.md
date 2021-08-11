@@ -1,10 +1,33 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-Auf Grund der Pandemie und den damit einhergehenden Restriktionen ist unser Restaurant geschlossen.
-Bitte folgen Sie uns auf Instagram oder Facebook 
-oder melden Sie sich für unseren Newsletter an, um auf dem Laufenden zu bleiben.
-Dort informieren wir über verschiedene Aktionen wie Take-Outs.
+TOMATENTARTE „Passard“     
+ <br>
+<br>
+CANNELLINIBOHNEN <br>
+Vongole und Bouchot Muschel
+ <br>
+<br>
+TATAR VOM POMMERSCHEN RIND<br>
+Tomatengelée und warmes Safranöl 
+<br>
+BACHFORELLE<br>
+mit Erbsen & Estragon<br>
+geräucherte Butter
+ <br>
+SCHULTER VOM EIFLER LAMM<br>
+mit Datteln & Cashews<br>
+roter Chicchoré<br>
+Zwiebel & rote Beete
+<br>
+<br>
+MILLEFEUILLE<br>
+mit Werder Kirschen<br>
+Pistazie
+<br>
+<br>
+Menu komplett 98€ — ohne Forelle 86€
+
 
 
 <br>
