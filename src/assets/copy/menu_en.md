@@ -2,11 +2,11 @@
 <br>
 <br>
 TOMATE TARTE "Passard     
- <br>
+<br>
 <br>
 CANNELLINI BEANS <br>
 Vongole and Bouchot mussels
- <br>
+<br>
 <br>
 TARTAR OF POMERANIAN BEEF<br>
 Tomato gelée and warm saffron oil<br>
@@ -15,7 +15,7 @@ Tomato gelée and warm saffron oil<br>
 BROOK TROUT<br>
 with peas & tarragon<br>
 smoked butter <br>
- <br>
+<br>
 <br>
 SHOULDER OF EIFEL LAMB<br>
 with dates & cashews<br>
