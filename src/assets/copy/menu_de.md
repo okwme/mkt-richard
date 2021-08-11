@@ -9,11 +9,11 @@ Vongole und Bouchot Muschel
  <br>
 <br>
 TATAR VOM POMMERSCHEN RIND<br>
-Tomatengelée und warmes Safranöl 
+Tomatengelée und warmes Safranöl <br>
 <br>
 BACHFORELLE<br>
 mit Erbsen & Estragon<br>
-geräucherte Butter
+geräucherte Butter<br>
  <br>
 SCHULTER VOM EIFLER LAMM<br>
 mit Datteln & Cashews<br>
