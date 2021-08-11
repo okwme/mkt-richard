@@ -9,7 +9,8 @@ Vongole and Bouchot mussels
  <br>
 <br>
 TARTAR OF POMERANIAN BEEF<br>
-Tomato gelée and warm saffron oil  <br>
+Tomato gelée and warm saffron oil<br>
+<br>
 <br>
 BROOK TROUT<br>
 with peas & tarragon<br>
