@@ -1,13 +1,33 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-Liebe Gäste,<br>
+TOMATE TARDS "Passard     
+ <br>
+<br>
+CANNELLINI BEANS <br>
+Vongole and Bouchot mussels
+ <br>
+<br>
+TARTAR OF POMERANIAN BEEF<br>
+Tomato gelée and warm saffron oil 
+<br>
+BROOK TROUT<br>
+with peas & tarragon<br>
+smoked butter
+ <br>
+<br>
+SHOULDER OF EIFEL LAMB<br>
+with dates & cashews<br>
+red chicory<br>
+onion & beetroot
 <br>
 <br>
-Due to the pandemic and the restrictions that come with it, our restaurant is closed.
-Please follow us on Instagram or Facebook 
-or sign up for our newsletter to stay up to date.
-There we will inform you about different promotions like take-outs.
+MILLEFEUILLE<br>
+with Werder cherries<br>
+pistachio
+<br>
+<br>
+Menu complete 98€ - without Brook Trout 86€
 
 <br>
 <br>
