@@ -3,10 +3,9 @@
 <br>
 Dear guests,<br>
 <br> 
-Due to the pandemic and the restrictions that come with it, our restaurant is closed.
-Please follow us on Instagram or Facebook 
-or sign up for our newsletter to stay up to date.
-There we will inform you about different promotions like take-outs.
+
+unfortunately we are not able to serve a vegetarian menu, at the moment. As soon as we will be able to, we will inform you via our newsletter, here on the website or on Instagram & Facebook.
+Thank you for your understanding.
 
 <br>
 <br>
