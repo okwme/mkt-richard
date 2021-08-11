@@ -2,19 +2,21 @@
 <br>
 <br>
 TOMATENTARTE „Passard“     
- <br>
+<br>
 <br>
 CANNELLINIBOHNEN <br>
 Vongole und Bouchot Muschel
- <br>
+<br>
 <br>
 TATAR VOM POMMERSCHEN RIND<br>
 Tomatengelée und warmes Safranöl <br>
 <br>
+<br>
 BACHFORELLE<br>
 mit Erbsen & Estragon<br>
 geräucherte Butter<br>
- <br>
+<br>
+<br>
 SCHULTER VOM EIFLER LAMM<br>
 mit Datteln & Cashews<br>
 roter Chicchoré<br>
