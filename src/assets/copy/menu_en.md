@@ -1,7 +1,7 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-TOMATE TARDS "Passard     
+TOMATE TARTE "Passard     
  <br>
 <br>
 CANNELLINI BEANS <br>
