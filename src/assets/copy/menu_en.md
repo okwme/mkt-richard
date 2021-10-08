@@ -29,7 +29,7 @@ PEAR AND WALLNUTSCREAM <br>
 Caramell and Jogurt Ice <br>
 <br>
 <br>
-Menu 98€ — without Seabream 86€ <br>
+Menu 98€ — without Seabream 86€<br>
 <br>
 <br>
 <br/>
