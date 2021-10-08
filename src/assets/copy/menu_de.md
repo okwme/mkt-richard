@@ -1,38 +1,33 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-TOMATENTARTE „Passard“     
+ATLANTIK MAKRELE<br>
+mit Kohlrabi und Safan <br>
 <br>
 <br>
-CANNELLINIBOHNEN <br>
-Vongole und Bouchot Muschel
+CHAWANMUSHI<br>
+mit Muschelsauté, Muschel-Speck-Dashi <br>
 <br>
 <br>
-TATAR VOM POMMERSCHEN RIND<br>
-Tomatengelée und warmes Safranöl <br>
+JUNGER SELLERIE <br>
+mit Süssholz-Gemüsejus Beurre Noisette <br>
 <br>
 <br>
-BACHFORELLE<br>
-mit Erbsen & Estragon<br>
-geräucherte Butter<br>
+DORADE GRISE PETITE BATEAU <br>
+Gerösteter Radicchio di Castelfranco <br>
+mit Roscoff Zwiebeln und Fenchel <br>
 <br>
 <br>
-SCHULTER VOM EIFLER LAMM<br>
-mit Datteln & Cashews<br>
-roter Chicchoré<br>
-Zwiebel & rote Beete
+STRELITZER HIRSCHKALBSRÜCKEN <br>
+m it Aprikosencondiment Artischocken und Petersilie <br>
 <br>
 <br>
-MILLEFEUILLE<br>
-mit Werder Kirschen<br>
-Pistazie
+BIRNE MIT WALNUSSCRÈME <br>
+Karamell und Joghurteis <br>
 <br>
 <br>
-Menu komplett 98€ — ohne Forelle 86€
+Menu komplett 98 € — ohne Dorade 86€ <br>
 
-
-
-<br>
 <br>
 <br>
 
