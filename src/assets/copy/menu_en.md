@@ -1,36 +1,35 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-TOMATE TARTE "Passard     
+ATLANTIC MACKEREL <br>
+with kohlrabi and saffron <br>
 <br>
 <br>
-CANNELLINI BEANS <br>
-Vongole and Bouchot mussels
+CHAWANMUSHI <br>
+with Musselsauté <br>
+Mussel-Speck- Dashi <br>
 <br>
 <br>
-TARTAR OF POMERANIAN BEEF<br>
-Tomato gelée and warm saffron oil<br>
+YOUNG CELERIAC <br>
+with licorice-vegetables Jus <br>
+Beurre Noisette <br>
 <br>
 <br>
-BROOK TROUT<br>
-with peas & tarragon<br>
-smoked butter <br>
+BLACK SEABREAM <br>
+Roasted radicchio di Castelfranco <br>
+with Roscoff onion and fennel <br>
 <br>
 <br>
-SHOULDER OF EIFEL LAMB<br>
-with dates & cashews<br>
-red chicory<br>
-onion & beetroot <br>
+STRELITZS DEER CALF <br>
+with Apricotcondiment <br>
+artichoke and parsley <br>
 <br>
 <br>
-MILLEFEUILLE<br>
-with Werder cherries<br>
-pistachio
+PEAR AND WALLNUTSCREAM <br>
+Caramell and Jogurt Ice <br>
 <br>
 <br>
-Menu complete 98€ - without Brook Trout 86€
-
-<br>
+Menu 98€ — without Seabream 86€ <br>
 <br>
 <br>
 <br/>
