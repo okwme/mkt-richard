@@ -26,7 +26,7 @@ BIRNE MIT WALNUSSCRÈME <br>
 Karamell und Joghurteis <br>
 <br>
 <br>
-Menu komplett 98 € — ohne Dorade 86€ <br>
+Menu komplett 98 € — ohne Dorade 86€<br>
 
 <br>
 <br>
