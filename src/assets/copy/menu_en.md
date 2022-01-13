@@ -1,6 +1,5 @@
 ## OUR CURRENT MENU
 <br>
-<br>
 MÜRITZ STURGEON <br>
 RED BEET FROM A SALT DOUGH <br>
 Smoked butter and oyster hollandaise<br>
