@@ -1,32 +1,53 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-ATLANTIK MAKRELE<br>
-mit Kohlrabi und Safan <br>
+MÜRITZ STÖR <br>
+ROTE BEETE AUS DEM SALZTEIG <br>
+Geräucherte Butter und Austern-Hollandaise<br>
+<br>
+mit 10g Ocietra Imperial Kaviar   <br> 
+Aufpreis 25€<br>
 <br>
 <br>
-CHAWANMUSHI<br>
-mit Muschelsauté, Muschel-Speck-Dashi <br>
+<br>
+JUNGER SELLERIE MIT SÜSSHOLZ-GEMÜSEJUS<br>
+Beurre Noisette<br>
 <br>
 <br>
-JUNGER SELLERIE <br>
-mit Süssholz-Gemüsejus Beurre Noisette <br>
+<br>
+BACHFORELLE MIT PERIGORDTRÜFFEL <br>
+Topinambur, Spreewälder Lauch<br>
 <br>
 <br>
-DORADE GRISE PETITE BATEAU <br>
-Gerösteter Radicchio di Castelfranco <br>
-mit Roscoff Zwiebeln und Fenchel <br>
+<br>
+TORTELLINI <br>
+VON DER GESCHMORTEN LAMMSCHULTER <br>
+Schafsricotta und Löwenzahn<br>
+Puntarella und Minz–Muskatblüten–Butter<br>
 <br>
 <br>
-STRELITZER HIRSCHKALBSRÜCKEN <br>
-m it Aprikosencondiment Artischocken und Petersilie <br>
+<br>
+BLACK ANGUS RIND <br>
+VOM HOLZKOHLEGRILL <br>
+Auberginen–Tamarinden Chutney<br>
+Gerösteter Rotkohl<br>
+<br>
+Mit Japanischem Wagyu A5+<br>
+Aufpreis 30€<br>
 <br>
 <br>
-BIRNE MIT WALNUSSCRÈME <br>
-Karamell und Joghurteis <br>
+<br>
+SCHOKOLADE-KAFFEE-KARAMELL<br>
 <br>
 <br>
-Menu komplett 98 € — ohne Dorade 86€<br>
+<br>
+Menu komplett 98€ — Ohne Forelle  86€<br>
+<br>
+<br>
+<br>
+JAGGSTTALER-CAMEMBERT <br>
+Schalotten-Feigen–Orangenmarmelade <br>
+und Kümmelbrot. 14€<br>
 
 <br>
 <br>
