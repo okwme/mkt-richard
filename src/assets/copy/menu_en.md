@@ -1,35 +1,54 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-ATLANTIC MACKEREL <br>
-with kohlrabi and saffron <br>
+MÜRITZ STURGEON <br>
+RED BEET FROM A SALT DOUGH <br>
+Smoked butter and oyster hollandaise<br>
+<br>
+with 10g Ocietra Imperial Caviar    <br>
+Surcharge 25€<br>
 <br>
 <br>
-CHAWANMUSHI <br>
-with Musselsauté <br>
-Mussel-Speck- Dashi <br>
+<br>
+YOUNG CELERIAC WITH LICORICE VEGETABLE JUS<br>
+Beurre Noisette<br>
 <br>
 <br>
-YOUNG CELERIAC <br>
-with licorice-vegetables Jus <br>
-Beurre Noisette <br>
+<br>
+BROOK TROUT WITH PERIGORD TRUFFLE <br>
+Jerusalem artichoke, Spreewald leek<br>
 <br>
 <br>
-BLACK SEABREAM <br>
-Roasted radicchio di Castelfranco <br>
-with Roscoff onion and fennel <br>
+<br>
+TORTELLINI <br>
+OF BRAISED LAMBS SHOULDER<br>
+sheep ricotta and dandelion<br>
+puntarella and mint-mace butter<br>
 <br>
 <br>
-STRELITZS DEER CALF <br>
-with Apricotcondiment <br>
-artichoke and parsley <br>
+<br>
+BLACK ANGUS BEEF <br>
+FROM THE CHARCOAL GRILL <br>
+Eggplant tamarind chutney<br>
+Roasted red cabbage<br>
+<br>
+With Japanese Wagyu A5+<br>
+Surcharge 30€<br>
 <br>
 <br>
-PEAR AND WALLNUTSCREAM <br>
-Caramell and Jogurt Ice <br>
+<br>
+CHOCOLATE-COFFEE-CARAMEL<br>
 <br>
 <br>
-Menu 98€ — without Seabream 86€<br>
+<br>
+Menu complete 98€ — without trout 86€<br>
+<br>
+<br>
+<br>
+JAGGSTTALER-CAMEMBERT <br>
+shallot fig orange marmalade <br>
+and caraway bread. 14€<br>
+
 <br>
 <br>
 <br/>
