@@ -1,11 +1,41 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
 <br>
-Dear guests,<br>
-<br> 
+SMOKED BEET<br>
+WITH SCAMORZA AND HOLLANDAISE SAUCE<br>
+watercress and tarragon <br>
+<br>
+<br>
+YOUNG CELERIAC <br>
+WITH LICORICE VEGETABLE JUS<br>
+beurre noisette<br>
+<br>
+<br>
+SPREEWALD LEEK<br>
+FROM THE CHARCOAL GRILL<br>
+WITH PERIGORD TRUFFLE<br>
+<br>
+<br>
+ROASTED YOUNG RED CABBAGE<br>
+WITH APPLE AND PEAR<br>
+Green curry <br>
+<br>
+<br>
+RAVIOLI WITH DANDELION <br>
+AND SHEEP RICOTTA <br>
+Puntarella and shallot velouté<br>
+<br>
+<br>
+CHOCOLATE-COFFEE-CARAMEL<br>
+<br>
+<br>
+Menu complete 90€ - without red cabbage 80€<br>
+<br>
+<br>
+YOUNG BUCK<br>
+shallot-fig-orange jam<br>
+and caraway bread 14€<br>
 
-unfortunately we are not able to serve a vegetarian menu, at the moment. As soon as we will be able to, we will inform you via our newsletter, here on the website or on Instagram & Facebook.
-Thank you for your understanding.
 
 <br>
 <br>
