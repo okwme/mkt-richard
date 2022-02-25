@@ -1,10 +1,39 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-Liebe Gäste,<br>
+GERÄUCHERTE ROTE BEETE <br>
+MIT SCAMORZA UND HOLLANDAISE<br>
+Brunnenkresse und Estragon <br>
 <br>
-leider könne wir derzeit kein vegetarisches Menu anbieten — sobald uns dies wieder möglich ist informieren wir Sie hier, über unseren Newsletter oder auf Instagram & Facebook.
-Vielen Dank für Ihr Verständnis.
+<br>
+JUNGER SELLERIE<br>
+MIT SÜSSHOLZ-GEMÜSEJUS<br>
+Beurre Noisette<br>
+<br>
+<br>
+SPREEWÄLDER LAUCH<br>
+VOM HOLZKOHLEGRILL<br>
+MIT PERIGORD TRÜFFEL<br>
+<br>
+<br>
+GERÖSTETER JUNGER ROTKOHL<br>
+MIT APFEL UND BIRNE<br>
+Grünes Curry <br>
+<br>
+<br>
+RAVIOLI MIT LÖWENZAHN UND SCHAFS-RICOTTA <br>
+Puntarella und Schalottenvelouté<br>
+<br>
+<br>
+SCHOKOLADE - KAFFEE - KARAMELL<br>
+<br>
+<br>
+Menü komplett 90€   —  ohne Rotkohl 80€ <br>
+<br>
+<br>
+YOUNG BUCK<br>
+Schalotten - Feigen - Orangenmarmelade<br>
+und Kümmelbrot 14€ <br>
 
 <br>
 <br>
