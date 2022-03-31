@@ -23,7 +23,7 @@ RHUBARB AND GOAT MILK-ICE CREAM<br>
 honey and olive oil<br>
 <br>
 <br>
-_Menu complete 120€ — without striped bass 98€<br>_
+Menu complete 120€ — without striped bass 98€<br>
 <br>
 <br>
 <br>
