@@ -25,7 +25,7 @@ Honig und Olivenöl<br>
 <br>
 <br>
 <br>
-_Menü komplett 98€ — ohne Artischocken 90€ 
+Menü komplett 98€ — ohne Artischocken 90€ <br>
 <br>
 BLEU D`AUVERGNE<br>
 Schalotten-Feigen–Orangenmarmelade und Kümmelbrot<br>
