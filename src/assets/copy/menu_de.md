@@ -1,57 +1,33 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-MÜRITZ STÖR <br>
-ROTE BEETE AUS DEM SALZTEIG <br>
-Geräucherte Butter und Austern-Hollandaise<br>
-<br>
-mit 10g Ocietra Imperial Kaviar   <br> 
-Aufpreis 25€<br>
+GARNELE MIT SEEIGEL-CRÈME <br>
+Dehydrierte Karotte und Escabeche-Vinaigrette<br>
 <br>
 <br>
-<br>
-JUNGER SELLERIE MIT SÜSSHOLZ-GEMÜSEJUS<br>
-Beurre Noisette<br>
+ERBSEN - MORCHEL - KARTOFFEL<br>
 <br>
 <br>
-<br>
-BACHFORELLE MIT PERIGORDTRÜFFEL <br>
-Topinambur, Spreewälder Lauch<br>
-<br>
+STREIFENBARSCH MIT GEGRILLTEM LAUCH <br>
+Bärlauch und Hollandaise<br>
 <br>
 <br>
-TORTELLINI <br>
-VON DER GESCHMORTEN LAMMSCHULTER <br>
-Schafsricotta und Löwenzahn<br>
-Puntarella und Minz–Muskatblüten–Butter<br>
+TORTELLINI VON DER GESCHMORTEN LAMMSCHULTER <br>
+Löwenzahn und Minz-Muskatblüten-Butter<br>
 <br>
 <br>
-<br>
-BLACK ANGUS RIND <br>
-VOM HOLZKOHLEGRILL <br>
-Auberginen–Tamarinden Chutney<br>
-Gerösteter Rotkohl<br>
-<br>
-Mit Japanischem Wagyu A5+<br>
-Aufpreis 30€<br>
+BEELITZER POULARDE MIT ARTISCHOCKEN UND FENCHEL<br>
+Gremolata und Sherryessig-jus<br>
 <br>
 <br>
-<br>
-SCHOKOLADE-KAFFEE-KARAMELL<br>
-<br>
-<br>
-<br>
-Menu komplett 98€ — Ohne Forelle  86€<br>
+RHABARBER UND ZIEGENMILCHEIS<br>
+Honig und Olivenöl<br>
 <br>
 <br>
-<br>
-JAGGSTTALER-CAMEMBERT <br>
-Schalotten-Feigen–Orangenmarmelade <br>
-und Kümmelbrot. 14€<br>
-
+_Menu komplett 120€ — ohne Streifenbarsch 98€<br>
+_<br>
 <br>
 <br>
-
 
 *Wir akzeptieren EC, MAESTRO, VISA & Bargeld.<br>
 Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.<br>
