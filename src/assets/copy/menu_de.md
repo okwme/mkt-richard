@@ -24,8 +24,8 @@ RHABARBER UND ZIEGENMILCHEIS<br>
 Honig und Olivenöl<br>
 <br>
 <br>
-_Menu komplett 120€ — ohne Streifenbarsch 98€<br>
-_<br>
+Menu komplett 120€ — ohne Streifenbarsch 98€<br>
+<br>
 <br>
 <br>
 
