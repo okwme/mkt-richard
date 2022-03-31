@@ -1,43 +1,35 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
 <br>
-SMOKED BEET<br>
-WITH SCAMORZA AND HOLLANDAISE SAUCE<br>
-watercress and tarragon <br>
+DEHYDRATED CARROT WITH CHERMOULA<br>
+Roccolo Valtaleggio<br>
 <br>
 <br>
-YOUNG CELERIAC <br>
-WITH LICORICE VEGETABLE JUS<br>
-beurre noisette<br>
+PEAS - MOREL - POTATO<br>
 <br>
 <br>
-SPREEWALD LEEK<br>
-FROM THE CHARCOAL GRILL<br>
-WITH PERIGORD TRUFFLE<br>
+CHARCOAL-GRILLED ASPARAGUS WITH HOLLANDAISE SAUCE<br>
+Almond and onion<br>
 <br>
 <br>
-ROASTED YOUNG RED CABBAGE<br>
-WITH APPLE AND PEAR<br>
-Green curry <br>
+RAVIOLI WITH DANDELION AND SHEEP RICOTTA<br>
+shallot velouté and mint-mace butter<br>
 <br>
 <br>
-RAVIOLI WITH DANDELION <br>
-AND SHEEP RICOTTA <br>
-Puntarella and shallot velouté<br>
+ARTICHOKES AND FENNEL À LA BARIGOULE<br>
+Gremolata and young garlic<br>
 <br>
 <br>
-CHOCOLATE-COFFEE-CARAMEL<br>
+RHUBARB AND GOAT MILK ICE-CREAM<br>
+honey and olive oil<br>
 <br>
 <br>
-Menu complete 90€ - without red cabbage 80€<br>
+Menu complete 98€ — without artichokes 90€<br>
 <br>
-<br>
-YOUNG BUCK<br>
-shallot-fig-orange jam<br>
-and caraway bread 14€<br>
+BLEU D`AUVERGNE<br>
+shallot fig orange-marmalade and caraway bread<br>
+14€<br>
 
-
-<br>
 <br>
 <br>
 <br>
