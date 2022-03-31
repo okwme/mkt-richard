@@ -1,40 +1,35 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-GERÄUCHERTE ROTE BEETE <br>
-MIT SCAMORZA UND HOLLANDAISE<br>
-Brunnenkresse und Estragon <br>
+DEHYDRIERTE KAROTTE MIT CHERMOULA <br>
+Roccolo Valtaleggio <br>
 <br>
 <br>
-JUNGER SELLERIE<br>
-MIT SÜSSHOLZ-GEMÜSEJUS<br>
-Beurre Noisette<br>
+ERBSEN - MORCHEL - KARTOFFEL<br>
 <br>
 <br>
-SPREEWÄLDER LAUCH<br>
-VOM HOLZKOHLEGRILL<br>
-MIT PERIGORD TRÜFFEL<br>
+SPARGEL VOM HOLZKOHLEGRILL MIT SAUCE HOLLANDAISE<br>
+Mandel und Zwiebel<br>
 <br>
 <br>
-GERÖSTETER JUNGER ROTKOHL<br>
-MIT APFEL UND BIRNE<br>
-Grünes Curry <br>
+RAVIOLI MIT LÖWENZAHN UND SCHAFS-RICOTTA <br> 
+Schalottenvelouté und Minz–Muskatblüten–Butter<br>
 <br>
 <br>
-RAVIOLI MIT LÖWENZAHN UND SCHAFS-RICOTTA <br>
-Puntarella und Schalottenvelouté<br>
+ARTISCHOCKEN UND FENCHEL À LA BARIGOULE<br>
+Gremolata und junger Knoblauch <br>
 <br>
 <br>
-SCHOKOLADE - KAFFEE - KARAMELL<br>
+RHABARBER UND ZIEGENMILCHEIS<br>
+Honig und Olivenöl<br>
 <br>
 <br>
-Menü komplett 90€   —  ohne Rotkohl 80€ <br>
 <br>
+_Menü komplett 98€ — ohne Artischocken 90€ 
 <br>
-YOUNG BUCK<br>
-Schalotten - Feigen - Orangenmarmelade<br>
-und Kümmelbrot 14€ <br>
-
+BLEU D`AUVERGNE<br>
+Schalotten-Feigen–Orangenmarmelade und Kümmelbrot<br>
+14€
 <br>
 <br>
 <br>
