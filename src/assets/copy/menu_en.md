@@ -1,53 +1,30 @@
 ## OUR CURRENT MENU
 <br>
-MÜRITZ STURGEON <br>
-RED BEET FROM A SALT DOUGH <br>
-Smoked butter and oyster hollandaise<br>
-<br>
-with 10g Ocietra Imperial Caviar    <br>
-Surcharge 25€<br>
+SHRIMP WITH SEA URCHIN CREAM<br>
+Dehydrated carrot and Escabeche vinaigrette<br>
 <br>
 <br>
-<br>
-YOUNG CELERIAC WITH LICORICE VEGETABLE JUS<br>
-Beurre Noisette<br>
+PEAS — MOREL — POTATO<br>
 <br>
 <br>
-<br>
-BROOK TROUT WITH PERIGORD TRUFFLE <br>
-Jerusalem artichoke, Spreewald leek<br>
-<br>
+STRIPED BASS WITH GRILLED LEEK <br>
+wild garlic and hollandaise<br>
 <br>
 <br>
-TORTELLINI <br>
-OF BRAISED LAMBS SHOULDER<br>
-sheep ricotta and dandelion<br>
-puntarella and mint-mace butter<br>
+TORTELLINI OF BRAISED LAMB SHOULDER <br>
+dandelion and mint-macis butter<br>
 <br>
 <br>
-<br>
-BLACK ANGUS BEEF <br>
-FROM THE CHARCOAL GRILL <br>
-Eggplant tamarind chutney<br>
-Roasted red cabbage<br>
-<br>
-With Japanese Wagyu A5+<br>
-Surcharge 30€<br>
+BEELITZ POULARDE WITH ARTICHOKES AND FENNEL<br>
+gremolata and sherry vinegar-jus<br>
 <br>
 <br>
-<br>
-CHOCOLATE-COFFEE-CARAMEL<br>
-<br>
-<br>
-<br>
-Menu complete 98€ — without trout 86€<br>
+RHUBARB AND GOAT MILK-ICE CREAM<br>
+honey and olive oil<br>
 <br>
 <br>
+_Menu complete 120€ — without striped bass 98€<br>_
 <br>
-JAGGSTTALER-CAMEMBERT <br>
-shallot fig orange marmalade <br>
-and caraway bread. 14€<br>
-
 <br>
 <br>
 <br/>
