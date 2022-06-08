@@ -1,30 +1,37 @@
 ## OUR CURRENT MENU
 <br>
-SHRIMP WITH SEA URCHIN CREAM<br>
-Dehydrated carrot and Escabeche vinaigrette<br>
+<br>
+KAISER GARNETS WITH PEAS<br>
+tarragon and horseradish<br>
 <br>
 <br>
-PEAS — MOREL — POTATO<br>
+RATATOUILLE<br>
 <br>
 <br>
-STRIPED BASS WITH GRILLED LEEK <br>
-wild garlic and hollandaise<br>
+BOUCHOT MUSSEL AND SQUID<br>
+with miso beurre blanc and spinach<br>
 <br>
 <br>
-TORTELLINI OF BRAISED LAMB SHOULDER <br>
-dandelion and mint-macis butter<br>
+MATURED MONKFISH<br>
+WITH NDUJA-BOUILLABAISSE SAUCE<br>
+Artichokes á la Barigoule<br>
 <br>
 <br>
-BEELITZ POULARDE WITH ARTICHOKES AND FENNEL<br>
-gremolata and sherry vinegar-jus<br>
+LAMB <br>
+ROASTED ASPARAGUS AND MORELS<br>
+hollandaise and jus perlé<br>
 <br>
 <br>
-RHUBARB AND GOAT MILK-ICE CREAM<br>
+RHUBARB AND GOAT MILK ICE CREAM<br>
 honey and olive oil<br>
 <br>
 <br>
-Menu complete 120€ — without striped bass 98€<br>
+6 courses 120€ - 5 courses 98€<br>
 <br>
+<br>
+BLEU D'AUVERGNE<br>
+shallot fig orange jam and caraway bread +14€<br>
+
 <br>
 <br>
 <br/>
