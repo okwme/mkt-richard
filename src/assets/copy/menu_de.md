@@ -1,30 +1,36 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-GARNELE MIT SEEIGEL-CRÈME <br>
-Dehydrierte Karotte und Escabeche-Vinaigrette<br>
+GKAISERGRANAT MIT ERBSEN <br>
+Estragon und Meerrettich<br>
 <br>
 <br>
-ERBSEN - MORCHEL - KARTOFFEL<br>
+RATATOUILLE<br>
 <br>
 <br>
-STREIFENBARSCH MIT GEGRILLTEM LAUCH <br>
-Bärlauch und Hollandaise<br>
+BOUCHOT MUSCHEL UND TINTENFISCH<br>
+mit Miso Beurre blanc und Spinat<br>
 <br>
 <br>
-TORTELLINI VON DER GESCHMORTEN LAMMSCHULTER <br>
-Löwenzahn und Minz-Muskatblüten-Butter<br>
-<br>
-<br>
-BEELITZER POULARDE MIT ARTISCHOCKEN UND FENCHEL<br>
-Gremolata und Sherryessig-jus<br>
-<br>
+GEREIFTER SEETEUFEL<br>
+MIT NDUJA-BOUILLABAISSE SAUCE<br>
+Artischocken á la Barigoule<br>
+ <br>
+ <br>
+LAMMRÜCKEN<br>
+GEBRATENER SPARGEL UND MORCHELN<br>
+Hollandaise und Jus perlé<br>
+ <br>
 <br>
 RHABARBER UND ZIEGENMILCHEIS<br>
-Honig und Olivenöl<br>
+Honig und Olivenöl<br>
+ <br>
 <br>
+6 Gänge 120€ — 5 Gänge 98€<br>
+ <br>
 <br>
-Menu komplett 120€ — ohne Streifenbarsch 98€<br>
+BLEU D'AUVERGNE<br>
+Schalotten-Feigen-Orangenmarmelade und Kümmelbrot +14€<br>
 <br>
 <br>
 <br>
