@@ -1,7 +1,7 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-GKAISERGRANAT MIT ERBSEN <br>
+KAISERGRANAT MIT ERBSEN <br>
 Estragon und Meerrettich<br>
 <br>
 <br>
