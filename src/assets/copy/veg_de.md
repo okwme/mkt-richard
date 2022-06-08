@@ -1,35 +1,33 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-DEHYDRIERTE KAROTTE MIT CHERMOULA <br>
-Roccolo Valtaleggio <br>
+DEHYDRIERTE KAROTTE<br>
+MIT CHERMOULA Roccolo Valtaleggio<br>
+ <br>
 <br>
+RATATOUILLE<br>
+SPINAT - ONSENEI - PARMESAN<br>
+ <br>
 <br>
-ERBSEN - MORCHEL - KARTOFFEL<br>
+SPARGEL VOM HOLZKOHLEGRILL<br>
+MIT SAUCE HOLLANDAISE Mandel und Zwiebel<br>
+ <br>
 <br>
-<br>
-SPARGEL VOM HOLZKOHLEGRILL MIT SAUCE HOLLANDAISE<br>
-Mandel und Zwiebel<br>
-<br>
-<br>
-RAVIOLI MIT LÖWENZAHN UND SCHAFS-RICOTTA <br> 
+RAVIOLI<br>
+MIT LÖWENZAHN UND SCHAFS-RICOTTA<br>
 Schalottenvelouté und Minz–Muskatblüten–Butter<br>
-<br>
-<br>
-ARTISCHOCKEN UND FENCHEL À LA BARIGOULE<br>
-Gremolata und junger Knoblauch <br>
-<br>
+ <br>
 <br>
 RHABARBER UND ZIEGENMILCHEIS<br>
-Honig und Olivenöl<br>
+Honig und Olivenöl<br>
+ <br>
 <br>
+6 Gänge 98€ — 5 Gänge 90€<br>
+ <br>
 <br>
-<br>
-Menü komplett 98€ — ohne Artischocken 90€ <br>
-<br>
-BLEU D`AUVERGNE<br>
-Schalotten-Feigen–Orangenmarmelade und Kümmelbrot<br>
-14€
+BLEU D'AUVERGNE<br>
+Schalotten-Feigen-Orangenmarmelade und Kümmelbrot +14€<br>
+
 <br>
 <br>
 <br>
