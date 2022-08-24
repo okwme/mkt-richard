@@ -1,40 +1,45 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-KAISER GARNETS WITH PEAS<br>
-tarragon and horseradish<br>
+Dear guests,<br>
+<br>
+Until September 3, 2022 inclusive<br>
+we will be serving only the Menu Méditerranéen.<br>
 <br>
 <br>
-RATATOUILLE<br>
+MENU MÉDITERRANÉEN<br>
+Mer/ Mare/Bahr/ θάλασσα/<br>
 <br>
 <br>
-BOUCHOT MUSSEL AND SQUID<br>
-with miso beurre blanc and spinach<br>
+SARDINE<br>
+WITH EGGPLANT AND THAHINI<br>
+Pomegranate and chermoula<br>
 <br>
 <br>
-MATURED MONKFISH<br>
-WITH NDUJA-BOUILLABAISSE SAUCE<br>
-Artichokes á la Barigoule<br>
+KAISERGRANAT<br>
+AND CANNELLINI BEANS<br>
 <br>
 <br>
-LAMB <br>
-ROASTED ASPARAGUS AND MORELS<br>
-hollandaise and jus perlé<br>
+MUSSEL STEW<br>
+WITH SQUID AND NDUJA<br>
+Tomato and pointed peppers<br>
 <br>
 <br>
-RHUBARB AND GOAT MILK ICE CREAM<br>
-honey and olive oil<br>
+SEA BASS WITH PORCINI MUSHROOMS<br>
+Jus de Bœuf corsé<br>
+Calçotada<br>
 <br>
 <br>
-6 courses 120€ - 5 courses 98€<br>
+APRICOT FROM WERDER<br>
+almond - honey - rosemary<br>
 <br>
 <br>
-BLEU D'AUVERGNE<br>
-shallot fig orange jam and caraway bread +14€<br>
+Menu 120 Euro<br>
+<br>
+<br>
+<br>
+*We accept EC, MAESTRO, VISA & Cash
+All prices in Euro including VAT.
+In case of allergies, please contact our service staff in advance.
 
-<br>
-<br>
-<br/>
-WE ACCEPT EC, MAESTRO, VISA & Cash.<br/>
-All prices are in Euro and include legal VAT.<br/>
-In case of allergies please contact our service staff.<br/>
+Translated with www.DeepL.com/Translator (free version)
