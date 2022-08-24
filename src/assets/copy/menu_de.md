@@ -1,5 +1,10 @@
 ## UNSER AKTUELLES MENU  
 <br>
+Liebe Gäste,<br>
+<br>
+Bis einschließlich dem 3. September 2022<br>
+serviern wir ausschließlich das Menu Méditerranéen.<br>
+<br>
 <br>
 MENU MÉDITERRANÉEN <br>
 Mer/ Mare/Bahr/ θάλασσα/ <br>יָם
