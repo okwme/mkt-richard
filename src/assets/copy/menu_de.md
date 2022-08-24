@@ -1,36 +1,34 @@
 ## UNSER AKTUELLES MENU  
 <br>
 <br>
-KAISERGRANAT MIT ERBSEN <br>
-Estragon und Meerrettich<br>
+MENU MÉDITERRANÉEN <br>
+Mer/ Mare/Bahr/ θάλασσα/ <br>יָם
 <br>
 <br>
-RATATOUILLE<br>
+SARDINE<br>
+MIT AUBERGINE UND THAHINI<br>
+Granatapfel und Chermoula<br>
 <br>
 <br>
-BOUCHOT MUSCHEL UND TINTENFISCH<br>
-mit Miso Beurre blanc und Spinat<br>
+KAISERGRANAT<br>
+UND CANNELLINI BOHNEN<br>
 <br>
 <br>
-GEREIFTER SEETEUFEL<br>
-MIT NDUJA-BOUILLABAISSE SAUCE<br>
-Artischocken á la Barigoule<br>
- <br>
- <br>
-LAMMRÜCKEN<br>
-GEBRATENER SPARGEL UND MORCHELN<br>
-Hollandaise und Jus perlé<br>
- <br>
+MUSCHELEINTOPF<br>
+MIT KALMAR UND NDUJA<br>
+Tomate und Spitzpaprika<br>
 <br>
-RHABARBER UND ZIEGENMILCHEIS<br>
-Honig und Olivenöl<br>
- <br>
 <br>
-6 Gänge 120€ — 5 Gänge 98€<br>
- <br>
+WOLFSBARSCH MIT STEINPILZEN<br>
+Jus de Bœuf corsé<br>
+Calçotada<br>
 <br>
-BLEU D'AUVERGNE<br>
-Schalotten-Feigen-Orangenmarmelade und Kümmelbrot +14€<br>
+<br>
+APRIKOSE AUS WERDER<br>
+Mandel — Honig — Rosmarin<br>
+<br>
+<br>
+Menu 120 Euro<br>
 <br>
 <br>
 <br>
