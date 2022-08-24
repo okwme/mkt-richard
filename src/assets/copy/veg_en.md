@@ -1,39 +1,44 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
 <br>
-DEHYDRATED CARROT<br>
-WITH CHERMOULA <br>
-Roccolo Valtaleggio<br>
+Dear guests,<br>
+<br>
+Until September 3, 2022 inclusive<br>
+we will be serving only the Menu Méditerranéen.<br>
 <br>
 <br>
-RATATOUILLE<br>
-SPINACH - ONSEN EGG - PARMESAN CHEESE<br>
+MENU MÉDITERRANÉEN<br>
+Mer/ Mare/Bahr/ θάλασσα/<br>
 <br>
 <br>
-ASPARAGUS FROM CHARCOAL GRILL<br>
-WITH SAUCE HOLLANDAISE <br>
-almond and onion<br>
+SARDINE<br>
+WITH EGGPLANT AND THAHINI<br>
+Pomegranate and chermoula<br>
 <br>
 <br>
-RAVIOLI<br>
-WITH DANDELION AND SHEEP RICOTTA<br>
-shallot velouté and mint-mace butter<br>
+KAISERGRANAT<br>
+AND CANNELLINI BEANS<br>
 <br>
 <br>
-RHUBARB AND GOAT MILK ICE CREAM<br>
-honey and olive oil<br>
+MUSSEL STEW<br>
+WITH SQUID AND NDUJA<br>
+Tomato and pointed peppers<br>
 <br>
 <br>
-6 courses 98€ - 5 courses 90€<br>
+SEA BASS WITH PORCINI MUSHROOMS<br>
+Jus de Bœuf corsé<br>
+Calçotada<br>
 <br>
 <br>
-BLEU D'AUVERGNE<br>
-shallot fig orange marmalade and caraway bread +14€<br>
+APRICOT FROM WERDER<br>
+almond - honey - rosemary<br>
+<br>
+<br>
+Menu 120 Euro<br>
 <br>
 <br>
 <br>
-<br>
-*Wir akzeptieren EC, MAESTRO, VISA & Bargeld<br>
-Alle Preise in Euro inklusive gesetzlicher Mehrwertsteuer.<br>
-Bei Allergien wenden sie sich gerne auch schon vorab an unsere Service-Mitarbeiter.<br>
+*We accept EC, MAESTRO, VISA & Cash
+All prices in Euro including VAT. 
+In case of allergies, please contact our service staff in advance.
 
