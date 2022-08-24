@@ -39,7 +39,7 @@ Menu 120 Euro<br>
 <br>
 <br>
 *We accept EC, MAESTRO, VISA & Cash
-All prices in Euro including VAT.
+All prices in Euro including VAT. 
 In case of allergies, please contact our service staff in advance.
 
 Translated with www.DeepL.com/Translator (free version)
