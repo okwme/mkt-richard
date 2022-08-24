@@ -1,33 +1,40 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-DEHYDRIERTE KAROTTE<br>
-MIT CHERMOULA Roccolo Valtaleggio<br>
- <br>
+Liebe Gäste,<br>
 <br>
-RATATOUILLE<br>
-SPINAT - ONSENEI - PARMESAN<br>
- <br>
+Bis einschließlich dem 3. September 2022<br>
+serviern wir ausschließlich das Menu Méditerranéen.<br>
 <br>
-SPARGEL VOM HOLZKOHLEGRILL<br>
-MIT SAUCE HOLLANDAISE Mandel und Zwiebel<br>
- <br>
 <br>
-RAVIOLI<br>
-MIT LÖWENZAHN UND SCHAFS-RICOTTA<br>
-Schalottenvelouté und Minz–Muskatblüten–Butter<br>
- <br>
+MENU MÉDITERRANÉEN <br>
+Mer/ Mare/Bahr/ θάλασσα/ <br>יָם
 <br>
-RHABARBER UND ZIEGENMILCHEIS<br>
-Honig und Olivenöl<br>
- <br>
 <br>
-6 Gänge 98€ — 5 Gänge 90€<br>
- <br>
+SARDINE<br>
+MIT AUBERGINE UND THAHINI<br>
+Granatapfel und Chermoula<br>
 <br>
-BLEU D'AUVERGNE<br>
-Schalotten-Feigen-Orangenmarmelade und Kümmelbrot +14€<br>
-
+<br>
+KAISERGRANAT<br>
+UND CANNELLINI BOHNEN<br>
+<br>
+<br>
+MUSCHELEINTOPF<br>
+MIT KALMAR UND NDUJA<br>
+Tomate und Spitzpaprika<br>
+<br>
+<br>
+WOLFSBARSCH MIT STEINPILZEN<br>
+Jus de Bœuf corsé<br>
+Calçotada<br>
+<br>
+<br>
+APRIKOSE AUS WERDER<br>
+Mandel — Honig — Rosmarin<br>
+<br>
+<br>
+Menu 120 Euro<br>
 <br>
 <br>
 <br>
