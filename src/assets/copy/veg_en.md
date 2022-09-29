@@ -1,40 +1,43 @@
 ## OUR CURRENT VEGETARIAN MENU
 <br/>
 <br>
-Dear guests,<br>
-<br>
-Until September 3, 2022 inclusive<br>
-we will be serving only the Menu Méditerranéen.<br>
-<br>
-<br>
-MENU MÉDITERRANÉEN<br>
-Mer/ Mare/Bahr/ θάλασσα/<br>
+RED BEET WITH TAHINI<br>
+eggplant and chermoula
+
 <br>
 <br>
-SARDINE<br>
-WITH EGGPLANT AND THAHINI<br>
-Pomegranate and chermoula<br>
+
+TOMATO AND PIMENTON DE LA VERA
 <br>
 <br>
-KAISERGRANAT<br>
-AND CANNELLINI BEANS<br>
+
+
+WILD BROCCOLI WITH CANNELLINI BEANS<br>
+romesco and parsley
+
 <br>
 <br>
-MUSSEL STEW<br>
-WITH SQUID AND NDUJA<br>
-Tomato and pointed peppers<br>
+
+RAVIOLO WITH CORN AND ONSEN EGG<br>
+
 <br>
 <br>
-SEA BASS WITH PORCINI MUSHROOMS<br>
-Jus de Bœuf corsé<br>
-Calçotada<br>
+
+PORCINI MUSHROOMS-TART 
 <br>
 <br>
-APRICOT FROM WERDER<br>
-almond - honey - rosemary<br>
+
+
+APRICOT FROM WERDER <br>
+almond, honey and rosemary 
+
 <br>
 <br>
-Menu 120 Euro<br>
+
+
+
+6 courses 98€ — 5 courses 90€ 
+
 <br>
 <br>
 <br>
