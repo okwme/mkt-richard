@@ -1,30 +1,30 @@
 ## UNSER AKTUELLES MENU  
 <br>
-SARDINE MIT AUBERGINE UND TAHINI
+SARDINE MIT AUBERGINE UND TAHINI<br>
 Granatapfel und Chermoula
 <br>
 <br>
-TOMATE UND PIMENTON DE LA VERA 
+TOMATE UND PIMENTON DE LA VERA<br> 
 <br>
 <br>
-NORWEGISCHE JAKOBSMUSCHEL 
+NORWEGISCHE JAKOBSMUSCHEL<br> 
 MIT GERÖSTETEM SPITZKOHL
 Birne und Estragon
 <br>
 <br>
-HEILBUTT MIT STEINPILZEN 
+HEILBUTT MIT STEINPILZEN<br> 
 Jus de Bœuf corsé
 <br>
 <br>
-LAMMRÜCKEN MIT JUS PERLÉ
+LAMMRÜCKEN MIT JUS PERLÉ<br>
 Fenchel, Pfirsich und Gurke
 <br>
 <br>
-APRIKOSE AUS WERDER 
+APRIKOSE AUS WERDER<br> 
 Mandel, Honig und Rosmarin 
 <br>
 <br>
-6 Gänge 120€ — 5 Gänge 98€ 
+6 Gänge 120€ — 5 Gänge 98€<br> 
 <br>
 <br>
 <br>
