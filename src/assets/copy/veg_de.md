@@ -2,7 +2,7 @@
 <br>
 <br>
 ROTE BETE IM SALZTEIG GEGART MIT TAHINI<br>
-Aubergine und Chermoula
+Aubergine und Chermoula<br>
 
 <br>
 <br>
@@ -19,12 +19,12 @@ Romesco und Petersilie
 <br>
 <br>
 
-RAVIOLO MIT MAIS UND ONSENEI<br>
+RAVIOLO MIT MAIS UND ONSENEI
 
 <br>
 <br>
 
-STEINPILZ-TARTE<br> 
+STEINPILZ-TARTE
 
 <br>
 <br>
