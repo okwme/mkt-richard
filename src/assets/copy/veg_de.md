@@ -1,40 +1,44 @@
 ## UNSER AKTUELLES VEGETARISCHES MENU
 <br>
 <br>
-Liebe Gäste,<br>
-<br>
-Bis einschließlich dem 3. September 2022<br>
-serviern wir ausschließlich das Menu Méditerranéen.<br>
-<br>
-<br>
-MENU MÉDITERRANÉEN <br>
-Mer/ Mare/Bahr/ θάλασσα/ <br>יָם
+ROTE BETE IM SALZTEIG GEGART MIT TAHINI<br>
+Aubergine und Chermoula
+
 <br>
 <br>
-SARDINE<br>
-MIT AUBERGINE UND THAHINI<br>
-Granatapfel und Chermoula<br>
+
+TOMATE UND PIMENTON DE LA VERA<br>
 <br>
 <br>
-KAISERGRANAT<br>
-UND CANNELLINI BOHNEN<br>
+
+
+WILDER BROKKOLI<br> 
+MIT CANNELLINI BOHNEN<br>
+Romesco und Petersilie
+
 <br>
 <br>
-MUSCHELEINTOPF<br>
-MIT KALMAR UND NDUJA<br>
-Tomate und Spitzpaprika<br>
+
+RAVIOLO MIT MAIS UND ONSENEI<br>
+
 <br>
 <br>
-WOLFSBARSCH MIT STEINPILZEN<br>
-Jus de Bœuf corsé<br>
-Calçotada<br>
+
+STEINPILZ-TARTE<br> 
+
 <br>
 <br>
-APRIKOSE AUS WERDER<br>
-Mandel — Honig — Rosmarin<br>
+
+APRIKOSE AUS WERDER <br>
+Mandel, Honig und Rosmarin 
+
+
 <br>
 <br>
-Menu 120 Euro<br>
+
+
+
+6 Gänge 98€ — 5 Gänge 90€
 <br>
 <br>
 <br>
