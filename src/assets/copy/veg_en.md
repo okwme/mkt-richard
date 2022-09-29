@@ -2,12 +2,12 @@
 <br/>
 <br>
 RED BEET WITH TAHINI<br>
-eggplant and chermoula
+eggplant and chermoula<br>
 
 <br>
 <br>
 
-TOMATO AND PIMENTON DE LA VERA
+TOMATO AND PIMENTON DE LA VERA<br>
 <br>
 <br>
 
@@ -23,7 +23,7 @@ RAVIOLO WITH CORN AND ONSEN EGG<br>
 <br>
 <br>
 
-PORCINI MUSHROOMS-TART 
+PORCINI MUSHROOMS-TART <br>
 <br>
 <br>
 
