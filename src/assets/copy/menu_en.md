@@ -1,40 +1,39 @@
 ## OUR CURRENT MENU
 <br>
 <br>
-Dear guests,<br>
-<br>
-Until September 3, 2022 inclusive<br>
-we will be serving only the Menu Méditerranéen.<br>
+SARDINE WITH EGGPLANT AND TAHINI<br>
+pomegranate and chermoula
 <br>
 <br>
-MENU MÉDITERRANÉEN<br>
-Mer/ Mare/Bahr/ θάλασσα/<br>
+
+
+TOMATO AND PIMENTON DE LA VERA<br> 
 <br>
 <br>
-SARDINE<br>
-WITH EGGPLANT AND THAHINI<br>
-Pomegranate and chermoula<br>
+
+
+NORWEGIAN SCALLOP WITH POINTED CABBAGE<br>
+pear and tarragon
+
 <br>
 <br>
-KAISERGRANAT<br>
-AND CANNELLINI BEANS<br>
+
+HALIBUT WITH PORCINI MUSHROOMS<br> 
+Jus de Bœuf corsé
 <br>
 <br>
-MUSSEL STEW<br>
-WITH SQUID AND NDUJA<br>
-Tomato and pointed peppers<br>
+
+SADDLE OF LAMB WITH JUS PERLÉ<br>
+fennel, peach and cucumber
+
+
+
+APRICOT FROM WERDER <br>
+almond, honey and rosemary 
 <br>
 <br>
-SEA BASS WITH PORCINI MUSHROOMS<br>
-Jus de Bœuf corsé<br>
-Calçotada<br>
-<br>
-<br>
-APRICOT FROM WERDER<br>
-almond - honey - rosemary<br>
-<br>
-<br>
-Menu 120 Euro<br>
+6 courses 120€ — 5 courses 98€ 
+
 <br>
 <br>
 <br>
